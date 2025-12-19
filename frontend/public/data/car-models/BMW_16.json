@@ -1,0 +1,971 @@
+{
+  "countModels": 161,
+  "models": [
+    {
+      "modelId": 5114,
+      "modelName": "1 (E81)",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2012-09-01"
+    },
+    {
+      "modelId": 10974,
+      "modelName": "1 (E87)",
+      "modelYearFrom": "2003-02-01",
+      "modelYearTo": "2013-01-01"
+    },
+    {
+      "modelId": 9620,
+      "modelName": "1 (F20)",
+      "modelYearFrom": "2011-07-01",
+      "modelYearTo": "2019-06-01"
+    },
+    {
+      "modelId": 11003,
+      "modelName": "1 (F21)",
+      "modelYearFrom": "2011-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39565,
+      "modelName": "1 (F40)",
+      "modelYearFrom": "2019-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38789,
+      "modelName": "1 (F52)",
+      "modelYearFrom": "2017-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39640,
+      "modelName": "1 Van (F20)",
+      "modelYearFrom": "2015-03-01",
+      "modelYearTo": "2019-06-01"
+    },
+    {
+      "modelId": 6713,
+      "modelName": "1 Кабріолет (E88)",
+      "modelYearFrom": "2007-12-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 6441,
+      "modelName": "1 Купе (E82)",
+      "modelYearFrom": "2006-10-01",
+      "modelYearTo": "2013-10-01"
+    },
+    {
+      "modelId": 187,
+      "modelName": "1500-2000 (115, 116, 118, 121)",
+      "modelYearFrom": "1962-10-01",
+      "modelYearTo": "1972-11-01"
+    },
+    {
+      "modelId": 164,
+      "modelName": "1502-2002 (E10)",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1977-07-01"
+    },
+    {
+      "modelId": 1602,
+      "modelName": "1502-2002 Touring (E6)",
+      "modelYearFrom": "1971-01-01",
+      "modelYearTo": "1975-07-01"
+    },
+    {
+      "modelId": 1608,
+      "modelName": "1502-2002 Кабріолет (E10)",
+      "modelYearFrom": "1967-12-01",
+      "modelYearTo": "1975-10-01"
+    },
+    {
+      "modelId": 1640,
+      "modelName": "1600 GT Купе",
+      "modelYearFrom": "1967-10-01",
+      "modelYearTo": "1969-05-01"
+    },
+    {
+      "modelId": 12791,
+      "modelName": "2 Active Tourer (F45)",
+      "modelYearFrom": "2013-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42440,
+      "modelName": "2 Active Tourer (U06)",
+      "modelYearFrom": "2021-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39641,
+      "modelName": "2 Active Tourer Van (F45)",
+      "modelYearFrom": "2013-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39800,
+      "modelName": "2 Gran Coupe (F44)",
+      "modelYearFrom": "2019-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13830,
+      "modelName": "2 Gran Tourer (F46)",
+      "modelYearFrom": "2014-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39642,
+      "modelName": "2 Gran Tourer Van (F46)",
+      "modelYearFrom": "2014-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13176,
+      "modelName": "2 Кабріолет (F23)",
+      "modelYearFrom": "2014-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11599,
+      "modelName": "2 Купе (F22, F87)",
+      "modelYearFrom": "2012-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41933,
+      "modelName": "2 Купе (G42)",
+      "modelYearFrom": "2021-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 224,
+      "modelName": "2.5-3.2 Купе (E9)",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1976-03-01"
+    },
+    {
+      "modelId": 40960,
+      "modelName": "2000 Купе (120)",
+      "modelYearFrom": "1965-10-01",
+      "modelYearTo": "1970-06-01"
+    },
+    {
+      "modelId": 219,
+      "modelName": "2500-3.3 (E3)",
+      "modelYearFrom": "1968-10-01",
+      "modelYearTo": "1977-04-01"
+    },
+    {
+      "modelId": 286,
+      "modelName": "3 (E21)",
+      "modelYearFrom": "1975-06-01",
+      "modelYearTo": "1984-03-01"
+    },
+    {
+      "modelId": 290,
+      "modelName": "3 (E30)",
+      "modelYearFrom": "1982-09-01",
+      "modelYearTo": "1992-03-01"
+    },
+    {
+      "modelId": 304,
+      "modelName": "3 (E36)",
+      "modelYearFrom": "1990-09-01",
+      "modelYearTo": "1998-11-01"
+    },
+    {
+      "modelId": 3397,
+      "modelName": "3 (E46)",
+      "modelYearFrom": "1997-12-01",
+      "modelYearTo": "2005-05-01"
+    },
+    {
+      "modelId": 5389,
+      "modelName": "3 (E90)",
+      "modelYearFrom": "2004-02-01",
+      "modelYearTo": "2012-02-01"
+    },
+    {
+      "modelId": 9831,
+      "modelName": "3 (F30, F80)",
+      "modelYearFrom": "2011-11-01",
+      "modelYearTo": "2018-10-01"
+    },
+    {
+      "modelId": 39027,
+      "modelName": "3 (G20, G80, G28)",
+      "modelYearFrom": "2018-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 299,
+      "modelName": "3 Compact (E36)",
+      "modelYearFrom": "1994-01-01",
+      "modelYearTo": "2000-08-01"
+    },
+    {
+      "modelId": 4751,
+      "modelName": "3 Compact (E46)",
+      "modelYearFrom": "2001-03-01",
+      "modelYearTo": "2005-02-01"
+    },
+    {
+      "modelId": 11207,
+      "modelName": "3 Gran Turismo (F34)",
+      "modelYearFrom": "2012-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 294,
+      "modelName": "3 Touring (E30)",
+      "modelYearFrom": "1987-07-01",
+      "modelYearTo": "1994-10-01"
+    },
+    {
+      "modelId": 1311,
+      "modelName": "3 Touring (E36)",
+      "modelYearFrom": "1994-08-01",
+      "modelYearTo": "1999-12-01"
+    },
+    {
+      "modelId": 4088,
+      "modelName": "3 Touring (E46)",
+      "modelYearFrom": "1999-06-01",
+      "modelYearTo": "2005-07-01"
+    },
+    {
+      "modelId": 5430,
+      "modelName": "3 Touring (E91)",
+      "modelYearFrom": "2004-12-01",
+      "modelYearTo": "2012-12-01"
+    },
+    {
+      "modelId": 10266,
+      "modelName": "3 Touring (F31)",
+      "modelYearFrom": "2012-07-01",
+      "modelYearTo": "2019-06-01"
+    },
+    {
+      "modelId": 39625,
+      "modelName": "3 Touring (G21, G81)",
+      "modelYearFrom": "2019-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39643,
+      "modelName": "3 Touring Van (F31)",
+      "modelYearFrom": "2012-07-01",
+      "modelYearTo": "2019-06-01"
+    },
+    {
+      "modelId": 40436,
+      "modelName": "3 Touring Van (G21)",
+      "modelYearFrom": "2019-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 430,
+      "modelName": "3 Кабріолет (E30)",
+      "modelYearFrom": "1982-09-01",
+      "modelYearTo": "1993-11-01"
+    },
+    {
+      "modelId": 434,
+      "modelName": "3 Кабріолет (E36)",
+      "modelYearFrom": "1993-03-01",
+      "modelYearTo": "1999-11-01"
+    },
+    {
+      "modelId": 4571,
+      "modelName": "3 Кабріолет (E46)",
+      "modelYearFrom": "2000-04-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 6241,
+      "modelName": "3 Кабріолет (E93)",
+      "modelYearFrom": "2006-05-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 308,
+      "modelName": "3 Купе (E36)",
+      "modelYearFrom": "1991-10-01",
+      "modelYearTo": "1999-05-01"
+    },
+    {
+      "modelId": 3999,
+      "modelName": "3 Купе (E46)",
+      "modelYearFrom": "1998-12-01",
+      "modelYearTo": "2006-07-01"
+    },
+    {
+      "modelId": 5569,
+      "modelName": "3 Купе (E92)",
+      "modelYearFrom": "2005-01-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 37692,
+      "modelName": "340",
+      "modelYearFrom": "1950-01-01",
+      "modelYearTo": "1955-01-01"
+    },
+    {
+      "modelId": 11900,
+      "modelName": "4 Gran Coupe (F36)",
+      "modelYearFrom": "2014-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42096,
+      "modelName": "4 Gran Coupe (G26)",
+      "modelYearFrom": "2021-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11600,
+      "modelName": "4 Кабріолет (F33, F83)",
+      "modelYearFrom": "2013-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41276,
+      "modelName": "4 Кабріолет (G23, G83)",
+      "modelYearFrom": "2020-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11300,
+      "modelName": "4 Купе (F32, F82)",
+      "modelYearFrom": "2013-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40742,
+      "modelName": "4 Купе (G22, G82)",
+      "modelYearFrom": "2020-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 456,
+      "modelName": "5 (E12)",
+      "modelYearFrom": "1972-03-01",
+      "modelYearTo": "1981-08-01"
+    },
+    {
+      "modelId": 452,
+      "modelName": "5 (E28)",
+      "modelYearFrom": "1981-05-01",
+      "modelYearTo": "1987-12-01"
+    },
+    {
+      "modelId": 464,
+      "modelName": "5 (E34)",
+      "modelYearFrom": "1987-02-01",
+      "modelYearTo": "1995-12-01"
+    },
+    {
+      "modelId": 1449,
+      "modelName": "5 (E39)",
+      "modelYearFrom": "1995-09-01",
+      "modelYearTo": "2003-07-01"
+    },
+    {
+      "modelId": 4993,
+      "modelName": "5 (E60)",
+      "modelYearFrom": "2001-12-01",
+      "modelYearTo": "2010-03-01"
+    },
+    {
+      "modelId": 8541,
+      "modelName": "5 (F10)",
+      "modelYearFrom": "2009-01-01",
+      "modelYearTo": "2016-10-01"
+    },
+    {
+      "modelId": 37157,
+      "modelName": "5 (G30, F90)",
+      "modelYearFrom": "2016-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8274,
+      "modelName": "5 Gran Turismo (F07)",
+      "modelYearFrom": "2009-01-01",
+      "modelYearTo": "2017-02-01"
+    },
+    {
+      "modelId": 459,
+      "modelName": "5 Touring (E34)",
+      "modelYearFrom": "1991-07-01",
+      "modelYearTo": "1996-07-01"
+    },
+    {
+      "modelId": 1892,
+      "modelName": "5 Touring (E39)",
+      "modelYearFrom": "1996-09-01",
+      "modelYearTo": "2004-06-01"
+    },
+    {
+      "modelId": 5079,
+      "modelName": "5 Touring (E61)",
+      "modelYearFrom": "2004-03-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 8762,
+      "modelName": "5 Touring (F11)",
+      "modelYearFrom": "2009-11-01",
+      "modelYearTo": "2017-02-01"
+    },
+    {
+      "modelId": 37535,
+      "modelName": "5 Touring (G31)",
+      "modelYearFrom": "2017-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39644,
+      "modelName": "5 Touring Van (G31)",
+      "modelYearFrom": "2017-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1642,
+      "modelName": "501",
+      "modelYearFrom": "1952-07-01",
+      "modelYearTo": "1959-01-01"
+    },
+    {
+      "modelId": 37691,
+      "modelName": "502 Ліфтбек",
+      "modelYearFrom": "1954-09-01",
+      "modelYearTo": "1963-12-01"
+    },
+    {
+      "modelId": 3390,
+      "modelName": "503 Кабріолет (E03)",
+      "modelYearFrom": "1957-01-01",
+      "modelYearTo": "1961-05-01"
+    },
+    {
+      "modelId": 37690,
+      "modelName": "507 (E03)",
+      "modelYearFrom": "1956-10-01",
+      "modelYearTo": "1959-07-01"
+    },
+    {
+      "modelId": 486,
+      "modelName": "6 (E24)",
+      "modelYearFrom": "1975-10-01",
+      "modelYearTo": "1989-04-01"
+    },
+    {
+      "modelId": 5086,
+      "modelName": "6 (E63)",
+      "modelYearFrom": "2003-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 11034,
+      "modelName": "6 Gran Coupe (F06)",
+      "modelYearFrom": "2012-03-01",
+      "modelYearTo": "2018-10-01"
+    },
+    {
+      "modelId": 38046,
+      "modelName": "6 Gran Turismo (G32)",
+      "modelYearFrom": "2017-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5087,
+      "modelName": "6 Кабріолет (E64)",
+      "modelYearFrom": "2004-03-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 9159,
+      "modelName": "6 Кабріолет (F12)",
+      "modelYearFrom": "2010-12-01",
+      "modelYearTo": "2018-06-01"
+    },
+    {
+      "modelId": 9160,
+      "modelName": "6 Купе (F13)",
+      "modelYearFrom": "2011-07-01",
+      "modelYearTo": "2017-10-01"
+    },
+    {
+      "modelId": 4002,
+      "modelName": "600 (111)",
+      "modelYearFrom": "1957-12-01",
+      "modelYearTo": "1961-05-01"
+    },
+    {
+      "modelId": 539,
+      "modelName": "7 (E23)",
+      "modelYearFrom": "1977-05-01",
+      "modelYearTo": "1988-04-01"
+    },
+    {
+      "modelId": 544,
+      "modelName": "7 (E32)",
+      "modelYearFrom": "1985-03-01",
+      "modelYearTo": "1994-10-01"
+    },
+    {
+      "modelId": 549,
+      "modelName": "7 (E38)",
+      "modelYearFrom": "1994-03-01",
+      "modelYearTo": "2001-11-01"
+    },
+    {
+      "modelId": 4816,
+      "modelName": "7 (E65, E66, E67)",
+      "modelYearFrom": "2001-07-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 7864,
+      "modelName": "7 (F01, F02, F03, F04)",
+      "modelYearFrom": "2008-02-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 14283,
+      "modelName": "7 (G11, G12)",
+      "modelYearFrom": "2015-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42916,
+      "modelName": "7 (G70)",
+      "modelYearFrom": "2022-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 2054,
+      "modelName": "700 (107)",
+      "modelYearFrom": "1959-01-01",
+      "modelYearTo": "1966-11-01"
+    },
+    {
+      "modelId": 4805,
+      "modelName": "700 Купе (AE)",
+      "modelYearFrom": "1959-08-01",
+      "modelYearTo": "1964-04-01"
+    },
+    {
+      "modelId": 67,
+      "modelName": "8 (E31)",
+      "modelYearFrom": "1990-01-01",
+      "modelYearTo": "1999-12-01"
+    },
+    {
+      "modelId": 39628,
+      "modelName": "8 Gran Coupe (G16, F93)",
+      "modelYearFrom": "2019-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39034,
+      "modelName": "8 Кабріолет (G14, F91)",
+      "modelYearFrom": "2018-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38775,
+      "modelName": "8 Купе (G15, F92)",
+      "modelYearFrom": "2018-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12008,
+      "modelName": "C",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12107,
+      "modelName": "C1",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12108,
+      "modelName": "F",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12109,
+      "modelName": "G",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36965,
+      "modelName": "GLAS (602)",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1968-05-01"
+    },
+    {
+      "modelId": 12110,
+      "modelName": "HP",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11443,
+      "modelName": "i3 (I01)",
+      "modelYearFrom": "2013-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42095,
+      "modelName": "i4 (G26)",
+      "modelYearFrom": "2021-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11902,
+      "modelName": "i8 (I12)",
+      "modelYearFrom": "2014-03-01",
+      "modelYearTo": "2020-06-01"
+    },
+    {
+      "modelId": 38331,
+      "modelName": "i8 Roadster (I15)",
+      "modelYearFrom": "2018-03-01",
+      "modelYearTo": "2020-06-01"
+    },
+    {
+      "modelId": 1435,
+      "modelName": "ISETTA (100, 103)",
+      "modelYearFrom": "1956-01-01",
+      "modelYearTo": "1963-11-01"
+    },
+    {
+      "modelId": 41979,
+      "modelName": "iX (I20)",
+      "modelYearFrom": "2021-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40964,
+      "modelName": "iX3 (G08)",
+      "modelYearFrom": "2020-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12111,
+      "modelName": "K",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41760,
+      "modelName": "M",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1790,
+      "modelName": "M1 (E26)",
+      "modelYearFrom": "1979-05-01",
+      "modelYearTo": "1983-05-01"
+    },
+    {
+      "modelId": 14014,
+      "modelName": "R",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12735,
+      "modelName": "R 100",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12741,
+      "modelName": "R 1100",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12742,
+      "modelName": "R 1150",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12743,
+      "modelName": "R 1200",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39516,
+      "modelName": "R 1250",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40728,
+      "modelName": "R 18",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13552,
+      "modelName": "R 25",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14697,
+      "modelName": "R 45",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12739,
+      "modelName": "R 50",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12740,
+      "modelName": "R 60",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12733,
+      "modelName": "R 65",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14480,
+      "modelName": "R 69",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12737,
+      "modelName": "R 75",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12738,
+      "modelName": "R 80",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12734,
+      "modelName": "R 850",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12736,
+      "modelName": "R 90",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13082,
+      "modelName": "R 900",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12112,
+      "modelName": "S",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1641,
+      "modelName": "V8 Купе (502)",
+      "modelYearFrom": "1958-10-01",
+      "modelYearTo": "1966-07-01"
+    },
+    {
+      "modelId": 8277,
+      "modelName": "X1 (E84)",
+      "modelYearFrom": "2009-03-01",
+      "modelYearTo": "2015-06-01"
+    },
+    {
+      "modelId": 14383,
+      "modelName": "X1 (F48)",
+      "modelYearFrom": "2014-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 43036,
+      "modelName": "X1 (U11)",
+      "modelYearFrom": "2022-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39645,
+      "modelName": "X1 Van (F48)",
+      "modelYearFrom": "2015-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38274,
+      "modelName": "X2 (F39)",
+      "modelYearFrom": "2017-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5085,
+      "modelName": "X3 (E83)",
+      "modelYearFrom": "2003-01-01",
+      "modelYearTo": "2011-12-01"
+    },
+    {
+      "modelId": 8763,
+      "modelName": "X3 (F25)",
+      "modelYearFrom": "2010-09-01",
+      "modelYearTo": "2017-08-01"
+    },
+    {
+      "modelId": 38057,
+      "modelName": "X3 (G01, F97)",
+      "modelYearFrom": "2017-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39646,
+      "modelName": "X3 Van (G01)",
+      "modelYearFrom": "2017-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11945,
+      "modelName": "X4 (F26)",
+      "modelYearFrom": "2013-05-01",
+      "modelYearTo": "2018-03-01"
+    },
+    {
+      "modelId": 38487,
+      "modelName": "X4 (G02, F98)",
+      "modelYearFrom": "2018-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4343,
+      "modelName": "X5 (E53)",
+      "modelYearFrom": "2000-01-01",
+      "modelYearTo": "2006-12-01"
+    },
+    {
+      "modelId": 6414,
+      "modelName": "X5 (E70)",
+      "modelYearFrom": "2006-02-01",
+      "modelYearTo": "2013-07-01"
+    },
+    {
+      "modelId": 11482,
+      "modelName": "X5 (F15, F85)",
+      "modelYearFrom": "2013-08-01",
+      "modelYearTo": "2018-07-01"
+    },
+    {
+      "modelId": 38751,
+      "modelName": "X5 (G05, F95)",
+      "modelYearFrom": "2018-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40437,
+      "modelName": "X5 Van (G05)",
+      "modelYearFrom": "2019-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7378,
+      "modelName": "X6 (E71, E72)",
+      "modelYearFrom": "2007-06-01",
+      "modelYearTo": "2014-07-01"
+    },
+    {
+      "modelId": 12845,
+      "modelName": "X6 (F16, F86)",
+      "modelYearFrom": "2014-08-01",
+      "modelYearTo": "2019-07-01"
+    },
+    {
+      "modelId": 39650,
+      "modelName": "X6 (G06, F96)",
+      "modelYearFrom": "2019-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39060,
+      "modelName": "X7 (G07)",
+      "modelYearFrom": "2019-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 138,
+      "modelName": "Z1 Roadster",
+      "modelYearFrom": "1988-06-01",
+      "modelYearTo": "1991-06-01"
+    },
+    {
+      "modelId": 3483,
+      "modelName": "Z3 Roadster (E36)",
+      "modelYearFrom": "1995-10-01",
+      "modelYearTo": "2003-01-01"
+    },
+    {
+      "modelId": 2079,
+      "modelName": "Z3 Купе (E36)",
+      "modelYearFrom": "1997-04-01",
+      "modelYearTo": "2003-06-01"
+    },
+    {
+      "modelId": 4924,
+      "modelName": "Z4 Roadster (E85)",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 8033,
+      "modelName": "Z4 Roadster (E89)",
+      "modelYearFrom": "2009-02-01",
+      "modelYearTo": "2016-08-01"
+    },
+    {
+      "modelId": 39028,
+      "modelName": "Z4 Roadster (G29)",
+      "modelYearFrom": "2018-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5516,
+      "modelName": "Z4 Купе (E86)",
+      "modelYearFrom": "2006-03-01",
+      "modelYearTo": "2009-01-01"
+    },
+    {
+      "modelId": 4279,
+      "modelName": "Z8 Roadster (E52)",
+      "modelYearFrom": "2000-01-01",
+      "modelYearTo": "2003-12-01"
+    }
+  ]
+}

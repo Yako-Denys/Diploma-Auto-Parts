@@ -1,0 +1,60 @@
+class AdditionalInfo {
+  capture_status: string | null;
+  capture_amount: number | null;
+  reservation_data: string;
+  transaction_id: number;
+  bank_response_code: string | null;
+  bank_response_description: string | null;
+  client_fee: number;
+  settlement_fee: number;
+  bank_name: string | null;
+  bank_country: string | null;
+  card_type: string;
+  card_product: string;
+  card_category: string | null;
+  timeend: string;
+  ipaddress_v4: string;
+  payment_method: string;
+  version_3ds: number;
+  is_test: boolean;
+}
+
+export class FondyCallbackResponseDto {
+  rrn: string;
+  masked_card: string;
+  sender_cell_phone: string;
+  sender_account: string;
+  currency: string;
+  fee: string;
+  reversal_amount: string;
+  settlement_amount: string;
+  actual_amount: string;
+  response_description: string;
+  sender_email: string;
+  order_status: string;
+  response_status: string;
+  order_time: string;
+  actual_currency: string;
+  order_id: string;
+  tran_type: string;
+  eci: string;
+  settlement_date: string;
+  payment_system: string;
+  approval_code: string;
+  merchant_id: number;
+  settlement_currency: string;
+  payment_id: number;
+  card_bin: number;
+  response_code: string;
+  card_type: string;
+  amount: string;
+  signature: string;
+  product_id: string;
+  merchant_data: string;
+  rectoken: string;
+  rectoken_lifetime: string;
+  verification_status: string;
+  parent_order_id: string;
+  additional_info: AdditionalInfo;
+  response_signature_string: string;
+}

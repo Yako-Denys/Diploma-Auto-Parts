@@ -1,0 +1,2231 @@
+{
+  "countModels": 371,
+  "models": [
+    {
+      "modelId": 9901,
+      "modelName": "1000",
+      "modelYearFrom": "2008-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10899,
+      "modelName": "1500",
+      "modelYearFrom": "1971-04-01",
+      "modelYearTo": "1988-11-01"
+    },
+    {
+      "modelId": 10900,
+      "modelName": "1500 Універсал",
+      "modelYearFrom": "1971-01-01",
+      "modelYearTo": "1990-12-01"
+    },
+    {
+      "modelId": 13063,
+      "modelName": "1800",
+      "modelYearFrom": "1973-03-01",
+      "modelYearTo": "1976-08-01"
+    },
+    {
+      "modelId": 31044,
+      "modelName": "2000 GTX Ліфтбек",
+      "modelYearFrom": "1988-09-01",
+      "modelYearTo": "1990-12-01"
+    },
+    {
+      "modelId": 31045,
+      "modelName": "330 Ліфтбек",
+      "modelYearFrom": "1962-09-01",
+      "modelYearTo": "1964-12-01"
+    },
+    {
+      "modelId": 31046,
+      "modelName": "400 Кабріолет",
+      "modelYearFrom": "1981-09-01",
+      "modelYearTo": "1983-12-01"
+    },
+    {
+      "modelId": 31047,
+      "modelName": "400 Купе",
+      "modelYearFrom": "1981-09-01",
+      "modelYearTo": "1983-12-01"
+    },
+    {
+      "modelId": 31048,
+      "modelName": "400 Ліфтбек",
+      "modelYearFrom": "1981-09-01",
+      "modelYearTo": "1983-12-01"
+    },
+    {
+      "modelId": 31049,
+      "modelName": "440 Ліфтбек",
+      "modelYearFrom": "1962-09-01",
+      "modelYearTo": "1964-12-01"
+    },
+    {
+      "modelId": 31050,
+      "modelName": "600 Кабріолет",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1986-12-01"
+    },
+    {
+      "modelId": 31051,
+      "modelName": "600 Купе",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1986-12-01"
+    },
+    {
+      "modelId": 31052,
+      "modelName": "600 Ліфтбек",
+      "modelYearFrom": "1982-09-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 31053,
+      "modelName": "880 Ліфтбек",
+      "modelYearFrom": "1962-09-01",
+      "modelYearTo": "1964-12-01"
+    },
+    {
+      "modelId": 31054,
+      "modelName": "A100 Пікап",
+      "modelYearFrom": "1963-09-01",
+      "modelYearTo": "1970-12-01"
+    },
+    {
+      "modelId": 31056,
+      "modelName": "ARIES Купе",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1989-12-01"
+    },
+    {
+      "modelId": 31057,
+      "modelName": "ARIES Ліфтбек",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1989-12-01"
+    },
+    {
+      "modelId": 31058,
+      "modelName": "ARIES Універсал",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 41788,
+      "modelName": "AS 250 II Пікап",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2002-09-01"
+    },
+    {
+      "modelId": 41789,
+      "modelName": "AS 250 II Платформа/шасі",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2002-09-01"
+    },
+    {
+      "modelId": 41782,
+      "modelName": "AS 250 Пікап",
+      "modelYearFrom": "1974-08-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 41783,
+      "modelName": "AS 250 Платформа/шасі",
+      "modelYearFrom": "1974-08-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31059,
+      "modelName": "ASPEN Купе",
+      "modelYearFrom": "1975-09-01",
+      "modelYearTo": "1982-12-01"
+    },
+    {
+      "modelId": 31060,
+      "modelName": "ASPEN Ліфтбек",
+      "modelYearFrom": "1975-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31061,
+      "modelName": "ASPEN Універсал",
+      "modelYearFrom": "1975-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 10022,
+      "modelName": "ATOS",
+      "modelYearFrom": "2000-08-01",
+      "modelYearTo": "2012-12-01"
+    },
+    {
+      "modelId": 9902,
+      "modelName": "ATTITUDE",
+      "modelYearFrom": "2006-01-01",
+      "modelYearTo": "2011-12-01"
+    },
+    {
+      "modelId": 10280,
+      "modelName": "ATTITUDE",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42449,
+      "modelName": "ATTITUDE (LA)",
+      "modelYearFrom": "2014-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6410,
+      "modelName": "AVENGER",
+      "modelYearFrom": "2007-06-01",
+      "modelYearTo": "2014-12-01"
+    },
+    {
+      "modelId": 31062,
+      "modelName": "AVENGER Купе",
+      "modelYearFrom": "1994-09-01",
+      "modelYearTo": "2000-12-01"
+    },
+    {
+      "modelId": 35077,
+      "modelName": "B100 Standard Cargo Van",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 35078,
+      "modelName": "B100 Standard Cargo Van",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 35075,
+      "modelName": "B100 Standard Passenger Van",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 35080,
+      "modelName": "B150 Standard Cargo Van",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35079,
+      "modelName": "B150 Standard Passenger Van",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35082,
+      "modelName": "B1500 Extended Cargo Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "1998-12-01"
+    },
+    {
+      "modelId": 36187,
+      "modelName": "B1500 Standard Cargo Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 35081,
+      "modelName": "B1500 Standard Passenger Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "1998-12-01"
+    },
+    {
+      "modelId": 35085,
+      "modelName": "B200 Extended Cargo Van",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 14997,
+      "modelName": "B200 Extended Passenger Van",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35086,
+      "modelName": "B200 Standard Cargo Van",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31073,
+      "modelName": "B200 Standard Cargo Van",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 14996,
+      "modelName": "B200 Standard Passenger Van",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35084,
+      "modelName": "B200 Автобус",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 35083,
+      "modelName": "B200 Автобус",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 35088,
+      "modelName": "B250 Extended Cargo Van",
+      "modelYearFrom": "1981-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35087,
+      "modelName": "B250 Extended Passenger Van",
+      "modelYearFrom": "1981-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35848,
+      "modelName": "B250 Standard Cargo Van",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35849,
+      "modelName": "B250 Standard Passenger Van",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35089,
+      "modelName": "B2500 Extended Cargo Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 35090,
+      "modelName": "B2500 Extended Passenger Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 36186,
+      "modelName": "B2500 Standard Cargo Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 14573,
+      "modelName": "B2500 Standard Passenger Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 35091,
+      "modelName": "B300 Cutaway Van",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 31085,
+      "modelName": "B300 Extended Cargo Van",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 14999,
+      "modelName": "B300 Extended Cargo Van",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35092,
+      "modelName": "B300 Extended Passenger Van",
+      "modelYearFrom": "1979-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31087,
+      "modelName": "B300 Standard Cargo Van",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1979-12-01"
+    },
+    {
+      "modelId": 35094,
+      "modelName": "B350 Extended Cargo Van",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1994-12-01"
+    },
+    {
+      "modelId": 35093,
+      "modelName": "B350 Extended Passenger Van",
+      "modelYearFrom": "1979-09-01",
+      "modelYearTo": "1994-12-01"
+    },
+    {
+      "modelId": 36189,
+      "modelName": "B350 Standard Cargo Van",
+      "modelYearFrom": "1979-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 36188,
+      "modelName": "B350 Standard Passenger Van",
+      "modelYearFrom": "1979-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35096,
+      "modelName": "B3500 Extended Cargo Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 35095,
+      "modelName": "B3500 Extended Passenger Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 36185,
+      "modelName": "B3500 Standard Cargo Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 36184,
+      "modelName": "B3500 Standard Passenger Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 39101,
+      "modelName": "BRISA Купе",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2007-03-01"
+    },
+    {
+      "modelId": 37264,
+      "modelName": "BRISA Ліфтбек",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2007-03-01"
+    },
+    {
+      "modelId": 37263,
+      "modelName": "BRISA Хетчбек",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2007-03-01"
+    },
+    {
+      "modelId": 5628,
+      "modelName": "CALIBER",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7416,
+      "modelName": "CARAVAN",
+      "modelYearFrom": "1990-09-01",
+      "modelYearTo": "1995-12-01"
+    },
+    {
+      "modelId": 7415,
+      "modelName": "CARAVAN",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1990-09-01"
+    },
+    {
+      "modelId": 4859,
+      "modelName": "CARAVAN",
+      "modelYearFrom": "1995-01-01",
+      "modelYearTo": "2001-03-01"
+    },
+    {
+      "modelId": 10276,
+      "modelName": "CARAVAN",
+      "modelYearFrom": "2008-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4864,
+      "modelName": "CARAVAN (RG_)",
+      "modelYearFrom": "2000-02-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 31099,
+      "modelName": "CARAVAN Mini Cargo Van",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1990-12-01"
+    },
+    {
+      "modelId": 35100,
+      "modelName": "CARAVAN Mini Cargo Van",
+      "modelYearFrom": "1990-09-01",
+      "modelYearTo": "1995-12-01"
+    },
+    {
+      "modelId": 35101,
+      "modelName": "CARAVAN Mini Cargo Van",
+      "modelYearFrom": "2000-09-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 41685,
+      "modelName": "CARAVAN VAN (NS)",
+      "modelYearFrom": "1995-01-01",
+      "modelYearTo": "2001-03-01"
+    },
+    {
+      "modelId": 31102,
+      "modelName": "CB300 Cutaway Van",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31103,
+      "modelName": "CHALLENGER Hardtop",
+      "modelYearFrom": "1969-09-01",
+      "modelYearTo": "1974-12-01"
+    },
+    {
+      "modelId": 14310,
+      "modelName": "CHALLENGER Кабріолет",
+      "modelYearFrom": "1969-09-01",
+      "modelYearTo": "1974-12-01"
+    },
+    {
+      "modelId": 31104,
+      "modelName": "CHALLENGER Купе",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1983-12-01"
+    },
+    {
+      "modelId": 10273,
+      "modelName": "CHALLENGER Купе",
+      "modelYearFrom": "2007-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10272,
+      "modelName": "CHARGER",
+      "modelYearFrom": "2010-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6794,
+      "modelName": "CHARGER",
+      "modelYearFrom": "2005-06-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 14213,
+      "modelName": "CHARGER Hardtop",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1970-12-01"
+    },
+    {
+      "modelId": 14211,
+      "modelName": "CHARGER Hardtop",
+      "modelYearFrom": "1970-09-01",
+      "modelYearTo": "1974-12-01"
+    },
+    {
+      "modelId": 31107,
+      "modelName": "CHARGER Hardtop",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 31105,
+      "modelName": "CHARGER Купе",
+      "modelYearFrom": "1970-09-01",
+      "modelYearTo": "1974-12-01"
+    },
+    {
+      "modelId": 31106,
+      "modelName": "CHARGER Купе",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31108,
+      "modelName": "CHARGER Хетчбек",
+      "modelYearFrom": "1982-09-01",
+      "modelYearTo": "1987-12-01"
+    },
+    {
+      "modelId": 31111,
+      "modelName": "COLT Купе",
+      "modelYearFrom": "1973-09-01",
+      "modelYearTo": "1979-12-01"
+    },
+    {
+      "modelId": 14304,
+      "modelName": "COLT Ліфтбек",
+      "modelYearFrom": "1986-09-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 35106,
+      "modelName": "COLT Ліфтбек",
+      "modelYearFrom": "1984-09-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 35107,
+      "modelName": "COLT Ліфтбек",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "1995-12-01"
+    },
+    {
+      "modelId": 31110,
+      "modelName": "COLT Ліфтбек",
+      "modelYearFrom": "1970-09-01",
+      "modelYearTo": "1974-12-01"
+    },
+    {
+      "modelId": 31114,
+      "modelName": "COLT Ліфтбек",
+      "modelYearFrom": "1973-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 10394,
+      "modelName": "COLT Ліфтбек",
+      "modelYearFrom": "1976-09-01",
+      "modelYearTo": "1979-12-01"
+    },
+    {
+      "modelId": 35102,
+      "modelName": "COLT Універсал",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1984-12-01"
+    },
+    {
+      "modelId": 31115,
+      "modelName": "COLT Універсал",
+      "modelYearFrom": "1970-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 35104,
+      "modelName": "COLT Універсал",
+      "modelYearFrom": "1988-09-01",
+      "modelYearTo": "1994-12-01"
+    },
+    {
+      "modelId": 35103,
+      "modelName": "COLT Універсал",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 31112,
+      "modelName": "COLT Хардтоп",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 14626,
+      "modelName": "COLT Хетчбек",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "1995-12-01"
+    },
+    {
+      "modelId": 31113,
+      "modelName": "COLT Хетчбек",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1984-12-01"
+    },
+    {
+      "modelId": 35105,
+      "modelName": "COLT Хетчбек",
+      "modelYearFrom": "1984-09-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 10395,
+      "modelName": "COLT Хетчбек",
+      "modelYearFrom": "1988-09-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 31116,
+      "modelName": "CONQUEST Хетчбек",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1986-12-01"
+    },
+    {
+      "modelId": 37265,
+      "modelName": "CORONET Кабріолет",
+      "modelYearFrom": "1964-09-01",
+      "modelYearTo": "1970-12-01"
+    },
+    {
+      "modelId": 37294,
+      "modelName": "CORONET Купе",
+      "modelYearFrom": "1964-09-01",
+      "modelYearTo": "1970-12-01"
+    },
+    {
+      "modelId": 31118,
+      "modelName": "CORONET Купе",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1975-12-01"
+    },
+    {
+      "modelId": 37443,
+      "modelName": "CORONET Ліфтбек",
+      "modelYearFrom": "1964-09-01",
+      "modelYearTo": "1970-12-01"
+    },
+    {
+      "modelId": 31117,
+      "modelName": "CORONET Ліфтбек",
+      "modelYearFrom": "1970-09-01",
+      "modelYearTo": "1976-12-01"
+    },
+    {
+      "modelId": 31119,
+      "modelName": "CORONET Ліфтбек",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1976-12-01"
+    },
+    {
+      "modelId": 37445,
+      "modelName": "CORONET Універсал",
+      "modelYearFrom": "1970-09-01",
+      "modelYearTo": "1976-12-01"
+    },
+    {
+      "modelId": 37442,
+      "modelName": "CORONET Універсал",
+      "modelYearFrom": "1964-09-01",
+      "modelYearTo": "1970-12-01"
+    },
+    {
+      "modelId": 31120,
+      "modelName": "CORONET Універсал",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1976-12-01"
+    },
+    {
+      "modelId": 31124,
+      "modelName": "D100 Cab & Chassis",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 35108,
+      "modelName": "D100 Extended Cab Pickup",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 36183,
+      "modelName": "D100 Standard Cab Pickup",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35109,
+      "modelName": "D100 Standard Cab Pickup",
+      "modelYearFrom": "1971-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31127,
+      "modelName": "D100 Standard Cab Pickup",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1975-12-01"
+    },
+    {
+      "modelId": 31129,
+      "modelName": "D150 Cab & Chassis",
+      "modelYearFrom": "1976-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 35110,
+      "modelName": "D150 Extended Cab Pickup",
+      "modelYearFrom": "1976-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31130,
+      "modelName": "D150 Extended Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31131,
+      "modelName": "D150 Standard Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35111,
+      "modelName": "D150 Standard Cab Pickup",
+      "modelYearFrom": "1971-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 14133,
+      "modelName": "D150 Платформа/шасі",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31132,
+      "modelName": "D200 Cab & Chassis",
+      "modelYearFrom": "1971-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 35112,
+      "modelName": "D200 Crew Cab Pickup",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31136,
+      "modelName": "D200 Standard Cab Pickup",
+      "modelYearFrom": "1964-09-01",
+      "modelYearTo": "1971-12-01"
+    },
+    {
+      "modelId": 36259,
+      "modelName": "D200 Standard Cab Pickup",
+      "modelYearFrom": "1971-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31138,
+      "modelName": "D250 Cab & Chassis",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35113,
+      "modelName": "D250 Crew Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 14134,
+      "modelName": "D250 Extended Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31141,
+      "modelName": "D250 Standard Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 12747,
+      "modelName": "D300 Cab & Chassis",
+      "modelYearFrom": "1971-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 35948,
+      "modelName": "D300 Crew Cab Pickup",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 35949,
+      "modelName": "D300 Extended Cab Pickup",
+      "modelYearFrom": "1979-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 35950,
+      "modelName": "D300 Standard Cab Pickup",
+      "modelYearFrom": "1971-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31146,
+      "modelName": "D300 Standard Cab Pickup",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1971-12-01"
+    },
+    {
+      "modelId": 31148,
+      "modelName": "D350 Cab & Chassis",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35115,
+      "modelName": "D350 Crew Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35951,
+      "modelName": "D350 Standard Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31152,
+      "modelName": "D400 Cab & Chassis",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 31153,
+      "modelName": "D450 Cab & Chassis",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 35116,
+      "modelName": "D50 Standard Cab Pickup",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1986-12-01"
+    },
+    {
+      "modelId": 6797,
+      "modelName": "DAKOTA",
+      "modelYearFrom": "2003-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6795,
+      "modelName": "DAKOTA",
+      "modelYearFrom": "1989-10-01",
+      "modelYearTo": "1995-09-01"
+    },
+    {
+      "modelId": 6796,
+      "modelName": "DAKOTA",
+      "modelYearFrom": "1995-10-01",
+      "modelYearTo": "2005-02-01"
+    },
+    {
+      "modelId": 35118,
+      "modelName": "DAKOTA Crew Cab Pickup",
+      "modelYearFrom": "1996-09-01",
+      "modelYearTo": "2004-12-01"
+    },
+    {
+      "modelId": 11392,
+      "modelName": "DAKOTA Crew Cab Pickup",
+      "modelYearFrom": "2004-09-01",
+      "modelYearTo": "2011-12-01"
+    },
+    {
+      "modelId": 14298,
+      "modelName": "DAKOTA Extended Cab Pickup",
+      "modelYearFrom": "2004-09-01",
+      "modelYearTo": "2011-12-01"
+    },
+    {
+      "modelId": 31160,
+      "modelName": "DAKOTA Extended Cab Pickup",
+      "modelYearFrom": "1986-09-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 11393,
+      "modelName": "DAKOTA Extended Cab Pickup",
+      "modelYearFrom": "1996-09-01",
+      "modelYearTo": "2004-12-01"
+    },
+    {
+      "modelId": 31161,
+      "modelName": "DAKOTA Standard Cab Pickup",
+      "modelYearFrom": "1986-09-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 11625,
+      "modelName": "DAKOTA Standard Cab Pickup",
+      "modelYearFrom": "1996-09-01",
+      "modelYearTo": "2004-12-01"
+    },
+    {
+      "modelId": 31158,
+      "modelName": "DAKOTA Кабріолет",
+      "modelYearFrom": "1989-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 10270,
+      "modelName": "DART",
+      "modelYearFrom": "2012-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12746,
+      "modelName": "DART",
+      "modelYearFrom": "1969-01-01",
+      "modelYearTo": "1987-12-01"
+    },
+    {
+      "modelId": 38241,
+      "modelName": "DART Кабріолет",
+      "modelYearFrom": "1966-09-01",
+      "modelYearTo": "1969-12-01"
+    },
+    {
+      "modelId": 31163,
+      "modelName": "DART Купе",
+      "modelYearFrom": "1969-09-01",
+      "modelYearTo": "1976-12-01"
+    },
+    {
+      "modelId": 37289,
+      "modelName": "DART Купе",
+      "modelYearFrom": "1966-09-01",
+      "modelYearTo": "1969-12-01"
+    },
+    {
+      "modelId": 14127,
+      "modelName": "DART Купе",
+      "modelYearFrom": "1982-09-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 14129,
+      "modelName": "DART Ліфтбек",
+      "modelYearFrom": "1982-09-01",
+      "modelYearTo": "1989-12-01"
+    },
+    {
+      "modelId": 31164,
+      "modelName": "DART Ліфтбек",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1976-12-01"
+    },
+    {
+      "modelId": 31162,
+      "modelName": "DART Ліфтбек",
+      "modelYearFrom": "1959-09-01",
+      "modelYearTo": "1974-12-01"
+    },
+    {
+      "modelId": 14125,
+      "modelName": "DART Універсал",
+      "modelYearFrom": "1976-09-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 31165,
+      "modelName": "DAYTONA Хетчбек",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31166,
+      "modelName": "DELUXE Ліфтбек",
+      "modelYearFrom": "1945-09-01",
+      "modelYearTo": "1948-12-01"
+    },
+    {
+      "modelId": 31169,
+      "modelName": "DIPLOMAT Купе",
+      "modelYearFrom": "1976-09-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 31170,
+      "modelName": "DIPLOMAT Ліфтбек",
+      "modelYearFrom": "1976-09-01",
+      "modelYearTo": "1989-12-01"
+    },
+    {
+      "modelId": 31171,
+      "modelName": "DIPLOMAT Універсал",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1989-12-01"
+    },
+    {
+      "modelId": 14769,
+      "modelName": "DM 350 Stripped Chassis",
+      "modelYearFrom": "1990-09-01",
+      "modelYearTo": "1991-12-01"
+    },
+    {
+      "modelId": 9978,
+      "modelName": "DURANGO (DN)",
+      "modelYearFrom": "1997-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 6798,
+      "modelName": "DURANGO (HB)",
+      "modelYearFrom": "2003-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 10275,
+      "modelName": "DURANGO (WD)",
+      "modelYearFrom": "2010-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 31173,
+      "modelName": "DYNASTY Ліфтбек",
+      "modelYearFrom": "1987-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 37295,
+      "modelName": "FORZA",
+      "modelYearFrom": "2013-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7417,
+      "modelName": "GRAND CARAVAN",
+      "modelYearFrom": "2007-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14493,
+      "modelName": "GRAND CARAVAN Mini Cargo Van",
+      "modelYearFrom": "2007-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 31174,
+      "modelName": "GRAND CARAVAN Mini Cargo Van",
+      "modelYearFrom": "2000-09-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 35124,
+      "modelName": "GRAND CARAVAN Mini Passenger Van",
+      "modelYearFrom": "2000-08-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 35123,
+      "modelName": "GRAND CARAVAN Mini Passenger Van",
+      "modelYearFrom": "1994-09-01",
+      "modelYearTo": "2000-12-01"
+    },
+    {
+      "modelId": 35122,
+      "modelName": "GRAND CARAVAN Mini Passenger Van",
+      "modelYearFrom": "1989-09-01",
+      "modelYearTo": "1995-12-01"
+    },
+    {
+      "modelId": 31175,
+      "modelName": "GRAND CARAVAN Mini Passenger Van",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1990-12-01"
+    },
+    {
+      "modelId": 34337,
+      "modelName": "H100 Standard Cab Pickup",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2011-12-01"
+    },
+    {
+      "modelId": 10279,
+      "modelName": "H100 Автобус",
+      "modelYearFrom": "2009-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10929,
+      "modelName": "H100 Платформа/шасі",
+      "modelYearFrom": "2007-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10282,
+      "modelName": "H100 Фургон",
+      "modelYearFrom": "2007-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10281,
+      "modelName": "i 10",
+      "modelYearFrom": "2007-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6799,
+      "modelName": "INTREPID",
+      "modelYearFrom": "1992-04-01",
+      "modelYearTo": "1998-12-01"
+    },
+    {
+      "modelId": 6800,
+      "modelName": "INTREPID",
+      "modelYearFrom": "1996-08-01",
+      "modelYearTo": "2004-09-01"
+    },
+    {
+      "modelId": 7572,
+      "modelName": "JOURNEY",
+      "modelYearFrom": "2008-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42658,
+      "modelName": "JOURNEY (GS_)",
+      "modelYearFrom": "2022-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41686,
+      "modelName": "JOURNEY VAN (JC)",
+      "modelYearFrom": "2008-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 31177,
+      "modelName": "LANCER Ліфтбек",
+      "modelYearFrom": "1960-09-01",
+      "modelYearTo": "1962-12-01"
+    },
+    {
+      "modelId": 31178,
+      "modelName": "LANCER Хетчбек",
+      "modelYearFrom": "1984-09-01",
+      "modelYearTo": "1989-12-01"
+    },
+    {
+      "modelId": 31181,
+      "modelName": "MAGNUM Купе",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1979-12-01"
+    },
+    {
+      "modelId": 14132,
+      "modelName": "MAGNUM Купе",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1982-12-01"
+    },
+    {
+      "modelId": 13297,
+      "modelName": "MAGNUM Купе",
+      "modelYearFrom": "1982-09-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 31182,
+      "modelName": "MAGNUM Універсал",
+      "modelYearFrom": "2004-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 31185,
+      "modelName": "MINI RAM Mini Cargo Van",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 31187,
+      "modelName": "MIRADA Хардтоп",
+      "modelYearFrom": "1979-09-01",
+      "modelYearTo": "1983-12-01"
+    },
+    {
+      "modelId": 37458,
+      "modelName": "MONACO Купе",
+      "modelYearFrom": "1973-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 37448,
+      "modelName": "MONACO Купе",
+      "modelYearFrom": "1968-09-01",
+      "modelYearTo": "1973-12-01"
+    },
+    {
+      "modelId": 31192,
+      "modelName": "MONACO Ліфтбек",
+      "modelYearFrom": "1973-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 31190,
+      "modelName": "MONACO Ліфтбек",
+      "modelYearFrom": "1964-09-01",
+      "modelYearTo": "1974-12-01"
+    },
+    {
+      "modelId": 35126,
+      "modelName": "MONACO Ліфтбек",
+      "modelYearFrom": "1989-09-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 35125,
+      "modelName": "MONACO Ліфтбек",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 35127,
+      "modelName": "MONACO Універсал",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 37450,
+      "modelName": "MONACO Універсал",
+      "modelYearFrom": "1968-09-01",
+      "modelYearTo": "1973-12-01"
+    },
+    {
+      "modelId": 31193,
+      "modelName": "MONACO Універсал",
+      "modelYearFrom": "1973-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 35128,
+      "modelName": "MONACO Хардтоп",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 31191,
+      "modelName": "MONACO Хардтоп",
+      "modelYearFrom": "1973-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 36901,
+      "modelName": "NEON",
+      "modelYearFrom": "2016-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4848,
+      "modelName": "NEON",
+      "modelYearFrom": "1994-05-01",
+      "modelYearTo": "1999-08-01"
+    },
+    {
+      "modelId": 4855,
+      "modelName": "NEON II",
+      "modelYearFrom": "1999-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6801,
+      "modelName": "NEON Купе",
+      "modelYearFrom": "1994-01-01",
+      "modelYearTo": "1999-09-01"
+    },
+    {
+      "modelId": 7573,
+      "modelName": "NITRO",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2012-12-01"
+    },
+    {
+      "modelId": 41681,
+      "modelName": "NITRO VAN (KA)",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2011-12-01"
+    },
+    {
+      "modelId": 31196,
+      "modelName": "OMNI Хетчбек",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1990-12-01"
+    },
+    {
+      "modelId": 31198,
+      "modelName": "P200 Ліфтбек",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1972-12-01"
+    },
+    {
+      "modelId": 31199,
+      "modelName": "P300 Ліфтбек",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1972-12-01"
+    },
+    {
+      "modelId": 13032,
+      "modelName": "PHOENIX Ліфтбек",
+      "modelYearFrom": "1960-01-01",
+      "modelYearTo": "1973-01-01"
+    },
+    {
+      "modelId": 13030,
+      "modelName": "PHOENIX Хардтоп",
+      "modelYearFrom": "1967-01-01",
+      "modelYearTo": "1973-01-01"
+    },
+    {
+      "modelId": 10933,
+      "modelName": "POLARA Купе",
+      "modelYearFrom": "1976-09-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 37453,
+      "modelName": "POLARA Купе",
+      "modelYearFrom": "1968-09-01",
+      "modelYearTo": "1973-12-01"
+    },
+    {
+      "modelId": 37454,
+      "modelName": "POLARA Ліфтбек",
+      "modelYearFrom": "1968-09-01",
+      "modelYearTo": "1973-12-01"
+    },
+    {
+      "modelId": 31201,
+      "modelName": "POLARA Ліфтбек",
+      "modelYearFrom": "1961-09-01",
+      "modelYearTo": "1964-12-01"
+    },
+    {
+      "modelId": 37455,
+      "modelName": "POLARA Універсал",
+      "modelYearFrom": "1968-09-01",
+      "modelYearTo": "1973-12-01"
+    },
+    {
+      "modelId": 31202,
+      "modelName": "POWER RAM 50 Standard Cab Pickup",
+      "modelYearFrom": "1982-09-01",
+      "modelYearTo": "1986-12-01"
+    },
+    {
+      "modelId": 31203,
+      "modelName": "RAIDER Джип",
+      "modelYearFrom": "1986-09-01",
+      "modelYearTo": "1989-12-01"
+    },
+    {
+      "modelId": 11381,
+      "modelName": "RAM 100 Пікап",
+      "modelYearFrom": "1988-10-01",
+      "modelYearTo": "1993-09-01"
+    },
+    {
+      "modelId": 10949,
+      "modelName": "RAM 150 Пікап",
+      "modelYearFrom": "1980-06-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35131,
+      "modelName": "RAM 1500 Crew Cab Pickup",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 35954,
+      "modelName": "RAM 1500 Crew Cab Pickup",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 13126,
+      "modelName": "RAM 1500 Extended Cab Pickup",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 11632,
+      "modelName": "RAM 1500 Extended Cab Pickup",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 35132,
+      "modelName": "RAM 1500 Extended Crew Cab Pickup",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 35956,
+      "modelName": "RAM 1500 Standard Cab Pickup",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 13125,
+      "modelName": "RAM 1500 Standard Cab Pickup",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 11633,
+      "modelName": "RAM 1500 Standard Cab Pickup",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 35130,
+      "modelName": "RAM 1500 VAN Extended Cargo Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 35958,
+      "modelName": "RAM 1500 VAN Standard Cargo Van",
+      "modelYearFrom": "1995-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 31211,
+      "modelName": "RAM 1500 VAN Standard Passenger Van",
+      "modelYearFrom": "1994-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 10952,
+      "modelName": "RAM 1500 Пікап (BE, BR)",
+      "modelYearFrom": "1991-04-01",
+      "modelYearTo": "2002-08-01"
+    },
+    {
+      "modelId": 10951,
+      "modelName": "RAM 1500 Пікап (D1, DC, DH, DM, DR)",
+      "modelYearFrom": "2001-06-01",
+      "modelYearTo": "2008-09-01"
+    },
+    {
+      "modelId": 10950,
+      "modelName": "RAM 1500 Пікап (DJ, DS)",
+      "modelYearFrom": "2008-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10948,
+      "modelName": "RAM 250 Пікап",
+      "modelYearFrom": "1980-06-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31213,
+      "modelName": "RAM 2500 Cab & Chassis",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 11636,
+      "modelName": "RAM 2500 Cab & Chassis",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 12972,
+      "modelName": "RAM 2500 Crew Cab Pickup",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 35959,
+      "modelName": "RAM 2500 Crew Cab Pickup",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 13123,
+      "modelName": "RAM 2500 Crew Cab Pickup (DJ)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 35133,
+      "modelName": "RAM 2500 Extended Cab Pickup",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 13124,
+      "modelName": "RAM 2500 Extended Crew Cab Pickup",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 35960,
+      "modelName": "RAM 2500 Extended Crew Cab Pickup",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 35134,
+      "modelName": "RAM 2500 Standard Cab Pickup",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 11640,
+      "modelName": "RAM 2500 Standard Cab Pickup",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 12974,
+      "modelName": "RAM 2500 Standard Cab Pickup (DJ)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 35135,
+      "modelName": "RAM 2500 VAN Extended Cargo Van",
+      "modelYearFrom": "1994-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 35961,
+      "modelName": "RAM 2500 VAN Standard Cargo Van",
+      "modelYearFrom": "1995-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 31220,
+      "modelName": "RAM 2500 VAN Standard Passenger Van",
+      "modelYearFrom": "1998-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 11117,
+      "modelName": "RAM 2500 Пікап (BE, BR)",
+      "modelYearFrom": "1993-01-01",
+      "modelYearTo": "2002-12-01"
+    },
+    {
+      "modelId": 11120,
+      "modelName": "RAM 2500 Пікап (D1, DC, DH, DM, DR)",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 10903,
+      "modelName": "RAM 2500 Пікап (DJ, DS)",
+      "modelYearFrom": "2008-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10947,
+      "modelName": "RAM 350 Пікап",
+      "modelYearFrom": "1980-06-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31222,
+      "modelName": "RAM 3500 Cab & Chassis",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 11643,
+      "modelName": "RAM 3500 Cab & Chassis",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 13122,
+      "modelName": "RAM 3500 Cab & Chassis (DD)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 35962,
+      "modelName": "RAM 3500 Crew Cab Pickup",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 35137,
+      "modelName": "RAM 3500 Crew Cab Pickup",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 13130,
+      "modelName": "RAM 3500 Crew Cab Pickup (D2)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11645,
+      "modelName": "RAM 3500 Extended Cab Pickup",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "2002-12-01"
+    },
+    {
+      "modelId": 35963,
+      "modelName": "RAM 3500 Extended Crew Cab Pickup",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 13131,
+      "modelName": "RAM 3500 Extended Crew Cab Pickup",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11646,
+      "modelName": "RAM 3500 Standard Cab Pickup",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 35138,
+      "modelName": "RAM 3500 Standard Cab Pickup",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 12975,
+      "modelName": "RAM 3500 Standard Cab Pickup (D2)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 36083,
+      "modelName": "RAM 3500 VAN Extended Cargo Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 31227,
+      "modelName": "RAM 3500 VAN Extended Passenger Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 35136,
+      "modelName": "RAM 3500 VAN Standard Cargo Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 14301,
+      "modelName": "RAM 3500 VAN Standard Passenger Van",
+      "modelYearFrom": "1993-09-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 11338,
+      "modelName": "RAM 3500 Пікап (BR, BE)",
+      "modelYearFrom": "1993-01-01",
+      "modelYearTo": "2002-12-01"
+    },
+    {
+      "modelId": 11339,
+      "modelName": "RAM 3500 Пікап (DR, DH, D1, DC, DM)",
+      "modelYearFrom": "2002-01-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 35139,
+      "modelName": "RAM 4000 Standard Cab Pickup",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 14299,
+      "modelName": "RAM 4000 Standard Cab Pickup",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "2002-12-01"
+    },
+    {
+      "modelId": 39666,
+      "modelName": "RAM 4000 Платформа/шасі",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "2002-12-01"
+    },
+    {
+      "modelId": 11341,
+      "modelName": "RAM 4000 Платформа/шасі (DH, DR, D1, DC, DM)",
+      "modelYearFrom": "2005-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10910,
+      "modelName": "RAM 4000 Платформа/шасі (DR, D1, DC, DM, DH)",
+      "modelYearFrom": "2005-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36162,
+      "modelName": "RAM 4500 Cab & Chassis (DM)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 35140,
+      "modelName": "RAM 50 Extended Cab Pickup",
+      "modelYearFrom": "1982-09-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 31231,
+      "modelName": "RAM 50 Standard Cab Pickup",
+      "modelYearFrom": "1986-09-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 13525,
+      "modelName": "RAM 50 Standard Cab Pickup",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1986-12-01"
+    },
+    {
+      "modelId": 36163,
+      "modelName": "RAM 5500 Cab & Chassis (DM)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 14467,
+      "modelName": "RAM Van",
+      "modelYearFrom": "2002-03-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 9775,
+      "modelName": "RAM Van",
+      "modelYearFrom": "1995-06-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 6805,
+      "modelName": "RAM Van",
+      "modelYearFrom": "1993-08-01",
+      "modelYearTo": "2003-09-01"
+    },
+    {
+      "modelId": 36936,
+      "modelName": "RAM Автобус",
+      "modelYearFrom": "1993-01-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 6804,
+      "modelName": "RAM Автобус",
+      "modelYearFrom": "1985-10-01",
+      "modelYearTo": "1993-09-01"
+    },
+    {
+      "modelId": 31233,
+      "modelName": "RAMCHARGER",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 6806,
+      "modelName": "RAMCHARGER",
+      "modelYearFrom": "1980-01-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 9653,
+      "modelName": "RAMCHARGER II",
+      "modelYearFrom": "1999-01-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 31234,
+      "modelName": "RAMPAGE Standard Cab Pickup",
+      "modelYearFrom": "1981-09-01",
+      "modelYearTo": "1984-12-01"
+    },
+    {
+      "modelId": 31235,
+      "modelName": "RD200 Cab & Chassis",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 31236,
+      "modelName": "RD200 Crew Cab Pickup",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31237,
+      "modelName": "RD200 Extended Cab Pickup",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31238,
+      "modelName": "RD200 Standard Cab Pickup",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31239,
+      "modelName": "ROYAL MINI RAM Standard Cargo Van",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1987-12-01"
+    },
+    {
+      "modelId": 31241,
+      "modelName": "ROYAL MONACO Ліфтбек",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 31242,
+      "modelName": "ROYAL MONACO Універсал",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 31240,
+      "modelName": "ROYAL MONACO Хардтоп",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 9977,
+      "modelName": "SHADOW",
+      "modelYearFrom": "1986-09-01",
+      "modelYearTo": "1997-12-01"
+    },
+    {
+      "modelId": 31245,
+      "modelName": "SHADOW Кабріолет",
+      "modelYearFrom": "1990-09-01",
+      "modelYearTo": "1994-09-01"
+    },
+    {
+      "modelId": 9976,
+      "modelName": "SPIRIT",
+      "modelYearFrom": "1988-02-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 31249,
+      "modelName": "SPRINTER 2500 Cab & Chassis",
+      "modelYearFrom": "1994-09-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 34847,
+      "modelName": "SPRINTER 2500 Standard Cargo Van",
+      "modelYearFrom": "2005-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 38258,
+      "modelName": "SPRINTER 2500 Standard Cargo Van (VA)",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "2006-12-01"
+    },
+    {
+      "modelId": 34846,
+      "modelName": "SPRINTER 2500 Standard Passenger Van",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 31251,
+      "modelName": "SPRINTER 2500 Standard Passenger Van",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "2006-12-01"
+    },
+    {
+      "modelId": 37290,
+      "modelName": "SPRINTER 3500 Cab & Chassis",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "2006-12-01"
+    },
+    {
+      "modelId": 34849,
+      "modelName": "SPRINTER 3500 Cab & Chassis",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 34848,
+      "modelName": "SPRINTER 3500 Standard Cargo Van",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 31253,
+      "modelName": "SPRINTER 3500 Standard Cargo Van",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "2006-12-01"
+    },
+    {
+      "modelId": 34850,
+      "modelName": "SPRINTER 3500 Standard Passenger Van",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 31255,
+      "modelName": "ST. REGIS Ліфтбек",
+      "modelYearFrom": "1978-09-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 31256,
+      "modelName": "STEALTH Хетчбек",
+      "modelYearFrom": "1990-09-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 4857,
+      "modelName": "STRATUS",
+      "modelYearFrom": "1994-09-01",
+      "modelYearTo": "2001-04-01"
+    },
+    {
+      "modelId": 11312,
+      "modelName": "STRATUS II",
+      "modelYearFrom": "2000-10-01",
+      "modelYearTo": "2006-10-01"
+    },
+    {
+      "modelId": 31257,
+      "modelName": "STRATUS Купе",
+      "modelYearFrom": "2000-09-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 34343,
+      "modelName": "SX Ліфтбек",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 31259,
+      "modelName": "TRUCK Standard Cab Pickup",
+      "modelYearFrom": "1952-09-01",
+      "modelYearTo": "1960-12-01"
+    },
+    {
+      "modelId": 10894,
+      "modelName": "VERNA Ліфтбек",
+      "modelYearFrom": "2002-10-01",
+      "modelYearTo": "2006-08-01"
+    },
+    {
+      "modelId": 10893,
+      "modelName": "VERNA Хетчбек",
+      "modelYearFrom": "2002-10-01",
+      "modelYearTo": "2006-08-01"
+    },
+    {
+      "modelId": 5094,
+      "modelName": "VIPER Кабріолет",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2017-12-01"
+    },
+    {
+      "modelId": 6808,
+      "modelName": "VIPER Кабріолет",
+      "modelYearFrom": "1991-10-01",
+      "modelYearTo": "2002-09-01"
+    },
+    {
+      "modelId": 13204,
+      "modelName": "VIPER Купе",
+      "modelYearFrom": "2012-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6809,
+      "modelName": "VIPER Купе",
+      "modelYearFrom": "1991-10-01",
+      "modelYearTo": "2002-09-01"
+    },
+    {
+      "modelId": 13203,
+      "modelName": "VIPER Купе",
+      "modelYearFrom": "2007-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 10277,
+      "modelName": "VIPER Купе",
+      "modelYearFrom": "2003-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14206,
+      "modelName": "VISION Ліфтбек",
+      "modelYearFrom": "2014-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 31263,
+      "modelName": "W100 Cab & Chassis",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 35146,
+      "modelName": "W100 Extended Cab Pickup",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31265,
+      "modelName": "W100 Standard Cab Pickup",
+      "modelYearFrom": "1971-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 11136,
+      "modelName": "W100 Standard Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31266,
+      "modelName": "W100 Standard Cab Pickup",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1971-12-01"
+    },
+    {
+      "modelId": 31268,
+      "modelName": "W150 Cab & Chassis",
+      "modelYearFrom": "1976-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 35148,
+      "modelName": "W150 Extended Cab Pickup",
+      "modelYearFrom": "1976-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 36182,
+      "modelName": "W150 Extended Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 39098,
+      "modelName": "W150 Standard Cab Pickup",
+      "modelYearFrom": "1971-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31270,
+      "modelName": "W150 Standard Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31271,
+      "modelName": "W200 Cab & Chassis",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1978-12-01"
+    },
+    {
+      "modelId": 35150,
+      "modelName": "W200 Crew Cab Pickup",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 36196,
+      "modelName": "W200 Extended Cab Pickup",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31274,
+      "modelName": "W200 Standard Cab Pickup",
+      "modelYearFrom": "1972-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31275,
+      "modelName": "W200 Standard Cab Pickup",
+      "modelYearFrom": "1968-09-01",
+      "modelYearTo": "1973-12-01"
+    },
+    {
+      "modelId": 31277,
+      "modelName": "W250 Cab & Chassis",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35151,
+      "modelName": "W250 Crew Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 11649,
+      "modelName": "W250 Extended Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 36085,
+      "modelName": "W250 Standard Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 31281,
+      "modelName": "W300 Cab & Chassis",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1980-12-01"
+    },
+    {
+      "modelId": 31283,
+      "modelName": "W300 Standard Cab Pickup",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1971-12-01"
+    },
+    {
+      "modelId": 31282,
+      "modelName": "W300 Standard Cab Pickup",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1975-12-01"
+    },
+    {
+      "modelId": 31284,
+      "modelName": "W300 Пікап",
+      "modelYearFrom": "1959-09-01",
+      "modelYearTo": "1967-12-01"
+    },
+    {
+      "modelId": 31285,
+      "modelName": "W350 Cab & Chassis",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 36218,
+      "modelName": "W350 Crew Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 11650,
+      "modelName": "W350 Extended Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 35152,
+      "modelName": "W350 Standard Cab Pickup",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1993-12-01"
+    }
+  ]
+}

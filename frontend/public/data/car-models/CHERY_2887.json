@@ -1,0 +1,527 @@
+{
+  "countModels": 87,
+  "models": [
+    {
+      "modelId": 6962,
+      "modelName": "A1",
+      "modelYearFrom": "2006-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13442,
+      "modelName": "A160",
+      "modelYearFrom": "2005-05-01",
+      "modelYearTo": "2009-06-01"
+    },
+    {
+      "modelId": 7837,
+      "modelName": "A3 Ліфтбек",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 8054,
+      "modelName": "A3 Хетчбек",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2017-12-01"
+    },
+    {
+      "modelId": 5852,
+      "modelName": "A5",
+      "modelYearFrom": "2004-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38234,
+      "modelName": "ARAUCA",
+      "modelYearFrom": "2017-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13342,
+      "modelName": "ARRIZO 3",
+      "modelYearFrom": "2014-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36502,
+      "modelName": "ARRIZO 5",
+      "modelYearFrom": "2016-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 43569,
+      "modelName": "ARRIZO 5 GT",
+      "modelYearFrom": "2022-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41569,
+      "modelName": "ARRIZO 5 PLUS",
+      "modelYearFrom": "2020-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42486,
+      "modelName": "ARRIZO 5e",
+      "modelYearFrom": "2016-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11460,
+      "modelName": "ARRIZO 7",
+      "modelYearFrom": "2013-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 43620,
+      "modelName": "ARRIZO 8",
+      "modelYearFrom": "2022-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40684,
+      "modelName": "ARRIZO e",
+      "modelYearFrom": "2019-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39042,
+      "modelName": "ARRIZO GX",
+      "modelYearFrom": "2018-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14164,
+      "modelName": "ARRIZO M7",
+      "modelYearFrom": "2015-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6104,
+      "modelName": "COWIN",
+      "modelYearFrom": "2003-03-01",
+      "modelYearTo": "2011-12-01"
+    },
+    {
+      "modelId": 9811,
+      "modelName": "COWIN 1",
+      "modelYearFrom": "2010-05-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 9813,
+      "modelName": "COWIN 2",
+      "modelYearFrom": "2010-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9814,
+      "modelName": "COWIN 3",
+      "modelYearFrom": "2010-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10183,
+      "modelName": "COWIN 5",
+      "modelYearFrom": "2012-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13598,
+      "modelName": "CRISTAL Ліфтбек",
+      "modelYearFrom": "2013-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13597,
+      "modelName": "CRISTAL Хетчбек",
+      "modelYearFrom": "2013-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11786,
+      "modelName": "E3",
+      "modelYearFrom": "2013-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9806,
+      "modelName": "E5",
+      "modelYearFrom": "2011-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7071,
+      "modelName": "EASTAR",
+      "modelYearFrom": "2003-06-01",
+      "modelYearTo": "2012-12-01"
+    },
+    {
+      "modelId": 9820,
+      "modelName": "EASTAR",
+      "modelYearFrom": "2010-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6964,
+      "modelName": "EASTAR A6",
+      "modelYearFrom": "2003-08-01",
+      "modelYearTo": "2014-12-01"
+    },
+    {
+      "modelId": 7084,
+      "modelName": "EASTAR CROSS",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13340,
+      "modelName": "eQ",
+      "modelYearFrom": "2014-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37906,
+      "modelName": "eQ1",
+      "modelYearFrom": "2017-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39381,
+      "modelName": "eQ2",
+      "modelYearFrom": "2018-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42498,
+      "modelName": "eQ5",
+      "modelYearFrom": "2020-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9817,
+      "modelName": "FENGYUN 2 Fastback",
+      "modelYearFrom": "2009-10-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 9816,
+      "modelName": "FENGYUN 2 Хетчбек",
+      "modelYearFrom": "2009-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37236,
+      "modelName": "FENGYUN Ліфтбек",
+      "modelYearFrom": "2001-03-01",
+      "modelYearTo": "2008-07-01"
+    },
+    {
+      "modelId": 5829,
+      "modelName": "FENGYUN Хетчбек",
+      "modelYearFrom": "2001-03-01",
+      "modelYearTo": "2008-07-01"
+    },
+    {
+      "modelId": 11437,
+      "modelName": "FULWIN Ліфтбек",
+      "modelYearFrom": "2006-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11435,
+      "modelName": "FULWIN Хетчбек",
+      "modelYearFrom": "2006-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13443,
+      "modelName": "J2",
+      "modelYearFrom": "2013-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10573,
+      "modelName": "J5 (SQR)",
+      "modelYearFrom": "2006-02-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 37141,
+      "modelName": "MVM315",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37139,
+      "modelName": "MVM530",
+      "modelYearFrom": "2006-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37140,
+      "modelName": "MVMX33",
+      "modelYearFrom": "2005-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 43073,
+      "modelName": "OMODA 5",
+      "modelYearFrom": "2022-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38334,
+      "modelName": "ORIENTAL SON",
+      "modelYearFrom": "2003-02-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 11432,
+      "modelName": "Q21",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13439,
+      "modelName": "Q22",
+      "modelYearFrom": "2010-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39438,
+      "modelName": "QQ",
+      "modelYearFrom": "2013-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36373,
+      "modelName": "QQ",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42611,
+      "modelName": "QQ BINGQILIN",
+      "modelYearFrom": "2021-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6967,
+      "modelName": "QQ3",
+      "modelYearFrom": "2003-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6968,
+      "modelName": "QQ6",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8139,
+      "modelName": "QQME",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": "2014-12-01"
+    },
+    {
+      "modelId": 13062,
+      "modelName": "RELY",
+      "modelYearFrom": "2014-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13444,
+      "modelName": "S-18",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41217,
+      "modelName": "S61",
+      "modelYearFrom": "2020-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14174,
+      "modelName": "TAXIM",
+      "modelYearFrom": "2007-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9810,
+      "modelName": "TIGGO",
+      "modelYearFrom": "2010-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6176,
+      "modelName": "TIGGO",
+      "modelYearFrom": "2002-03-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 9809,
+      "modelName": "TIGGO 3",
+      "modelYearFrom": "2007-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14139,
+      "modelName": "TIGGO 3",
+      "modelYearFrom": "2014-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37282,
+      "modelName": "TIGGO 3x",
+      "modelYearFrom": "2016-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42113,
+      "modelName": "TIGGO 3x",
+      "modelYearFrom": "2021-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41077,
+      "modelName": "TIGGO 3x PLUS",
+      "modelYearFrom": "2020-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11742,
+      "modelName": "TIGGO 5",
+      "modelYearFrom": "2013-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38252,
+      "modelName": "TIGGO 5x",
+      "modelYearFrom": "2017-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37163,
+      "modelName": "TIGGO 7",
+      "modelYearFrom": "2016-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40548,
+      "modelName": "TIGGO 7",
+      "modelYearFrom": "2020-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42445,
+      "modelName": "TIGGO 7 PLUS",
+      "modelYearFrom": "2021-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38716,
+      "modelName": "TIGGO 8",
+      "modelYearFrom": "2018-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41348,
+      "modelName": "TIGGO 8 PLUS",
+      "modelYearFrom": "2020-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42927,
+      "modelName": "TIGGO 8 PRO",
+      "modelYearFrom": "2022-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9812,
+      "modelName": "TIGGO DR",
+      "modelYearFrom": "2009-12-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 40681,
+      "modelName": "TIGGO e",
+      "modelYearFrom": "2019-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14275,
+      "modelName": "TIGGO FL",
+      "modelYearFrom": "2013-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13587,
+      "modelName": "TRANSCAB Платформа/шасі",
+      "modelYearFrom": "2012-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13586,
+      "modelName": "TRANSCAR Автобус",
+      "modelYearFrom": "2012-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40823,
+      "modelName": "TRANSCOM Автобус",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40825,
+      "modelName": "TRANSCOM Фургон",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11434,
+      "modelName": "V2 Автобус",
+      "modelYearFrom": "2007-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37352,
+      "modelName": "V2 Фургон",
+      "modelYearFrom": "2007-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6194,
+      "modelName": "V5 Мінівен",
+      "modelYearFrom": "2006-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42929,
+      "modelName": "WUJIE PRO",
+      "modelYearFrom": "2022-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11438,
+      "modelName": "X1",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37355,
+      "modelName": "Y380",
+      "modelYearFrom": "2011-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39667,
+      "modelName": "YOKI",
+      "modelYearFrom": "2013-06-01",
+      "modelYearTo": null
+    }
+  ]
+}

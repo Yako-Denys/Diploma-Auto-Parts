@@ -1,0 +1,35 @@
+{
+  "countModels": 5,
+  "models": [
+    {
+      "modelId": 36821,
+      "modelName": "CHIRON",
+      "modelYearFrom": "2016-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38950,
+      "modelName": "DIVO",
+      "modelYearFrom": "2018-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4230,
+      "modelName": "EB 110",
+      "modelYearFrom": "1991-09-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 4796,
+      "modelName": "VEYRON EB 16.4",
+      "modelYearFrom": "2003-10-01",
+      "modelYearTo": "2012-12-01"
+    },
+    {
+      "modelId": 10177,
+      "modelName": "VEYRON Grand Sport EB 16.4",
+      "modelYearFrom": "2009-03-01",
+      "modelYearTo": null
+    }
+  ]
+}

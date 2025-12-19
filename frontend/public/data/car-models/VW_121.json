@@ -1,0 +1,1691 @@
+{
+  "countModels": 281,
+  "models": [
+    {
+      "modelId": 36956,
+      "modelName": "1500 (311)",
+      "modelYearFrom": "1983-01-01",
+      "modelYearTo": "1991-10-01"
+    },
+    {
+      "modelId": 36957,
+      "modelName": "1500 RURAL",
+      "modelYearFrom": "1983-02-01",
+      "modelYearTo": "1990-09-01"
+    },
+    {
+      "modelId": 507,
+      "modelName": "1500,1600 (31)",
+      "modelYearFrom": "1961-04-01",
+      "modelYearTo": "1973-12-01"
+    },
+    {
+      "modelId": 1621,
+      "modelName": "1500,1600 Variant (36)",
+      "modelYearFrom": "1961-04-01",
+      "modelYearTo": "1973-07-01"
+    },
+    {
+      "modelId": 1620,
+      "modelName": "1500,1600 Хетчбек (31)",
+      "modelYearFrom": "1965-08-01",
+      "modelYearTo": "1975-03-01"
+    },
+    {
+      "modelId": 4644,
+      "modelName": "166",
+      "modelYearFrom": "1942-02-01",
+      "modelYearTo": "1945-12-01"
+    },
+    {
+      "modelId": 512,
+      "modelName": "181",
+      "modelYearFrom": "1969-09-01",
+      "modelYearTo": "1983-11-01"
+    },
+    {
+      "modelId": 1616,
+      "modelName": "411,412",
+      "modelYearFrom": "1968-07-01",
+      "modelYearTo": "1975-03-01"
+    },
+    {
+      "modelId": 405,
+      "modelName": "412 Variant",
+      "modelYearFrom": "1969-09-01",
+      "modelYearTo": "1975-03-01"
+    },
+    {
+      "modelId": 8636,
+      "modelName": "AMAROK (2HA, 2HB, S1B, S6B, S7A, S7B)",
+      "modelYearFrom": "2010-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14172,
+      "modelName": "AMAROK Платформа/шасі (S1B, S6B, S7B)",
+      "modelYearFrom": "2011-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36973,
+      "modelName": "AMEO (631)",
+      "modelYearFrom": "2016-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7946,
+      "modelName": "APOLLO Ліфтбек",
+      "modelYearFrom": "1989-08-01",
+      "modelYearTo": "1993-04-01"
+    },
+    {
+      "modelId": 37842,
+      "modelName": "ARTEON (3H7, 3H8)",
+      "modelYearFrom": "2017-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41006,
+      "modelName": "ARTEON SHOOTING BRAKE (3H9)",
+      "modelYearFrom": "2020-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38193,
+      "modelName": "ATLAS (CA1)",
+      "modelYearFrom": "2016-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40840,
+      "modelName": "ATLAS CROSS SPORT (CMC)",
+      "modelYearFrom": "2019-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9710,
+      "modelName": "BEETLE (5C1, 5C2)",
+      "modelYearFrom": "2011-04-01",
+      "modelYearTo": "2019-07-01"
+    },
+    {
+      "modelId": 10735,
+      "modelName": "BEETLE Кабріолет (5C7, 5C8)",
+      "modelYearFrom": "2011-12-01",
+      "modelYearTo": "2019-07-01"
+    },
+    {
+      "modelId": 11598,
+      "modelName": "BORA (9M2)",
+      "modelYearFrom": "2005-01-01",
+      "modelYearTo": "2014-12-01"
+    },
+    {
+      "modelId": 3884,
+      "modelName": "BORA I (1J2)",
+      "modelYearFrom": "1998-10-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 4125,
+      "modelName": "BORA Variant (1J6)",
+      "modelYearFrom": "1999-05-01",
+      "modelYearTo": "2005-05-01"
+    },
+    {
+      "modelId": 9917,
+      "modelName": "BRASILIA",
+      "modelYearFrom": "1973-10-01",
+      "modelYearTo": "1982-12-01"
+    },
+    {
+      "modelId": 36197,
+      "modelName": "CADDY ALLTRACK Мінівен (SAB)",
+      "modelYearFrom": "2015-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36198,
+      "modelName": "CADDY ALLTRACK Фургон/мінівен (SAA)",
+      "modelYearFrom": "2015-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42705,
+      "modelName": "CADDY CALIFORNIA V Camper (SBB, SBJ)",
+      "modelYearFrom": "2020-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3943,
+      "modelName": "CADDY I (14)",
+      "modelYearFrom": "1979-08-01",
+      "modelYearTo": "1992-07-01"
+    },
+    {
+      "modelId": 5393,
+      "modelName": "CADDY II Мінівен (9K9B)",
+      "modelYearFrom": "1995-11-01",
+      "modelYearTo": "2004-12-01"
+    },
+    {
+      "modelId": 4004,
+      "modelName": "CADDY II Пікап (9U7)",
+      "modelYearFrom": "1996-06-01",
+      "modelYearTo": "2000-12-01"
+    },
+    {
+      "modelId": 4003,
+      "modelName": "CADDY II Фургон/мінівен (9K9A)",
+      "modelYearFrom": "1995-11-01",
+      "modelYearTo": "2004-01-01"
+    },
+    {
+      "modelId": 5084,
+      "modelName": "CADDY III Мінівен (2KB, 2KJ, 2CB, 2CJ)",
+      "modelYearFrom": "2004-03-01",
+      "modelYearTo": "2015-05-01"
+    },
+    {
+      "modelId": 5083,
+      "modelName": "CADDY III Фургон/мінівен (2KA, 2KH, 2CA, 2CH)",
+      "modelYearFrom": "2004-03-01",
+      "modelYearTo": "2015-05-01"
+    },
+    {
+      "modelId": 14302,
+      "modelName": "CADDY IV Мінівен (SAB, SAJ)",
+      "modelYearFrom": "2015-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14303,
+      "modelName": "CADDY IV Фургон/мінівен (SAA, SAH)",
+      "modelYearFrom": "2015-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41499,
+      "modelName": "CADDY V Мінівен (SBB, SBJ)",
+      "modelYearFrom": "2020-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41500,
+      "modelName": "CADDY V Фургон/мінівен (SBA, SBH)",
+      "modelYearFrom": "2020-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38216,
+      "modelName": "CADDY Мінівен (6K9, 9E7, 9E9)",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 38217,
+      "modelName": "CADDY Фургон/мінівен (6K9, 9E7, 9E9)",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 42534,
+      "modelName": "CALIFORNIA T4 Camper (7DJ, 7DK, 70J)",
+      "modelYearFrom": "1990-09-01",
+      "modelYearTo": "2004-08-01"
+    },
+    {
+      "modelId": 42535,
+      "modelName": "CALIFORNIA T5 Camper (7EC, 7EF, 7EG, 7HF)",
+      "modelYearFrom": "2003-04-01",
+      "modelYearTo": "2015-08-01"
+    },
+    {
+      "modelId": 42536,
+      "modelName": "CALIFORNIA T6 Camper (SGC, SGG, SHC)",
+      "modelYearFrom": "2015-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10200,
+      "modelName": "CC B7 (358)",
+      "modelYearFrom": "2011-11-01",
+      "modelYearTo": "2016-12-01"
+    },
+    {
+      "modelId": 10502,
+      "modelName": "CITI GOLF",
+      "modelYearFrom": "1978-01-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 3887,
+      "modelName": "CORRADO (53I)",
+      "modelYearFrom": "1987-08-01",
+      "modelYearTo": "1995-12-01"
+    },
+    {
+      "modelId": 5528,
+      "modelName": "CRAFTER 30-35 Автобус (2E_)",
+      "modelYearFrom": "2006-04-01",
+      "modelYearTo": "2016-12-01"
+    },
+    {
+      "modelId": 5530,
+      "modelName": "CRAFTER 30-50 Платформа/шасі (2F_)",
+      "modelYearFrom": "2006-04-01",
+      "modelYearTo": "2016-12-01"
+    },
+    {
+      "modelId": 5529,
+      "modelName": "CRAFTER 30-50 Фургон (2E_)",
+      "modelYearFrom": "2006-04-01",
+      "modelYearTo": "2016-12-01"
+    },
+    {
+      "modelId": 37480,
+      "modelName": "CRAFTER Автобус (SYI, SYJ)",
+      "modelYearFrom": "2016-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37201,
+      "modelName": "CRAFTER Платформа/шасі (SZ_)",
+      "modelYearFrom": "2016-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37200,
+      "modelName": "CRAFTER Фургон (SY_, SX_)",
+      "modelYearFrom": "2016-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 270,
+      "modelName": "DERBY (86)",
+      "modelYearFrom": "1977-02-01",
+      "modelYearTo": "1981-09-01"
+    },
+    {
+      "modelId": 275,
+      "modelName": "DERBY (86C, 80)",
+      "modelYearFrom": "1981-08-01",
+      "modelYearTo": "1984-12-01"
+    },
+    {
+      "modelId": 34729,
+      "modelName": "DERBY III Ліфтбек (6K2)",
+      "modelYearFrom": "1994-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 5457,
+      "modelName": "EOS (1F7, 1F8)",
+      "modelYearFrom": "2006-03-01",
+      "modelYearTo": "2015-08-01"
+    },
+    {
+      "modelId": 39073,
+      "modelName": "FOX Van (5Z1)",
+      "modelYearFrom": "2010-09-01",
+      "modelYearTo": "2011-12-01"
+    },
+    {
+      "modelId": 34118,
+      "modelName": "FOX Variant",
+      "modelYearFrom": "1986-09-01",
+      "modelYearTo": "1990-12-01"
+    },
+    {
+      "modelId": 10554,
+      "modelName": "FOX Ліфтбек",
+      "modelYearFrom": "1987-01-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 5417,
+      "modelName": "FOX Хетчбек (5Z1, 5Z3, 5Z4)",
+      "modelYearFrom": "2003-08-01",
+      "modelYearTo": "2015-10-01"
+    },
+    {
+      "modelId": 13150,
+      "modelName": "FOX Хетчбек (5Z5)",
+      "modelYearFrom": "2014-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36982,
+      "modelName": "FRIDOLIN Фургон (147)",
+      "modelYearFrom": "1964-01-01",
+      "modelYearTo": "1974-07-01"
+    },
+    {
+      "modelId": 7627,
+      "modelName": "GOL I",
+      "modelYearFrom": "1980-05-01",
+      "modelYearTo": "1997-12-01"
+    },
+    {
+      "modelId": 7626,
+      "modelName": "GOL II",
+      "modelYearFrom": "1994-06-01",
+      "modelYearTo": "2013-06-01"
+    },
+    {
+      "modelId": 13671,
+      "modelName": "GOL III",
+      "modelYearFrom": "1998-09-01",
+      "modelYearTo": "2006-09-01"
+    },
+    {
+      "modelId": 13672,
+      "modelName": "GOL IV",
+      "modelYearFrom": "2003-05-01",
+      "modelYearTo": "2014-12-01"
+    },
+    {
+      "modelId": 9611,
+      "modelName": "GOL V",
+      "modelYearFrom": "2008-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13666,
+      "modelName": "GOL VI",
+      "modelYearFrom": "2012-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38197,
+      "modelName": "GOL VII",
+      "modelYearFrom": "2016-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39281,
+      "modelName": "GOL VIII",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13608,
+      "modelName": "GOLF ALLTRACK VII Variant (BA5, BV5)",
+      "modelYearFrom": "2014-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41767,
+      "modelName": "GOLF ALLTRACK VIII (CG5)",
+      "modelYearFrom": "2020-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 497,
+      "modelName": "GOLF I (17)",
+      "modelYearFrom": "1974-04-01",
+      "modelYearTo": "1985-12-01"
+    },
+    {
+      "modelId": 488,
+      "modelName": "GOLF I Cabriolet (155)",
+      "modelYearFrom": "1979-01-01",
+      "modelYearTo": "1993-08-01"
+    },
+    {
+      "modelId": 500,
+      "modelName": "GOLF II (19E, 1G1)",
+      "modelYearFrom": "1983-08-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 37151,
+      "modelName": "GOLF II Van (19E, 1G1)",
+      "modelYearFrom": "1983-08-01",
+      "modelYearTo": "1991-07-01"
+    },
+    {
+      "modelId": 505,
+      "modelName": "GOLF III (1H1)",
+      "modelYearFrom": "1989-10-01",
+      "modelYearTo": "1998-07-01"
+    },
+    {
+      "modelId": 493,
+      "modelName": "GOLF III Cabriolet (1E7)",
+      "modelYearFrom": "1993-07-01",
+      "modelYearTo": "1998-05-01"
+    },
+    {
+      "modelId": 37153,
+      "modelName": "GOLF III Van (1H1)",
+      "modelYearFrom": "1991-08-01",
+      "modelYearTo": "1997-12-01"
+    },
+    {
+      "modelId": 510,
+      "modelName": "GOLF III Variant (1H5)",
+      "modelYearFrom": "1993-07-01",
+      "modelYearTo": "1999-04-01"
+    },
+    {
+      "modelId": 1994,
+      "modelName": "GOLF IV (1J1)",
+      "modelYearFrom": "1997-08-01",
+      "modelYearTo": "2008-04-01"
+    },
+    {
+      "modelId": 38069,
+      "modelName": "GOLF IV (9B3)",
+      "modelYearFrom": "2006-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1996,
+      "modelName": "GOLF IV Cabriolet (1E7)",
+      "modelYearFrom": "1998-06-01",
+      "modelYearTo": "2002-12-01"
+    },
+    {
+      "modelId": 37154,
+      "modelName": "GOLF IV Van (1J1)",
+      "modelYearFrom": "1997-10-01",
+      "modelYearTo": "2004-05-01"
+    },
+    {
+      "modelId": 1995,
+      "modelName": "GOLF IV Variant (1J5)",
+      "modelYearFrom": "1999-05-01",
+      "modelYearTo": "2006-06-01"
+    },
+    {
+      "modelId": 5379,
+      "modelName": "GOLF PLUS V (5M1, 521)",
+      "modelYearFrom": "2004-12-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 39069,
+      "modelName": "GOLF PLUS Van (521)",
+      "modelYearFrom": "2009-01-01",
+      "modelYearTo": "2014-08-01"
+    },
+    {
+      "modelId": 11878,
+      "modelName": "GOLF SPORTSVAN VII (AM1, AN1)",
+      "modelYearFrom": "2014-02-01",
+      "modelYearTo": "2020-08-01"
+    },
+    {
+      "modelId": 4991,
+      "modelName": "GOLF V (1K1)",
+      "modelYearFrom": "2003-10-01",
+      "modelYearTo": "2010-07-01"
+    },
+    {
+      "modelId": 6245,
+      "modelName": "GOLF V Variant (1K5)",
+      "modelYearFrom": "2007-01-01",
+      "modelYearTo": "2009-07-01"
+    },
+    {
+      "modelId": 39689,
+      "modelName": "GOLF Van III Variant (1H5)",
+      "modelYearFrom": "1991-08-01",
+      "modelYearTo": "1999-12-01"
+    },
+    {
+      "modelId": 39045,
+      "modelName": "GOLF VAN IV Variant (1J5)",
+      "modelYearFrom": "1999-05-01",
+      "modelYearTo": "2006-06-01"
+    },
+    {
+      "modelId": 39067,
+      "modelName": "GOLF VAN VI Variant (AJ5)",
+      "modelYearFrom": "2009-07-01",
+      "modelYearTo": "2014-05-01"
+    },
+    {
+      "modelId": 39079,
+      "modelName": "GOLF VAN VII Variant (BA5)",
+      "modelYearFrom": "2013-04-01",
+      "modelYearTo": "2017-03-01"
+    },
+    {
+      "modelId": 7873,
+      "modelName": "GOLF VI (5K1)",
+      "modelYearFrom": "2008-10-01",
+      "modelYearTo": "2014-12-01"
+    },
+    {
+      "modelId": 39065,
+      "modelName": "GOLF VI Van (5K1_)",
+      "modelYearFrom": "2008-10-01",
+      "modelYearTo": "2012-11-01"
+    },
+    {
+      "modelId": 8442,
+      "modelName": "GOLF VI Variant (AJ5)",
+      "modelYearFrom": "2009-07-01",
+      "modelYearTo": "2014-07-01"
+    },
+    {
+      "modelId": 9158,
+      "modelName": "GOLF VI Кабріолет (517)",
+      "modelYearFrom": "2011-03-01",
+      "modelYearTo": "2016-05-01"
+    },
+    {
+      "modelId": 10585,
+      "modelName": "GOLF VII (5G1, BQ1, BE1, BE2)",
+      "modelYearFrom": "2012-08-01",
+      "modelYearTo": "2021-03-01"
+    },
+    {
+      "modelId": 39077,
+      "modelName": "GOLF VII Van (5G1)",
+      "modelYearFrom": "2012-08-01",
+      "modelYearTo": "2017-03-01"
+    },
+    {
+      "modelId": 11221,
+      "modelName": "GOLF VII Variant (BA5, BV5)",
+      "modelYearFrom": "2013-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40179,
+      "modelName": "GOLF VIII (CD1)",
+      "modelYearFrom": "2019-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41185,
+      "modelName": "GOLF VIII Variant (CG5)",
+      "modelYearFrom": "2020-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41815,
+      "modelName": "GOLF Фургон/хетчбек (1K1)",
+      "modelYearFrom": "2003-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40014,
+      "modelName": "GRAND CALIFORNIA Camper (SCB, SCC)",
+      "modelYearFrom": "2019-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14140,
+      "modelName": "HORMIGA",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": "1979-12-01"
+    },
+    {
+      "modelId": 42932,
+      "modelName": "ID. Buzz Автобус (EBB)",
+      "modelYearFrom": "2022-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42933,
+      "modelName": "ID. Buzz Фургон (EBA)",
+      "modelYearFrom": "2022-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41044,
+      "modelName": "ID.3 (E11)",
+      "modelYearFrom": "2019-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41351,
+      "modelName": "ID.4 (E21)",
+      "modelYearFrom": "2020-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42571,
+      "modelName": "ID.5 (E39)",
+      "modelYearFrom": "2021-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 2,
+      "modelName": "ILTIS (183)",
+      "modelYearFrom": "1979-03-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 14621,
+      "modelName": "JETTA CITY Variant",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 37129,
+      "modelName": "JETTA CITY Ліфтбек",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 7,
+      "modelName": "JETTA I (16)",
+      "modelYearFrom": "1978-08-01",
+      "modelYearTo": "1987-12-01"
+    },
+    {
+      "modelId": 3439,
+      "modelName": "JETTA II (19E, 1G2, 165)",
+      "modelYearFrom": "1983-08-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 5423,
+      "modelName": "JETTA III (1K2)",
+      "modelYearFrom": "2004-09-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 9118,
+      "modelName": "JETTA IV (162, 163, AV3, AV2)",
+      "modelYearFrom": "2008-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39274,
+      "modelName": "JETTA VII Ліфтбек (BU3, BU4)",
+      "modelYearFrom": "2017-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 22,
+      "modelName": "K 70 (48)",
+      "modelYearFrom": "1970-08-01",
+      "modelYearTo": "1974-10-01"
+    },
+    {
+      "modelId": 90,
+      "modelName": "KAEFER",
+      "modelYearFrom": "1947-12-01",
+      "modelYearTo": "2003-08-01"
+    },
+    {
+      "modelId": 1614,
+      "modelName": "KAEFER Кабріолет (15)",
+      "modelYearFrom": "1949-07-01",
+      "modelYearTo": "1981-03-01"
+    },
+    {
+      "modelId": 1615,
+      "modelName": "KARMANN GHIA Кабріолет (14, 34)",
+      "modelYearFrom": "1957-09-01",
+      "modelYearTo": "1974-07-01"
+    },
+    {
+      "modelId": 99,
+      "modelName": "KARMANN GHIA Купе (14, 34)",
+      "modelYearFrom": "1955-08-01",
+      "modelYearTo": "1976-12-01"
+    },
+    {
+      "modelId": 11175,
+      "modelName": "KOMBI Автобус (T2)",
+      "modelYearFrom": "1974-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11943,
+      "modelName": "KOMBI Платформа/шасі (T2)",
+      "modelYearFrom": "1967-01-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 11176,
+      "modelName": "KOMBI Фургон (T2)",
+      "modelYearFrom": "1967-01-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 36247,
+      "modelName": "LOAD UP (121, 122, BL1, BL2)",
+      "modelYearFrom": "2014-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6892,
+      "modelName": "LOGUS (5X1)",
+      "modelYearFrom": "1992-12-01",
+      "modelYearTo": "1998-04-01"
+    },
+    {
+      "modelId": 236,
+      "modelName": "LT 28-35 I Автобус (281-363)",
+      "modelYearFrom": "1975-04-01",
+      "modelYearTo": "1996-06-01"
+    },
+    {
+      "modelId": 1637,
+      "modelName": "LT 28-35 I Платформа/шасі (281-363)",
+      "modelYearFrom": "1975-04-01",
+      "modelYearTo": "1996-06-01"
+    },
+    {
+      "modelId": 1636,
+      "modelName": "LT 28-35 I Фургон (281-363)",
+      "modelYearFrom": "1975-04-01",
+      "modelYearTo": "1996-06-01"
+    },
+    {
+      "modelId": 3378,
+      "modelName": "LT 28-35 II Автобус (2DB, 2DE, 2DK)",
+      "modelYearFrom": "1996-04-01",
+      "modelYearTo": "2006-07-01"
+    },
+    {
+      "modelId": 3380,
+      "modelName": "LT 28-46 II Платформа/шасі (2DC, 2DF, 2DG, 2DL, 2DM)",
+      "modelYearFrom": "1996-04-01",
+      "modelYearTo": "2006-07-01"
+    },
+    {
+      "modelId": 3379,
+      "modelName": "LT 28-46 II Фургон (2DA, 2DD, 2DH)",
+      "modelYearFrom": "1996-04-01",
+      "modelYearTo": "2006-07-01"
+    },
+    {
+      "modelId": 4489,
+      "modelName": "LT 40-55 I Платформа/шасі (293-909)",
+      "modelYearFrom": "1975-04-01",
+      "modelYearTo": "1996-06-01"
+    },
+    {
+      "modelId": 4488,
+      "modelName": "LT 40-55 I Фургон (291-512)",
+      "modelYearFrom": "1975-04-01",
+      "modelYearTo": "1996-06-01"
+    },
+    {
+      "modelId": 3398,
+      "modelName": "LUPO I (6X1, 6E1)",
+      "modelYearFrom": "1998-09-01",
+      "modelYearTo": "2005-07-01"
+    },
+    {
+      "modelId": 9587,
+      "modelName": "LUPO II (5Z1)",
+      "modelYearFrom": "2003-10-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 11288,
+      "modelName": "MICROBUS / VOLKSIEBUS",
+      "modelYearFrom": "1995-06-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 4988,
+      "modelName": "MULTIVAN T5 (7HM, 7HN, 7HF, 7EF, 7EM, 7EN)",
+      "modelYearFrom": "2003-04-01",
+      "modelYearTo": "2015-08-01"
+    },
+    {
+      "modelId": 14349,
+      "modelName": "MULTIVAN T6 (SGF, SGM, SGN, SHM, SHN)",
+      "modelYearFrom": "2015-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42517,
+      "modelName": "MULTIVAN T7 (STM, STN)",
+      "modelYearFrom": "2021-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3402,
+      "modelName": "NEW BEETLE (9C1, 1C1)",
+      "modelYearFrom": "1998-01-01",
+      "modelYearTo": "2010-11-01"
+    },
+    {
+      "modelId": 4957,
+      "modelName": "NEW BEETLE Кабріолет (1Y7)",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2011-12-01"
+    },
+    {
+      "modelId": 40993,
+      "modelName": "NIVUS (CH1)",
+      "modelYearFrom": "2020-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6893,
+      "modelName": "PARATI I Variant",
+      "modelYearFrom": "1982-05-01",
+      "modelYearTo": "1995-12-01"
+    },
+    {
+      "modelId": 6108,
+      "modelName": "PARATI II Variant",
+      "modelYearFrom": "1995-05-01",
+      "modelYearTo": "2005-08-01"
+    },
+    {
+      "modelId": 6109,
+      "modelName": "PARATI III Variant (5X5)",
+      "modelYearFrom": "1999-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9918,
+      "modelName": "PARATI IV Variant (5W5)",
+      "modelYearFrom": "2003-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11084,
+      "modelName": "PASSAT ALLTRACK B7 (365)",
+      "modelYearFrom": "2012-01-01",
+      "modelYearTo": "2014-12-01"
+    },
+    {
+      "modelId": 14622,
+      "modelName": "PASSAT ALLTRACK B8 Variant (3G5, CB5)",
+      "modelYearFrom": "2015-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 403,
+      "modelName": "PASSAT B1 (32)",
+      "modelYearFrom": "1973-05-01",
+      "modelYearTo": "1981-07-01"
+    },
+    {
+      "modelId": 415,
+      "modelName": "PASSAT B1 Variant (33)",
+      "modelYearFrom": "1973-05-01",
+      "modelYearTo": "1981-10-01"
+    },
+    {
+      "modelId": 11601,
+      "modelName": "PASSAT B1 Ліфтбек (32)",
+      "modelYearFrom": "1973-05-01",
+      "modelYearTo": "1982-12-01"
+    },
+    {
+      "modelId": 408,
+      "modelName": "PASSAT B2 (32B)",
+      "modelYearFrom": "1979-09-01",
+      "modelYearTo": "1989-06-01"
+    },
+    {
+      "modelId": 419,
+      "modelName": "PASSAT B2 Variant (33B)",
+      "modelYearFrom": "1980-08-01",
+      "modelYearTo": "1989-06-01"
+    },
+    {
+      "modelId": 1447,
+      "modelName": "PASSAT B2 Ліфтбек (32B)",
+      "modelYearFrom": "1982-05-01",
+      "modelYearTo": "1989-06-01"
+    },
+    {
+      "modelId": 39690,
+      "modelName": "PASSAT B3/B4 (315, 3A5)",
+      "modelYearFrom": "1988-08-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 412,
+      "modelName": "PASSAT B3/B4 (3A2, 35I)",
+      "modelYearFrom": "1988-02-01",
+      "modelYearTo": "1997-12-01"
+    },
+    {
+      "modelId": 423,
+      "modelName": "PASSAT B3/B4 Variant (3A5, 35I)",
+      "modelYearFrom": "1988-02-01",
+      "modelYearTo": "1997-06-01"
+    },
+    {
+      "modelId": 1568,
+      "modelName": "PASSAT B5 (3B2)",
+      "modelYearFrom": "1996-08-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 1907,
+      "modelName": "PASSAT B5 Variant (3B5)",
+      "modelYearFrom": "1997-05-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 4736,
+      "modelName": "PASSAT B5.5 (3B3)",
+      "modelYearFrom": "2000-10-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 4737,
+      "modelName": "PASSAT B5.5 Variant (3B6)",
+      "modelYearFrom": "2000-09-01",
+      "modelYearTo": "2005-08-01"
+    },
+    {
+      "modelId": 5398,
+      "modelName": "PASSAT B6 (3C2)",
+      "modelYearFrom": "2005-03-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 5427,
+      "modelName": "PASSAT B6 Variant (3C5)",
+      "modelYearFrom": "2005-08-01",
+      "modelYearTo": "2011-11-01"
+    },
+    {
+      "modelId": 9003,
+      "modelName": "PASSAT B7 (362)",
+      "modelYearFrom": "2010-08-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 11165,
+      "modelName": "PASSAT B7 (A32, A33)",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9004,
+      "modelName": "PASSAT B7 Variant (365)",
+      "modelYearFrom": "2010-08-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 39030,
+      "modelName": "PASSAT B7 Фургон/універсал (365)",
+      "modelYearFrom": "2010-08-01",
+      "modelYearTo": "2014-12-01"
+    },
+    {
+      "modelId": 12917,
+      "modelName": "PASSAT B8 (3G2, CB2)",
+      "modelYearFrom": "2014-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12918,
+      "modelName": "PASSAT B8 Variant (3G5, CB5)",
+      "modelYearFrom": "2014-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7375,
+      "modelName": "PASSAT CC B6 (357)",
+      "modelYearFrom": "2008-02-01",
+      "modelYearTo": "2012-01-01"
+    },
+    {
+      "modelId": 4876,
+      "modelName": "PHAETON (3D1, 3D2, 3D3, 3D4, 3D6, 3D7, 3D8, 3D9)",
+      "modelYearFrom": "2002-04-01",
+      "modelYearTo": "2016-03-01"
+    },
+    {
+      "modelId": 6898,
+      "modelName": "POINTER",
+      "modelYearFrom": "2005-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6897,
+      "modelName": "POINTER",
+      "modelYearFrom": "1998-08-01",
+      "modelYearTo": "2005-08-01"
+    },
+    {
+      "modelId": 6895,
+      "modelName": "POINTER",
+      "modelYearFrom": "1993-10-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 6894,
+      "modelName": "POINTER Variant",
+      "modelYearFrom": "1994-10-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 6896,
+      "modelName": "POINTER Variant",
+      "modelYearFrom": "2002-06-01",
+      "modelYearTo": "2006-03-01"
+    },
+    {
+      "modelId": 6899,
+      "modelName": "POINTER Пікап",
+      "modelYearFrom": "1993-10-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 4528,
+      "modelName": "POLO (6N2)",
+      "modelYearFrom": "1999-10-01",
+      "modelYearTo": "2001-10-01"
+    },
+    {
+      "modelId": 431,
+      "modelName": "POLO (86)",
+      "modelYearFrom": "1975-03-01",
+      "modelYearTo": "1981-09-01"
+    },
+    {
+      "modelId": 4804,
+      "modelName": "POLO (9N_, 9A_)",
+      "modelYearFrom": "2001-10-01",
+      "modelYearTo": "2014-10-01"
+    },
+    {
+      "modelId": 3885,
+      "modelName": "POLO CLASSIC (86C, 80)",
+      "modelYearFrom": "1985-01-01",
+      "modelYearTo": "1994-09-01"
+    },
+    {
+      "modelId": 436,
+      "modelName": "POLO II (86C, 80)",
+      "modelYearFrom": "1981-10-01",
+      "modelYearTo": "1994-09-01"
+    },
+    {
+      "modelId": 427,
+      "modelName": "POLO III (6N1)",
+      "modelYearFrom": "1994-10-01",
+      "modelYearTo": "1999-10-01"
+    },
+    {
+      "modelId": 1482,
+      "modelName": "POLO III CLASSIC (6V2)",
+      "modelYearFrom": "1995-01-01",
+      "modelYearTo": "2009-11-01"
+    },
+    {
+      "modelId": 5074,
+      "modelName": "POLO IV Ліфтбек (9A4, 9A2, 9N2, 9A6)",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11307,
+      "modelName": "POLO IV Ліфтбек (9N4)",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 6901,
+      "modelName": "POLO PLAYA",
+      "modelYearFrom": "1995-01-01",
+      "modelYearTo": "2009-11-01"
+    },
+    {
+      "modelId": 8025,
+      "modelName": "POLO V (6R1, 6C1)",
+      "modelYearFrom": "2009-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9746,
+      "modelName": "POLO V Ліфтбек (602, 604, 612, 614)",
+      "modelYearFrom": "2009-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36882,
+      "modelName": "POLO Van (6R)",
+      "modelYearFrom": "2009-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38851,
+      "modelName": "POLO Van Фургон/універсал (6V5)",
+      "modelYearFrom": "1996-05-01",
+      "modelYearTo": "2001-09-01"
+    },
+    {
+      "modelId": 4019,
+      "modelName": "POLO Van Фургон/хетчбек (6N1)",
+      "modelYearFrom": "1994-09-01",
+      "modelYearTo": "1999-12-01"
+    },
+    {
+      "modelId": 1993,
+      "modelName": "POLO Variant (6V5)",
+      "modelYearFrom": "1997-04-01",
+      "modelYearTo": "2001-09-01"
+    },
+    {
+      "modelId": 38138,
+      "modelName": "POLO VI (AW1, BZ1, AE1)",
+      "modelYearFrom": "2017-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11410,
+      "modelName": "POLO VIVO Ліфтбек (6S2, 6S4)",
+      "modelYearFrom": "2010-02-01",
+      "modelYearTo": "2017-09-01"
+    },
+    {
+      "modelId": 42809,
+      "modelName": "POLO VIVO Хетчбек (6R1, 6RS)",
+      "modelYearFrom": "2017-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11409,
+      "modelName": "POLO VIVO Хетчбек (6S1, 6S3)",
+      "modelYearFrom": "2010-02-01",
+      "modelYearTo": "2017-09-01"
+    },
+    {
+      "modelId": 440,
+      "modelName": "POLO Купе (86C, 80)",
+      "modelYearFrom": "1981-10-01",
+      "modelYearTo": "1994-09-01"
+    },
+    {
+      "modelId": 4018,
+      "modelName": "POLO Фургон/хетчбек (86CF)",
+      "modelYearFrom": "1992-08-01",
+      "modelYearTo": "1994-07-01"
+    },
+    {
+      "modelId": 6903,
+      "modelName": "QUANTUM Variant",
+      "modelYearFrom": "1990-08-01",
+      "modelYearTo": "2005-07-01"
+    },
+    {
+      "modelId": 6902,
+      "modelName": "QUANTUM Variant",
+      "modelYearFrom": "1985-04-01",
+      "modelYearTo": "1994-08-01"
+    },
+    {
+      "modelId": 9735,
+      "modelName": "ROUTAN",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 6368,
+      "modelName": "SANTANA",
+      "modelYearFrom": "1984-02-01",
+      "modelYearTo": "1994-08-01"
+    },
+    {
+      "modelId": 4636,
+      "modelName": "SANTANA",
+      "modelYearFrom": "1993-02-01",
+      "modelYearTo": "2012-09-01"
+    },
+    {
+      "modelId": 195,
+      "modelName": "SANTANA (32B)",
+      "modelYearFrom": "1981-08-01",
+      "modelYearTo": "1985-12-01"
+    },
+    {
+      "modelId": 7118,
+      "modelName": "SANTANA Variant",
+      "modelYearFrom": "1985-04-01",
+      "modelYearTo": "1988-02-01"
+    },
+    {
+      "modelId": 6140,
+      "modelName": "SAVEIRO I (147)",
+      "modelYearFrom": "1982-07-01",
+      "modelYearTo": "1997-11-01"
+    },
+    {
+      "modelId": 6141,
+      "modelName": "SAVEIRO II (9U7)",
+      "modelYearFrom": "1996-01-01",
+      "modelYearTo": "2003-09-01"
+    },
+    {
+      "modelId": 13684,
+      "modelName": "SAVEIRO III",
+      "modelYearFrom": "2000-02-01",
+      "modelYearTo": "2010-07-01"
+    },
+    {
+      "modelId": 6142,
+      "modelName": "SAVEIRO IV",
+      "modelYearFrom": "2005-02-01",
+      "modelYearTo": "2009-08-01"
+    },
+    {
+      "modelId": 9916,
+      "modelName": "SAVEIRO V (5U8, 5U9)",
+      "modelYearFrom": "2009-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39566,
+      "modelName": "SAVEIRO VI (5UA, 5UB, 5UC)",
+      "modelYearFrom": "2014-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39567,
+      "modelName": "SAVEIRO VII (5UD, 5UE, 5UF)",
+      "modelYearFrom": "2016-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 210,
+      "modelName": "SCIROCCO (53)",
+      "modelYearFrom": "1974-02-01",
+      "modelYearTo": "1980-07-01"
+    },
+    {
+      "modelId": 214,
+      "modelName": "SCIROCCO (53B)",
+      "modelYearFrom": "1980-08-01",
+      "modelYearTo": "1992-07-01"
+    },
+    {
+      "modelId": 7584,
+      "modelName": "SCIROCCO III (137, 138)",
+      "modelYearFrom": "2008-05-01",
+      "modelYearTo": "2017-11-01"
+    },
+    {
+      "modelId": 39063,
+      "modelName": "SCIROCCO Van (137)",
+      "modelYearFrom": "2008-06-01",
+      "modelYearTo": "2014-05-01"
+    },
+    {
+      "modelId": 9973,
+      "modelName": "SENDA",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1997-11-01"
+    },
+    {
+      "modelId": 1312,
+      "modelName": "SHARAN (7M8, 7M9, 7M6)",
+      "modelYearFrom": "1995-05-01",
+      "modelYearTo": "2010-03-01"
+    },
+    {
+      "modelId": 8630,
+      "modelName": "SHARAN (7N1, 7N2)",
+      "modelYearFrom": "2010-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41677,
+      "modelName": "SHARAN VAN (7M_)",
+      "modelYearFrom": "1995-05-01",
+      "modelYearTo": "2010-03-01"
+    },
+    {
+      "modelId": 41676,
+      "modelName": "SHARAN VAN (7N1, 7N2)",
+      "modelYearFrom": "2010-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11602,
+      "modelName": "SP-1 / SP-2",
+      "modelYearFrom": "1972-06-01",
+      "modelYearTo": "1976-02-01"
+    },
+    {
+      "modelId": 7531,
+      "modelName": "SPACEFOX / SPACE CROSS (5Z6, 5Z7, 5Z9)",
+      "modelYearFrom": "2006-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13639,
+      "modelName": "SPACEFOX / SPACE CROSS Variant",
+      "modelYearFrom": "2014-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39209,
+      "modelName": "T-CROSS (C11)",
+      "modelYearFrom": "2018-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38190,
+      "modelName": "T-ROC (A11, D11)",
+      "modelYearFrom": "2017-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40210,
+      "modelName": "T-ROC Кабріолет (AC7, AC8)",
+      "modelYearFrom": "2019-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42141,
+      "modelName": "TAIGO (CS1)",
+      "modelYearFrom": "2021-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42480,
+      "modelName": "TAIGUN (CW1)",
+      "modelYearFrom": "2021-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41959,
+      "modelName": "TAOS (CL1, CP1, CQ1)",
+      "modelYearFrom": "2020-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 337,
+      "modelName": "TARO",
+      "modelYearFrom": "1989-04-01",
+      "modelYearTo": "1997-03-01"
+    },
+    {
+      "modelId": 6397,
+      "modelName": "TIGUAN (5N_)",
+      "modelYearFrom": "2007-09-01",
+      "modelYearTo": "2018-07-01"
+    },
+    {
+      "modelId": 36223,
+      "modelName": "TIGUAN (AD1, AX1)",
+      "modelYearFrom": "2016-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38132,
+      "modelName": "TIGUAN ALLSPACE (BW2, BJ2)",
+      "modelYearFrom": "2017-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41678,
+      "modelName": "TIGUAN VAN (5N_)",
+      "modelYearFrom": "2007-09-01",
+      "modelYearTo": "2018-07-01"
+    },
+    {
+      "modelId": 41816,
+      "modelName": "TIGUAN Фургон/джип (AD1)",
+      "modelYearFrom": "2015-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4920,
+      "modelName": "TOUAREG (7LA, 7L6, 7L7)",
+      "modelYearFrom": "2002-10-01",
+      "modelYearTo": "2013-01-01"
+    },
+    {
+      "modelId": 8607,
+      "modelName": "TOUAREG (7P5, 7P6)",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": "2018-12-01"
+    },
+    {
+      "modelId": 38671,
+      "modelName": "TOUAREG (CR7)",
+      "modelYearFrom": "2017-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41680,
+      "modelName": "TOUAREG VAN (7P5)",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": "2018-12-01"
+    },
+    {
+      "modelId": 4954,
+      "modelName": "TOURAN (1T1, 1T2)",
+      "modelYearFrom": "2003-02-01",
+      "modelYearTo": "2010-05-01"
+    },
+    {
+      "modelId": 10449,
+      "modelName": "TOURAN (1T3)",
+      "modelYearFrom": "2010-05-01",
+      "modelYearTo": "2015-05-01"
+    },
+    {
+      "modelId": 14158,
+      "modelName": "TOURAN (5T1)",
+      "modelYearFrom": "2015-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41679,
+      "modelName": "TOURAN VAN (1T1, 1T2)",
+      "modelYearFrom": "2003-02-01",
+      "modelYearTo": "2010-05-01"
+    },
+    {
+      "modelId": 41554,
+      "modelName": "TOURAN VAN (1T3)",
+      "modelYearFrom": "2010-05-01",
+      "modelYearTo": "2015-05-01"
+    },
+    {
+      "modelId": 42376,
+      "modelName": "TOURAN VAN (5T1)",
+      "modelYearFrom": "2015-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10442,
+      "modelName": "TRANSPORTER Passenger VAN",
+      "modelYearFrom": "1992-09-01",
+      "modelYearTo": "1994-12-01"
+    },
+    {
+      "modelId": 1598,
+      "modelName": "TRANSPORTER T1 Автобус (22, 24, 25, 28)",
+      "modelYearFrom": "1950-01-01",
+      "modelYearTo": "1968-12-01"
+    },
+    {
+      "modelId": 1627,
+      "modelName": "TRANSPORTER T1 Платформа/шасі (26)",
+      "modelYearFrom": "1950-01-01",
+      "modelYearTo": "1970-10-01"
+    },
+    {
+      "modelId": 1626,
+      "modelName": "TRANSPORTER T1 Фургон (21, 23)",
+      "modelYearFrom": "1950-01-01",
+      "modelYearTo": "1968-12-01"
+    },
+    {
+      "modelId": 455,
+      "modelName": "TRANSPORTER T2 Автобус",
+      "modelYearFrom": "1967-08-01",
+      "modelYearTo": "1979-09-01"
+    },
+    {
+      "modelId": 3888,
+      "modelName": "TRANSPORTER T2 Платформа/шасі",
+      "modelYearFrom": "1968-08-01",
+      "modelYearTo": "1979-07-01"
+    },
+    {
+      "modelId": 1628,
+      "modelName": "TRANSPORTER T2 Фургон",
+      "modelYearFrom": "1968-08-01",
+      "modelYearTo": "1979-07-01"
+    },
+    {
+      "modelId": 3889,
+      "modelName": "TRANSPORTER T3 Автобус",
+      "modelYearFrom": "1979-05-01",
+      "modelYearTo": "1992-07-01"
+    },
+    {
+      "modelId": 1630,
+      "modelName": "TRANSPORTER T3 Платформа/шасі",
+      "modelYearFrom": "1979-05-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 1629,
+      "modelName": "TRANSPORTER T3 Фургон",
+      "modelYearFrom": "1979-05-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 463,
+      "modelName": "TRANSPORTER T4 Автобус (70B, 70C, 7DB, 7DK, 70J, 70K, 7DC, 7",
+      "modelYearFrom": "1990-09-01",
+      "modelYearTo": "2004-08-01"
+    },
+    {
+      "modelId": 1632,
+      "modelName": "TRANSPORTER T4 Платформа/шасі (70E, 70L, 70M, 7DE, 7DL, 7DM)",
+      "modelYearFrom": "1990-07-01",
+      "modelYearTo": "2003-04-01"
+    },
+    {
+      "modelId": 1631,
+      "modelName": "TRANSPORTER T4 Фургон (70A, 70H, 7DA, 7DH)",
+      "modelYearFrom": "1990-07-01",
+      "modelYearTo": "2003-04-01"
+    },
+    {
+      "modelId": 5005,
+      "modelName": "TRANSPORTER T5 Автобус (7HB, 7HJ, 7EB, 7EJ)",
+      "modelYearFrom": "2003-04-01",
+      "modelYearTo": "2015-08-01"
+    },
+    {
+      "modelId": 5003,
+      "modelName": "TRANSPORTER T5 Платформа/шасі (7JD, 7JE, 7JL, 7JY, 7JZ, 7FD,",
+      "modelYearFrom": "2003-04-01",
+      "modelYearTo": "2015-08-01"
+    },
+    {
+      "modelId": 5004,
+      "modelName": "TRANSPORTER T5 Фургон (7HA, 7HH, 7EA, 7EH)",
+      "modelYearFrom": "2003-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14352,
+      "modelName": "TRANSPORTER T6 Платформа/шасі (SFD, SFE, SFL, SFZ, SJD, SJE,",
+      "modelYearFrom": "2015-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14351,
+      "modelName": "TRANSPORTER T6 Фургон (SGA, SGH, SHA, SHH)",
+      "modelYearFrom": "2015-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14350,
+      "modelName": "TRANSPORTER VI / CARAVELLE T6 Автобус (SGB, SGJ, SHB, SHJ)",
+      "modelYearFrom": "2015-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9734,
+      "modelName": "UP! (121, 122, BL1, BL2, BL3, 123)",
+      "modelYearFrom": "2011-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 35856,
+      "modelName": "VAN Mini Cargo Van",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 35857,
+      "modelName": "VAN Mini Passenger Van",
+      "modelYearFrom": "2007-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 14651,
+      "modelName": "VARIANT I Variant",
+      "modelYearFrom": "1969-11-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 36532,
+      "modelName": "VARIANT II",
+      "modelYearFrom": "1978-01-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 3886,
+      "modelName": "VENTO (1H2)",
+      "modelYearFrom": "1991-11-01",
+      "modelYearTo": "1998-09-01"
+    },
+    {
+      "modelId": 13100,
+      "modelName": "VENTO (602, 604)",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38449,
+      "modelName": "VIRTUS Ліфтбек (BZ2)",
+      "modelYearFrom": "2017-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6905,
+      "modelName": "VOYAGE",
+      "modelYearFrom": "1988-08-01",
+      "modelYearTo": "1994-09-01"
+    },
+    {
+      "modelId": 6904,
+      "modelName": "VOYAGE",
+      "modelYearFrom": "1981-06-01",
+      "modelYearTo": "1995-12-01"
+    },
+    {
+      "modelId": 9621,
+      "modelName": "VOYAGE (5U4, 5U2, 5U6, 5UG)",
+      "modelYearFrom": "2008-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6906,
+      "modelName": "VOYAGE (5X1)",
+      "modelYearFrom": "1994-10-01",
+      "modelYearTo": "2002-07-01"
+    },
+    {
+      "modelId": 13215,
+      "modelName": "XL1 (6Z!)",
+      "modelYearFrom": "2014-02-01",
+      "modelYearTo": null
+    }
+  ]
+}

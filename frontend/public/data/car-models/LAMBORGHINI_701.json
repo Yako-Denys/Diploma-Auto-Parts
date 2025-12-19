@@ -1,0 +1,203 @@
+{
+  "countModels": 33,
+  "models": [
+    {
+      "modelId": 32316,
+      "modelName": "400GT Ліфтбек",
+      "modelYearFrom": "1965-09-01",
+      "modelYearTo": "1968-12-01"
+    },
+    {
+      "modelId": 11494,
+      "modelName": "AVENTADOR Купе",
+      "modelYearFrom": "2011-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11487,
+      "modelName": "AVENTADOR Тарга",
+      "modelYearFrom": "2013-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38948,
+      "modelName": "CENTENARIO Roadster",
+      "modelYearFrom": "2016-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36612,
+      "modelName": "CENTENARIO Купе",
+      "modelYearFrom": "2016-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4287,
+      "modelName": "COUNTACH",
+      "modelYearFrom": "1974-01-01",
+      "modelYearTo": "1991-12-01"
+    },
+    {
+      "modelId": 43547,
+      "modelName": "COUNTACH",
+      "modelYearFrom": "2022-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4288,
+      "modelName": "DIABLO",
+      "modelYearFrom": "1990-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4289,
+      "modelName": "DIABLO Roadster",
+      "modelYearFrom": "1995-09-01",
+      "modelYearTo": "2000-12-01"
+    },
+    {
+      "modelId": 4290,
+      "modelName": "ESPADA",
+      "modelYearFrom": "1968-01-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 4994,
+      "modelName": "GALLARDO",
+      "modelYearFrom": "2003-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5527,
+      "modelName": "GALLARDO SPYDER",
+      "modelYearFrom": "2005-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12856,
+      "modelName": "HURACÁN",
+      "modelYearFrom": "2014-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38313,
+      "modelName": "HURACÁN SPYDER",
+      "modelYearFrom": "2015-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 32325,
+      "modelName": "ISLERO Купе",
+      "modelYearFrom": "1967-09-01",
+      "modelYearTo": "1970-12-01"
+    },
+    {
+      "modelId": 4291,
+      "modelName": "JALPA",
+      "modelYearFrom": "1982-01-01",
+      "modelYearTo": "1987-12-01"
+    },
+    {
+      "modelId": 4292,
+      "modelName": "JARAMA",
+      "modelYearFrom": "1968-01-01",
+      "modelYearTo": "1976-12-01"
+    },
+    {
+      "modelId": 34530,
+      "modelName": "LM AMERICAN Закритий позашляховик",
+      "modelYearFrom": "1990-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 4293,
+      "modelName": "LM-001",
+      "modelYearFrom": "1980-01-01",
+      "modelYearTo": "1983-12-01"
+    },
+    {
+      "modelId": 4294,
+      "modelName": "LM-002",
+      "modelYearFrom": "1983-01-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 4295,
+      "modelName": "MIURA",
+      "modelYearFrom": "1966-06-01",
+      "modelYearTo": "1973-12-01"
+    },
+    {
+      "modelId": 4843,
+      "modelName": "MURCIÉLAGO",
+      "modelYearFrom": "2001-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5164,
+      "modelName": "MURCIÉLAGO Roadster",
+      "modelYearFrom": "2004-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11496,
+      "modelName": "REVENTON",
+      "modelYearFrom": "2007-09-01",
+      "modelYearTo": "2009-03-01"
+    },
+    {
+      "modelId": 39124,
+      "modelName": "REVENTON Кабріолет",
+      "modelYearFrom": "2009-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 14901,
+      "modelName": "SESTO ELEMENTO",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41763,
+      "modelName": "SIAN FKP 37 Roadster",
+      "modelYearFrom": "2020-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39872,
+      "modelName": "SIAN FKP 37 Купе",
+      "modelYearFrom": "2019-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 32333,
+      "modelName": "SILHOUETTE Купе",
+      "modelYearFrom": "1975-09-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 4296,
+      "modelName": "URRACO",
+      "modelYearFrom": "1974-01-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 38523,
+      "modelName": "URUS",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14902,
+      "modelName": "VENENO",
+      "modelYearFrom": "2013-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38343,
+      "modelName": "VENENO Тарга",
+      "modelYearFrom": "2013-09-01",
+      "modelYearTo": null
+    }
+  ]
+}

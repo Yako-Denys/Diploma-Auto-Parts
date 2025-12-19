@@ -1,0 +1,257 @@
+{
+  "countModels": 42,
+  "models": [
+    {
+      "modelId": 13191,
+      "modelName": "ESQ (JF15)",
+      "modelYearFrom": "2014-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7596,
+      "modelName": "EX",
+      "modelYearFrom": "2007-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5441,
+      "modelName": "FX",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 10322,
+      "modelName": "FX",
+      "modelYearFrom": "2008-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8940,
+      "modelName": "G Кабріолет",
+      "modelYearFrom": "2010-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 35773,
+      "modelName": "G Купе",
+      "modelYearFrom": "2002-09-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 7597,
+      "modelName": "G Купе",
+      "modelYearFrom": "2007-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 35776,
+      "modelName": "G Ліфтбек",
+      "modelYearFrom": "1998-09-01",
+      "modelYearTo": "2002-12-01"
+    },
+    {
+      "modelId": 10321,
+      "modelName": "G Ліфтбек",
+      "modelYearFrom": "2007-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7598,
+      "modelName": "G Ліфтбек",
+      "modelYearFrom": "2002-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4478,
+      "modelName": "G20",
+      "modelYearFrom": "1990-01-01",
+      "modelYearTo": "1997-12-01"
+    },
+    {
+      "modelId": 4479,
+      "modelName": "I30",
+      "modelYearFrom": "1997-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 35772,
+      "modelName": "I35 Ліфтбек",
+      "modelYearFrom": "1995-09-01",
+      "modelYearTo": "2004-12-01"
+    },
+    {
+      "modelId": 4480,
+      "modelName": "J30",
+      "modelYearFrom": "1992-01-01",
+      "modelYearTo": "1997-12-01"
+    },
+    {
+      "modelId": 10662,
+      "modelName": "JX Джип (L50)",
+      "modelYearFrom": "2012-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8941,
+      "modelName": "M (Y51)",
+      "modelYearFrom": "2010-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4482,
+      "modelName": "M30 Convertible",
+      "modelYearFrom": "1990-01-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 4481,
+      "modelName": "M30 Купе",
+      "modelYearFrom": "1989-01-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 6086,
+      "modelName": "M35",
+      "modelYearFrom": "2005-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9737,
+      "modelName": "M37",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6087,
+      "modelName": "M45",
+      "modelYearFrom": "2005-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12970,
+      "modelName": "M45",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2004-12-01"
+    },
+    {
+      "modelId": 14907,
+      "modelName": "Q30",
+      "modelYearFrom": "2015-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13238,
+      "modelName": "Q40 Ліфтбек",
+      "modelYearFrom": "2014-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4483,
+      "modelName": "Q45 I",
+      "modelYearFrom": "1989-01-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 8930,
+      "modelName": "Q45 II (FY33)",
+      "modelYearFrom": "1997-01-01",
+      "modelYearTo": "2001-01-01"
+    },
+    {
+      "modelId": 5814,
+      "modelName": "Q45 III (F50)",
+      "modelYearFrom": "2001-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11419,
+      "modelName": "Q50",
+      "modelYearFrom": "2013-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11681,
+      "modelName": "Q60 Кабріолет",
+      "modelYearFrom": "2013-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11680,
+      "modelName": "Q60 Купе",
+      "modelYearFrom": "2013-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36966,
+      "modelName": "Q60 Купе",
+      "modelYearFrom": "2016-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11905,
+      "modelName": "Q70 (Y51)",
+      "modelYearFrom": "2013-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36405,
+      "modelName": "QX30",
+      "modelYearFrom": "2016-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4484,
+      "modelName": "QX4",
+      "modelYearFrom": "1997-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11859,
+      "modelName": "QX50 I",
+      "modelYearFrom": "2013-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40176,
+      "modelName": "QX50 II",
+      "modelYearFrom": "2018-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41990,
+      "modelName": "QX55 (J55)",
+      "modelYearFrom": "2021-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 35771,
+      "modelName": "QX56",
+      "modelYearFrom": "2003-09-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 10323,
+      "modelName": "QX56",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11904,
+      "modelName": "QX60",
+      "modelYearFrom": "2012-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11858,
+      "modelName": "QX70",
+      "modelYearFrom": "2013-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13047,
+      "modelName": "QX80",
+      "modelYearFrom": "2013-08-01",
+      "modelYearTo": null
+    }
+  ]
+}

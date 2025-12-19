@@ -1,0 +1,1487 @@
+{
+  "countModels": 247,
+  "models": [
+    {
+      "modelId": 548,
+      "modelName": "/8 (W114)",
+      "modelYearFrom": "1968-01-01",
+      "modelYearTo": "1976-11-01"
+    },
+    {
+      "modelId": 552,
+      "modelName": "/8 (W115)",
+      "modelYearFrom": "1968-01-01",
+      "modelYearTo": "1977-01-01"
+    },
+    {
+      "modelId": 543,
+      "modelName": "/8 Купе (W114)",
+      "modelYearFrom": "1969-04-01",
+      "modelYearTo": "1977-02-01"
+    },
+    {
+      "modelId": 9,
+      "modelName": "123 T-Model (S123)",
+      "modelYearFrom": "1977-09-01",
+      "modelYearTo": "1986-12-01"
+    },
+    {
+      "modelId": 4,
+      "modelName": "123 Купе (C123)",
+      "modelYearFrom": "1977-03-01",
+      "modelYearTo": "1985-12-01"
+    },
+    {
+      "modelId": 571,
+      "modelName": "123 Ліфтбек (W123)",
+      "modelYearFrom": "1976-01-01",
+      "modelYearTo": "1985-12-01"
+    },
+    {
+      "modelId": 24,
+      "modelName": "124 T-Model (S124)",
+      "modelYearFrom": "1985-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 96,
+      "modelName": "124 Кабріолет (A124)",
+      "modelYearFrom": "1991-09-01",
+      "modelYearTo": "1993-06-01"
+    },
+    {
+      "modelId": 12,
+      "modelName": "124 Купе (C124)",
+      "modelYearFrom": "1987-03-01",
+      "modelYearTo": "1993-07-01"
+    },
+    {
+      "modelId": 18,
+      "modelName": "124 Ліфтбек (W124)",
+      "modelYearFrom": "1984-12-01",
+      "modelYearTo": "1993-08-01"
+    },
+    {
+      "modelId": 1746,
+      "modelName": "170 (W136)",
+      "modelYearFrom": "1946-06-01",
+      "modelYearTo": "1958-02-01"
+    },
+    {
+      "modelId": 52,
+      "modelName": "190 (W201)",
+      "modelYearFrom": "1982-10-01",
+      "modelYearTo": "1993-08-01"
+    },
+    {
+      "modelId": 32596,
+      "modelName": "230 Ліфтбек",
+      "modelYearFrom": "1964-09-01",
+      "modelYearTo": "1974-12-01"
+    },
+    {
+      "modelId": 43057,
+      "modelName": "300 Cabriolet A (W188)",
+      "modelYearFrom": "1951-09-01",
+      "modelYearTo": "1957-07-01"
+    },
+    {
+      "modelId": 43053,
+      "modelName": "300 Cabriolet D (W186)",
+      "modelYearFrom": "1951-04-01",
+      "modelYearTo": "1956-06-01"
+    },
+    {
+      "modelId": 43054,
+      "modelName": "300 Cabriolet D (W189)",
+      "modelYearFrom": "1958-07-01",
+      "modelYearTo": "1962-02-01"
+    },
+    {
+      "modelId": 43056,
+      "modelName": "300 Roadster (W188)",
+      "modelYearFrom": "1952-09-01",
+      "modelYearTo": "1958-02-01"
+    },
+    {
+      "modelId": 43055,
+      "modelName": "300 Купе (W188)",
+      "modelYearFrom": "1951-09-01",
+      "modelYearTo": "1958-04-01"
+    },
+    {
+      "modelId": 43051,
+      "modelName": "300 Ліфтбек (W186)",
+      "modelYearFrom": "1951-04-01",
+      "modelYearTo": "1957-07-01"
+    },
+    {
+      "modelId": 43052,
+      "modelName": "300 Ліфтбек (W189)",
+      "modelYearFrom": "1957-08-01",
+      "modelYearTo": "1962-03-01"
+    },
+    {
+      "modelId": 1982,
+      "modelName": "A-CLASS (W168)",
+      "modelYearFrom": "1997-07-01",
+      "modelYearTo": "2005-08-01"
+    },
+    {
+      "modelId": 5165,
+      "modelName": "A-CLASS (W169)",
+      "modelYearFrom": "2004-04-01",
+      "modelYearTo": "2012-06-01"
+    },
+    {
+      "modelId": 10342,
+      "modelName": "A-CLASS (W176)",
+      "modelYearFrom": "2012-06-01",
+      "modelYearTo": "2018-05-01"
+    },
+    {
+      "modelId": 38539,
+      "modelName": "A-CLASS (W177)",
+      "modelYearFrom": "2018-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38880,
+      "modelName": "A-CLASS Ліфтбек (V177)",
+      "modelYearFrom": "2018-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13198,
+      "modelName": "AMG GT (C190)",
+      "modelYearFrom": "2014-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38838,
+      "modelName": "AMG GT (X290)",
+      "modelYearFrom": "2018-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37244,
+      "modelName": "AMG GT Roadster (R190)",
+      "modelYearFrom": "2016-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5396,
+      "modelName": "B-CLASS Sports Tourer (W245)",
+      "modelYearFrom": "2005-03-01",
+      "modelYearTo": "2011-11-01"
+    },
+    {
+      "modelId": 9769,
+      "modelName": "B-CLASS Sports Tourer (W246, W242)",
+      "modelYearFrom": "2011-10-01",
+      "modelYearTo": "2018-12-01"
+    },
+    {
+      "modelId": 39199,
+      "modelName": "B-KLASSE Sports Tourer (W247)",
+      "modelYearFrom": "2018-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 520,
+      "modelName": "C-CLASS (W202)",
+      "modelYearFrom": "1993-03-01",
+      "modelYearTo": "2000-05-01"
+    },
+    {
+      "modelId": 4640,
+      "modelName": "C-CLASS (W203)",
+      "modelYearFrom": "2000-05-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 6224,
+      "modelName": "C-CLASS (W204)",
+      "modelYearFrom": "2007-01-01",
+      "modelYearTo": "2015-01-01"
+    },
+    {
+      "modelId": 11851,
+      "modelName": "C-CLASS (W205)",
+      "modelYearFrom": "2013-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41824,
+      "modelName": "C-CLASS (W206)",
+      "modelYearFrom": "2021-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42667,
+      "modelName": "C-CLASS All-Terrain (S206)",
+      "modelYearFrom": "2021-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4708,
+      "modelName": "C-CLASS Sportcoupe (CL203)",
+      "modelYearFrom": "2001-03-01",
+      "modelYearTo": "2011-06-01"
+    },
+    {
+      "modelId": 1516,
+      "modelName": "C-CLASS T-Model (S202)",
+      "modelYearFrom": "1996-06-01",
+      "modelYearTo": "2001-03-01"
+    },
+    {
+      "modelId": 4754,
+      "modelName": "C-CLASS T-Model (S203)",
+      "modelYearFrom": "2001-03-01",
+      "modelYearTo": "2007-08-01"
+    },
+    {
+      "modelId": 6437,
+      "modelName": "C-CLASS T-Model (S204)",
+      "modelYearFrom": "2007-08-01",
+      "modelYearTo": "2014-08-01"
+    },
+    {
+      "modelId": 12855,
+      "modelName": "C-CLASS T-Model (S205)",
+      "modelYearFrom": "2014-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41835,
+      "modelName": "C-CLASS T-MODEL (S206)",
+      "modelYearFrom": "2021-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36610,
+      "modelName": "C-CLASS Кабріолет (A205)",
+      "modelYearFrom": "2016-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9624,
+      "modelName": "C-CLASS Купе (C204)",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14664,
+      "modelName": "C-CLASS Купе (C205)",
+      "modelYearFrom": "2015-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3385,
+      "modelName": "CABRIOLET (W111, W112)",
+      "modelYearFrom": "1961-09-01",
+      "modelYearTo": "1971-12-01"
+    },
+    {
+      "modelId": 10803,
+      "modelName": "CITAN Mixto (Double Cabin) (W415)",
+      "modelYearFrom": "2012-11-01",
+      "modelYearTo": "2021-08-01"
+    },
+    {
+      "modelId": 42392,
+      "modelName": "CITAN Tourer (W420)",
+      "modelYearFrom": "2021-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10862,
+      "modelName": "CITAN Мінівен (W415)",
+      "modelYearFrom": "2012-11-01",
+      "modelYearTo": "2021-08-01"
+    },
+    {
+      "modelId": 10861,
+      "modelName": "CITAN Фургон/мінівен (W415)",
+      "modelYearFrom": "2012-11-01",
+      "modelYearTo": "2021-08-01"
+    },
+    {
+      "modelId": 42391,
+      "modelName": "CITAN Фургон/мінівен (W420)",
+      "modelYearFrom": "2021-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39446,
+      "modelName": "CLA (C118)",
+      "modelYearFrom": "2019-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13518,
+      "modelName": "CLA Shooting Brake (X117)",
+      "modelYearFrom": "2015-01-01",
+      "modelYearTo": "2019-03-01"
+    },
+    {
+      "modelId": 39629,
+      "modelName": "CLA Shooting Brake (X118)",
+      "modelYearFrom": "2019-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11050,
+      "modelName": "CLA Купе (C117)",
+      "modelYearFrom": "2013-01-01",
+      "modelYearTo": "2019-03-01"
+    },
+    {
+      "modelId": 7365,
+      "modelName": "CLC-CLASS (CL203)",
+      "modelYearFrom": "2008-05-01",
+      "modelYearTo": "2011-06-01"
+    },
+    {
+      "modelId": 1981,
+      "modelName": "CLK (C208)",
+      "modelYearFrom": "1997-06-01",
+      "modelYearTo": "2003-12-01"
+    },
+    {
+      "modelId": 4889,
+      "modelName": "CLK (C209)",
+      "modelYearFrom": "2002-05-01",
+      "modelYearTo": "2010-03-01"
+    },
+    {
+      "modelId": 3558,
+      "modelName": "CLK Кабріолет (A208)",
+      "modelYearFrom": "1998-03-01",
+      "modelYearTo": "2002-03-01"
+    },
+    {
+      "modelId": 4974,
+      "modelName": "CLK Кабріолет (A209)",
+      "modelYearFrom": "2002-06-01",
+      "modelYearTo": "2010-03-01"
+    },
+    {
+      "modelId": 9052,
+      "modelName": "CLS (C218)",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": "2017-12-01"
+    },
+    {
+      "modelId": 5118,
+      "modelName": "CLS (C219)",
+      "modelYearFrom": "2004-10-01",
+      "modelYearTo": "2011-02-01"
+    },
+    {
+      "modelId": 38362,
+      "modelName": "CLS (C257)",
+      "modelYearFrom": "2017-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10848,
+      "modelName": "CLS Shooting Brake (X218)",
+      "modelYearFrom": "2012-10-01",
+      "modelYearTo": "2017-12-01"
+    },
+    {
+      "modelId": 534,
+      "modelName": "COUPE (W111, W112)",
+      "modelYearFrom": "1961-01-01",
+      "modelYearTo": "1971-12-01"
+    },
+    {
+      "modelId": 106,
+      "modelName": "E-CLASS (W124)",
+      "modelYearFrom": "1993-02-01",
+      "modelYearTo": "1996-06-01"
+    },
+    {
+      "modelId": 1314,
+      "modelName": "E-CLASS (W210)",
+      "modelYearFrom": "1995-06-01",
+      "modelYearTo": "2003-08-01"
+    },
+    {
+      "modelId": 4874,
+      "modelName": "E-CLASS (W211)",
+      "modelYearFrom": "2002-03-01",
+      "modelYearTo": "2009-03-01"
+    },
+    {
+      "modelId": 8034,
+      "modelName": "E-CLASS (W212)",
+      "modelYearFrom": "2009-01-01",
+      "modelYearTo": "2016-12-01"
+    },
+    {
+      "modelId": 36202,
+      "modelName": "E-CLASS (W213)",
+      "modelYearFrom": "2016-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37491,
+      "modelName": "E-CLASS All-Terrain (S213)",
+      "modelYearFrom": "2017-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 118,
+      "modelName": "E-CLASS T-Model (S124)",
+      "modelYearFrom": "1993-06-01",
+      "modelYearTo": "1996-06-01"
+    },
+    {
+      "modelId": 1539,
+      "modelName": "E-CLASS T-Model (S210)",
+      "modelYearFrom": "1996-06-01",
+      "modelYearTo": "2003-03-01"
+    },
+    {
+      "modelId": 4947,
+      "modelName": "E-CLASS T-Model (S211)",
+      "modelYearFrom": "2003-02-01",
+      "modelYearTo": "2009-07-01"
+    },
+    {
+      "modelId": 8160,
+      "modelName": "E-CLASS T-Model (S212)",
+      "modelYearFrom": "2009-08-01",
+      "modelYearTo": "2016-12-01"
+    },
+    {
+      "modelId": 36766,
+      "modelName": "E-CLASS T-Model (S213)",
+      "modelYearFrom": "2016-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3907,
+      "modelName": "E-CLASS Кабріолет (A124)",
+      "modelYearFrom": "1993-05-01",
+      "modelYearTo": "1998-03-01"
+    },
+    {
+      "modelId": 8524,
+      "modelName": "E-CLASS Кабріолет (A207)",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": "2016-12-01"
+    },
+    {
+      "modelId": 38022,
+      "modelName": "E-CLASS Кабріолет (A238)",
+      "modelYearFrom": "2017-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3448,
+      "modelName": "E-CLASS Купе (C124)",
+      "modelYearFrom": "1993-06-01",
+      "modelYearTo": "1997-06-01"
+    },
+    {
+      "modelId": 8035,
+      "modelName": "E-CLASS Купе (C207)",
+      "modelYearFrom": "2009-01-01",
+      "modelYearTo": "2016-12-01"
+    },
+    {
+      "modelId": 37424,
+      "modelName": "E-CLASS Купе (C238)",
+      "modelYearFrom": "2016-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38771,
+      "modelName": "E-CLASS Платформа/шасі (VF210)",
+      "modelYearFrom": "1996-06-01",
+      "modelYearTo": "2003-03-01"
+    },
+    {
+      "modelId": 38735,
+      "modelName": "E-CLASS Платформа/шасі (VF211)",
+      "modelYearFrom": "2003-03-01",
+      "modelYearTo": "2009-07-01"
+    },
+    {
+      "modelId": 41810,
+      "modelName": "EQA (H243)",
+      "modelYearFrom": "2021-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42441,
+      "modelName": "EQB (X243)",
+      "modelYearFrom": "2021-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39522,
+      "modelName": "EQC (N293)",
+      "modelYearFrom": "2019-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42442,
+      "modelName": "EQE (V295)",
+      "modelYearFrom": "2022-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42210,
+      "modelName": "EQS (V297)",
+      "modelYearFrom": "2021-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 43081,
+      "modelName": "EQS Джип (X296)",
+      "modelYearFrom": "2022-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42007,
+      "modelName": "EQV (W447)",
+      "modelYearFrom": "2020-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40688,
+      "modelName": "eSPRINTER Фургон (B910)",
+      "modelYearFrom": "2020-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41008,
+      "modelName": "eVITO Tourer (W447)",
+      "modelYearFrom": "2019-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41007,
+      "modelName": "eVITO Фургон (W447)",
+      "modelYearFrom": "2019-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 60,
+      "modelName": "G-CLASS (W460)",
+      "modelYearFrom": "1979-03-01",
+      "modelYearTo": "1993-08-01"
+    },
+    {
+      "modelId": 4077,
+      "modelName": "G-CLASS (W461)",
+      "modelYearFrom": "1989-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38417,
+      "modelName": "G-CLASS (W463)",
+      "modelYearFrom": "2018-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 65,
+      "modelName": "G-CLASS (W463)",
+      "modelYearFrom": "1989-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38804,
+      "modelName": "G-CLASS Cabrio (W460)",
+      "modelYearFrom": "1979-03-01",
+      "modelYearTo": "1993-08-01"
+    },
+    {
+      "modelId": 2015,
+      "modelName": "G-CLASS Cabrio (W463)",
+      "modelYearFrom": "1989-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 43641,
+      "modelName": "G-KLASSE Платформа/шасі (W461)",
+      "modelYearFrom": "1989-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5521,
+      "modelName": "GL-CLASS (X164)",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2012-12-01"
+    },
+    {
+      "modelId": 11184,
+      "modelName": "GL-CLASS (X166)",
+      "modelYearFrom": "2012-07-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 40514,
+      "modelName": "GLA (H247)",
+      "modelYearFrom": "2020-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11743,
+      "modelName": "GLA-CLASS (X156)",
+      "modelYearFrom": "2013-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39859,
+      "modelName": "GLB (X247)",
+      "modelYearFrom": "2019-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14305,
+      "modelName": "GLC (X253)",
+      "modelYearFrom": "2015-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42974,
+      "modelName": "GLC (X254)",
+      "modelYearFrom": "2022-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36676,
+      "modelName": "GLC Coupe (C253)",
+      "modelYearFrom": "2016-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39123,
+      "modelName": "GLE (V167)",
+      "modelYearFrom": "2018-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13966,
+      "modelName": "GLE (W166)",
+      "modelYearFrom": "2015-04-01",
+      "modelYearTo": "2018-10-01"
+    },
+    {
+      "modelId": 40161,
+      "modelName": "GLE Coupe (C167)",
+      "modelYearFrom": "2019-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13831,
+      "modelName": "GLE Coupe (C292)",
+      "modelYearFrom": "2015-03-01",
+      "modelYearTo": "2019-10-01"
+    },
+    {
+      "modelId": 7580,
+      "modelName": "GLK-CLASS (X204)",
+      "modelYearFrom": "2008-06-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 14799,
+      "modelName": "GLS (X166)",
+      "modelYearFrom": "2015-11-01",
+      "modelYearTo": "2019-04-01"
+    },
+    {
+      "modelId": 39512,
+      "modelName": "GLS (X167)",
+      "modelYearFrom": "2019-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3497,
+      "modelName": "GULLWING (W198)",
+      "modelYearFrom": "1954-09-01",
+      "modelYearTo": "1957-05-01"
+    },
+    {
+      "modelId": 35549,
+      "modelName": "GULLWING Кабріолет",
+      "modelYearFrom": "1957-03-01",
+      "modelYearTo": "1963-12-01"
+    },
+    {
+      "modelId": 529,
+      "modelName": "HECKFLOSSE (W110)",
+      "modelYearFrom": "1959-08-01",
+      "modelYearTo": "1968-02-01"
+    },
+    {
+      "modelId": 3577,
+      "modelName": "HECKFLOSSE (W111, W112)",
+      "modelYearFrom": "1959-08-01",
+      "modelYearTo": "1968-01-01"
+    },
+    {
+      "modelId": 2012,
+      "modelName": "HENSCHEL 2-t",
+      "modelYearFrom": "1973-02-01",
+      "modelYearTo": "1977-12-01"
+    },
+    {
+      "modelId": 3414,
+      "modelName": "M-CLASS (W163)",
+      "modelYearFrom": "1998-02-01",
+      "modelYearTo": "2005-07-01"
+    },
+    {
+      "modelId": 5415,
+      "modelName": "M-CLASS (W164)",
+      "modelYearFrom": "2005-02-01",
+      "modelYearTo": "2012-12-01"
+    },
+    {
+      "modelId": 9800,
+      "modelName": "M-CLASS (W166)",
+      "modelYearFrom": "2011-06-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 40214,
+      "modelName": "MARCO POLO Camper (W447)",
+      "modelYearFrom": "2015-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 530,
+      "modelName": "MB Автобус (W631)",
+      "modelYearFrom": "1988-02-01",
+      "modelYearTo": "1996-04-01"
+    },
+    {
+      "modelId": 42121,
+      "modelName": "MB Автобус (W661)",
+      "modelYearFrom": "1999-11-01",
+      "modelYearTo": "2005-05-01"
+    },
+    {
+      "modelId": 4821,
+      "modelName": "MB Платформа/шасі (W631)",
+      "modelYearFrom": "1988-02-01",
+      "modelYearTo": "1996-02-01"
+    },
+    {
+      "modelId": 2050,
+      "modelName": "MB Фургон (W631)",
+      "modelYearFrom": "1988-02-01",
+      "modelYearTo": "1996-09-01"
+    },
+    {
+      "modelId": 9038,
+      "modelName": "MB Фургон (W661)",
+      "modelYearFrom": "1999-11-01",
+      "modelYearTo": "2005-05-01"
+    },
+    {
+      "modelId": 538,
+      "modelName": "PAGODE (W113)",
+      "modelYearFrom": "1963-01-01",
+      "modelYearTo": "1971-12-01"
+    },
+    {
+      "modelId": 35561,
+      "modelName": "PONTON",
+      "modelYearFrom": "1962-09-01",
+      "modelYearTo": "1963-12-01"
+    },
+    {
+      "modelId": 13106,
+      "modelName": "PONTON (W105)",
+      "modelYearFrom": "1956-03-01",
+      "modelYearTo": "1959-07-01"
+    },
+    {
+      "modelId": 561,
+      "modelName": "PONTON (W120)",
+      "modelYearFrom": "1953-01-01",
+      "modelYearTo": "1962-12-01"
+    },
+    {
+      "modelId": 3578,
+      "modelName": "PONTON (W121)",
+      "modelYearFrom": "1959-01-01",
+      "modelYearTo": "1961-12-01"
+    },
+    {
+      "modelId": 3579,
+      "modelName": "PONTON (W128)",
+      "modelYearFrom": "1958-01-01",
+      "modelYearTo": "1959-08-01"
+    },
+    {
+      "modelId": 3580,
+      "modelName": "PONTON (W180)",
+      "modelYearFrom": "1954-01-01",
+      "modelYearTo": "1959-12-01"
+    },
+    {
+      "modelId": 4061,
+      "modelName": "PULLMANN (W100)",
+      "modelYearFrom": "1963-09-01",
+      "modelYearTo": "1979-01-01"
+    },
+    {
+      "modelId": 5463,
+      "modelName": "R-CLASS (W251, V251)",
+      "modelYearFrom": "2005-08-01",
+      "modelYearTo": "2017-10-01"
+    },
+    {
+      "modelId": 41795,
+      "modelName": "S-CLASS (V223)",
+      "modelYearFrom": "2020-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 557,
+      "modelName": "S-CLASS (W116)",
+      "modelYearFrom": "1972-08-01",
+      "modelYearTo": "1980-07-01"
+    },
+    {
+      "modelId": 29,
+      "modelName": "S-CLASS (W126)",
+      "modelYearFrom": "1979-10-01",
+      "modelYearTo": "1991-06-01"
+    },
+    {
+      "modelId": 47,
+      "modelName": "S-CLASS (W140)",
+      "modelYearFrom": "1991-02-01",
+      "modelYearTo": "1998-10-01"
+    },
+    {
+      "modelId": 3575,
+      "modelName": "S-CLASS (W220)",
+      "modelYearFrom": "1998-09-01",
+      "modelYearTo": "2005-08-01"
+    },
+    {
+      "modelId": 5455,
+      "modelName": "S-CLASS (W221)",
+      "modelYearFrom": "2005-09-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 11234,
+      "modelName": "S-CLASS (W222, V222, X222)",
+      "modelYearFrom": "2013-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41092,
+      "modelName": "S-CLASS (W223)",
+      "modelYearFrom": "2020-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41934,
+      "modelName": "S-CLASS (Z223)",
+      "modelYearFrom": "2021-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14923,
+      "modelName": "S-CLASS Кабріолет (A217)",
+      "modelYearFrom": "2015-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 35,
+      "modelName": "S-CLASS Купе (C126)",
+      "modelYearFrom": "1980-08-01",
+      "modelYearTo": "1991-06-01"
+    },
+    {
+      "modelId": 43,
+      "modelName": "S-CLASS Купе (C140)",
+      "modelYearFrom": "1992-07-01",
+      "modelYearTo": "1999-12-01"
+    },
+    {
+      "modelId": 4095,
+      "modelName": "S-CLASS Купе (C215)",
+      "modelYearFrom": "1999-03-01",
+      "modelYearTo": "2006-12-01"
+    },
+    {
+      "modelId": 5599,
+      "modelName": "S-CLASS Купе (C216)",
+      "modelYearFrom": "2006-05-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 11949,
+      "modelName": "S-CLASS Купе (C217)",
+      "modelYearFrom": "2014-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 524,
+      "modelName": "S-CLASS Ліфтбек (W108, W109)",
+      "modelYearFrom": "1966-01-01",
+      "modelYearTo": "1972-08-01"
+    },
+    {
+      "modelId": 570,
+      "modelName": "SL (R107)",
+      "modelYearFrom": "1971-05-01",
+      "modelYearTo": "1989-12-01"
+    },
+    {
+      "modelId": 39,
+      "modelName": "SL (R129)",
+      "modelYearFrom": "1989-03-01",
+      "modelYearTo": "2004-09-01"
+    },
+    {
+      "modelId": 1778,
+      "modelName": "SL (R198)",
+      "modelYearFrom": "1957-05-01",
+      "modelYearTo": "1963-02-01"
+    },
+    {
+      "modelId": 4806,
+      "modelName": "SL (R230)",
+      "modelYearFrom": "2001-10-01",
+      "modelYearTo": "2012-01-01"
+    },
+    {
+      "modelId": 10172,
+      "modelName": "SL (R231)",
+      "modelYearFrom": "2011-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42833,
+      "modelName": "SL (R232)",
+      "modelYearFrom": "2022-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 566,
+      "modelName": "SL (W121)",
+      "modelYearFrom": "1955-01-01",
+      "modelYearTo": "1963-12-01"
+    },
+    {
+      "modelId": 3445,
+      "modelName": "SL Купе (C107)",
+      "modelYearFrom": "1972-01-01",
+      "modelYearTo": "1985-08-01"
+    },
+    {
+      "modelId": 14966,
+      "modelName": "SLC (R172)",
+      "modelYearFrom": "2016-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1583,
+      "modelName": "SLK (R170)",
+      "modelYearFrom": "1996-04-01",
+      "modelYearTo": "2004-04-01"
+    },
+    {
+      "modelId": 5109,
+      "modelName": "SLK (R171)",
+      "modelYearFrom": "2004-03-01",
+      "modelYearTo": "2011-12-01"
+    },
+    {
+      "modelId": 9201,
+      "modelName": "SLK (R172)",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5119,
+      "modelName": "SLR (R199)",
+      "modelYearFrom": "2004-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7366,
+      "modelName": "SLR Roadster (R199)",
+      "modelYearFrom": "2006-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8533,
+      "modelName": "SLS AMG (C197)",
+      "modelYearFrom": "2010-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9654,
+      "modelName": "SLS AMG Roadster (R197)",
+      "modelYearFrom": "2011-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 2040,
+      "modelName": "SPRINTER 2-t Автобус (B901, B902)",
+      "modelYearFrom": "1995-01-01",
+      "modelYearTo": "2006-05-01"
+    },
+    {
+      "modelId": 1313,
+      "modelName": "SPRINTER 2-t Платформа/шасі (B901, B902)",
+      "modelYearFrom": "1995-01-01",
+      "modelYearTo": "2006-05-01"
+    },
+    {
+      "modelId": 2039,
+      "modelName": "SPRINTER 2-t Фургон (B901, B902)",
+      "modelYearFrom": "1995-01-01",
+      "modelYearTo": "2006-05-01"
+    },
+    {
+      "modelId": 38709,
+      "modelName": "SPRINTER 3-t Tourer Bus (B907)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 2041,
+      "modelName": "SPRINTER 3-t Автобус (B903)",
+      "modelYearFrom": "1995-01-01",
+      "modelYearTo": "2012-05-01"
+    },
+    {
+      "modelId": 5586,
+      "modelName": "SPRINTER 3-t Автобус (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3505,
+      "modelName": "SPRINTER 3-t Платформа/шасі (B903)",
+      "modelYearFrom": "1995-01-01",
+      "modelYearTo": "2012-05-01"
+    },
+    {
+      "modelId": 5588,
+      "modelName": "SPRINTER 3-t Платформа/шасі (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38711,
+      "modelName": "SPRINTER 3-t Платформа/шасі (B910, B907)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3906,
+      "modelName": "SPRINTER 3-t Фургон (B903)",
+      "modelYearFrom": "1995-01-01",
+      "modelYearTo": "2012-05-01"
+    },
+    {
+      "modelId": 5587,
+      "modelName": "SPRINTER 3-t Фургон (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38705,
+      "modelName": "SPRINTER 3-t Фургон (B910)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38710,
+      "modelName": "SPRINTER 3,5-t Tourer Bus (B907)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5589,
+      "modelName": "SPRINTER 3,5-t Автобус (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5591,
+      "modelName": "SPRINTER 3,5-t Платформа/шасі (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38712,
+      "modelName": "SPRINTER 3,5-t Платформа/шасі (B907, B910)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5590,
+      "modelName": "SPRINTER 3,5-t Фургон (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38706,
+      "modelName": "SPRINTER 3,5-t Фургон (B907, B910)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40226,
+      "modelName": "SPRINTER 4-t Tourer Bus (B907)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4662,
+      "modelName": "SPRINTER 4-t Автобус (B904)",
+      "modelYearFrom": "1996-02-01",
+      "modelYearTo": "2006-05-01"
+    },
+    {
+      "modelId": 4664,
+      "modelName": "SPRINTER 4-t Платформа/шасі (B904)",
+      "modelYearFrom": "1995-02-01",
+      "modelYearTo": "2012-05-01"
+    },
+    {
+      "modelId": 38713,
+      "modelName": "SPRINTER 4-t Платформа/шасі (B907, B910)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4663,
+      "modelName": "SPRINTER 4-t Фургон (B904)",
+      "modelYearFrom": "1995-02-01",
+      "modelYearTo": "2012-05-01"
+    },
+    {
+      "modelId": 38707,
+      "modelName": "SPRINTER 4-t Фургон (B907, B910)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11596,
+      "modelName": "SPRINTER 4,6-t Автобус (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8506,
+      "modelName": "SPRINTER 4,6-t Платформа/шасі (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8505,
+      "modelName": "SPRINTER 4,6-t Фургон (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40227,
+      "modelName": "SPRINTER 5-t Tourer Bus (B907)",
+      "modelYearFrom": "2019-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11597,
+      "modelName": "SPRINTER 5-t Автобус (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9518,
+      "modelName": "SPRINTER 5-t Платформа/шасі (B905)",
+      "modelYearFrom": "2001-04-01",
+      "modelYearTo": "2006-05-01"
+    },
+    {
+      "modelId": 5594,
+      "modelName": "SPRINTER 5-t Платформа/шасі (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38714,
+      "modelName": "SPRINTER 5-t Платформа/шасі (B907)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5593,
+      "modelName": "SPRINTER 5-t Фургон (B906)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38708,
+      "modelName": "SPRINTER 5-t Фургон (B907)",
+      "modelYearFrom": "2018-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11492,
+      "modelName": "SPRINTER CLASSIC 3,5-t Фургон (B909)",
+      "modelYearFrom": "2013-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11491,
+      "modelName": "SPRINTER CLASSIC 4,6-t Автобус (B909)",
+      "modelYearFrom": "2013-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40428,
+      "modelName": "SPRINTER CLASSIC 4,6-t Фургон (B909)",
+      "modelYearFrom": "2017-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42942,
+      "modelName": "T-CLASS Мінівен (W420)",
+      "modelYearFrom": "2022-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1749,
+      "modelName": "T1 Автобус (602)",
+      "modelYearFrom": "1977-04-01",
+      "modelYearTo": "1996-02-01"
+    },
+    {
+      "modelId": 473,
+      "modelName": "T1 Автобус (B601)",
+      "modelYearFrom": "1977-05-01",
+      "modelYearTo": "1996-02-01"
+    },
+    {
+      "modelId": 3504,
+      "modelName": "T1 Платформа/шасі (601)",
+      "modelYearFrom": "1977-01-01",
+      "modelYearTo": "1996-02-01"
+    },
+    {
+      "modelId": 2014,
+      "modelName": "T1 Платформа/шасі (B602)",
+      "modelYearFrom": "1977-01-01",
+      "modelYearTo": "1996-02-01"
+    },
+    {
+      "modelId": 2013,
+      "modelName": "T1 Фургон (601, 611)",
+      "modelYearFrom": "1977-05-01",
+      "modelYearTo": "1996-02-01"
+    },
+    {
+      "modelId": 3909,
+      "modelName": "T1 Фургон (B602)",
+      "modelYearFrom": "1982-10-01",
+      "modelYearTo": "1996-02-01"
+    },
+    {
+      "modelId": 9511,
+      "modelName": "T1/TN Платформа/шасі",
+      "modelYearFrom": "1981-07-01",
+      "modelYearTo": "1995-06-01"
+    },
+    {
+      "modelId": 9510,
+      "modelName": "T1/TN Фургон",
+      "modelYearFrom": "1981-07-01",
+      "modelYearTo": "1995-06-01"
+    },
+    {
+      "modelId": 9501,
+      "modelName": "T2/L Відкидна платформа",
+      "modelYearFrom": "1968-01-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 9503,
+      "modelName": "T2/L Платформа/шасі",
+      "modelYearFrom": "1968-01-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 9502,
+      "modelName": "T2/L ТЗ комунального призначення",
+      "modelYearFrom": "1972-06-01",
+      "modelYearTo": "1982-08-01"
+    },
+    {
+      "modelId": 9504,
+      "modelName": "T2/L Тягач",
+      "modelYearFrom": "1972-01-01",
+      "modelYearTo": "1983-07-01"
+    },
+    {
+      "modelId": 9500,
+      "modelName": "T2/L Фургон",
+      "modelYearFrom": "1968-01-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 9505,
+      "modelName": "T2/LN1 Автобус",
+      "modelYearFrom": "1987-07-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 9507,
+      "modelName": "T2/LN1 Відкидна платформа",
+      "modelYearFrom": "1986-04-01",
+      "modelYearTo": "1994-12-01"
+    },
+    {
+      "modelId": 9508,
+      "modelName": "T2/LN1 Платформа/шасі",
+      "modelYearFrom": "1986-04-01",
+      "modelYearTo": "1994-12-01"
+    },
+    {
+      "modelId": 9509,
+      "modelName": "T2/LN1 Тягач",
+      "modelYearFrom": "1986-04-01",
+      "modelYearTo": "1994-12-01"
+    },
+    {
+      "modelId": 9506,
+      "modelName": "T2/LN1 Фургон",
+      "modelYearFrom": "1986-04-01",
+      "modelYearTo": "1994-12-01"
+    },
+    {
+      "modelId": 4078,
+      "modelName": "V-CLASS (638/2)",
+      "modelYearFrom": "1996-02-01",
+      "modelYearTo": "2003-07-01"
+    },
+    {
+      "modelId": 11889,
+      "modelName": "V-CLASS (W447)",
+      "modelYearFrom": "2014-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 43086,
+      "modelName": "V-CLASS Фургон (638/2)",
+      "modelYearFrom": "1996-08-01",
+      "modelYearTo": "2003-07-01"
+    },
+    {
+      "modelId": 4810,
+      "modelName": "VANEO (414)",
+      "modelYearFrom": "2002-02-01",
+      "modelYearTo": "2005-07-01"
+    },
+    {
+      "modelId": 9512,
+      "modelName": "VARIO Автобус (B670)",
+      "modelYearFrom": "1996-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9514,
+      "modelName": "VARIO Відкидна платформа",
+      "modelYearFrom": "1996-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9515,
+      "modelName": "VARIO Платформа/шасі (B670, B668, B667)",
+      "modelYearFrom": "1996-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9516,
+      "modelName": "VARIO Тягач",
+      "modelYearFrom": "1996-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9513,
+      "modelName": "VARIO Фургон (B667, B670, B668)",
+      "modelYearFrom": "1996-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5012,
+      "modelName": "VIANO (W639)",
+      "modelYearFrom": "2003-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5014,
+      "modelName": "VITO / MIXTO Фургон (W639)",
+      "modelYearFrom": "2003-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13077,
+      "modelName": "VITO Mixto (Double Cabin) (W447)",
+      "modelYearFrom": "2014-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13078,
+      "modelName": "VITO Tourer (W447)",
+      "modelYearFrom": "2014-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1487,
+      "modelName": "VITO Автобус (W638)",
+      "modelYearFrom": "1996-02-01",
+      "modelYearTo": "2003-07-01"
+    },
+    {
+      "modelId": 5013,
+      "modelName": "VITO Автобус (W639)",
+      "modelYearFrom": "2003-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13076,
+      "modelName": "VITO Фургон (W447)",
+      "modelYearFrom": "2014-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4058,
+      "modelName": "VITO Фургон (W638)",
+      "modelYearFrom": "1997-03-01",
+      "modelYearTo": "2003-07-01"
+    },
+    {
+      "modelId": 38214,
+      "modelName": "X-CLASS (470)",
+      "modelYearFrom": "2017-09-01",
+      "modelYearTo": "2020-05-01"
+    },
+    {
+      "modelId": 38381,
+      "modelName": "X-CLASS Платформа/шасі (470)",
+      "modelYearFrom": "2017-09-01",
+      "modelYearTo": null
+    }
+  ]
+}

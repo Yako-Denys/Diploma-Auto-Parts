@@ -1,0 +1,157 @@
+{
+  "countManufactures": 38,
+  "manufacturers": [
+    {
+      "manufacturerId": 2,
+      "brand": "ALFA ROMEO"
+    },
+    {
+      "manufacturerId": 5,
+      "brand": "AUDI"
+    },
+    {
+      "manufacturerId": 815,
+      "brand": "BENTLEY"
+    },
+    {
+      "manufacturerId": 16,
+      "brand": "BMW"
+    },
+    {
+      "manufacturerId": 788,
+      "brand": "BUGATTI"
+    },
+    {
+      "manufacturerId": 819,
+      "brand": "CADILLAC"
+    },
+    {
+      "manufacturerId": 2887,
+      "brand": "CHERY"
+    },
+    {
+      "manufacturerId": 138,
+      "brand": "CHEVROLET"
+    },
+    {
+      "manufacturerId": 21,
+      "brand": "CITROËN"
+    },
+    {
+      "manufacturerId": 29,
+      "brand": "DODGE"
+    },
+    {
+      "manufacturerId": 700,
+      "brand": "FERRARI"
+    },
+    {
+      "manufacturerId": 35,
+      "brand": "FIAT"
+    },
+    {
+      "manufacturerId": 36,
+      "brand": "FORD"
+    },
+    {
+      "manufacturerId": 45,
+      "brand": "HONDA"
+    },
+    {
+      "manufacturerId": 183,
+      "brand": "HYUNDAI"
+    },
+    {
+      "manufacturerId": 1526,
+      "brand": "INFINITI"
+    },
+    {
+      "manufacturerId": 56,
+      "brand": "JAGUAR"
+    },
+    {
+      "manufacturerId": 882,
+      "brand": "JEEP"
+    },
+    {
+      "manufacturerId": 184,
+      "brand": "KIA"
+    },
+    {
+      "manufacturerId": 63,
+      "brand": "LADA"
+    },
+    {
+      "manufacturerId": 701,
+      "brand": "LAMBORGHINI"
+    },
+    {
+      "manufacturerId": 1820,
+      "brand": "LAND ROVER"
+    },
+    {
+      "manufacturerId": 842,
+      "brand": "LEXUS"
+    },
+    {
+      "manufacturerId": 74,
+      "brand": "MERCEDES-BENZ"
+    },
+    {
+      "manufacturerId": 77,
+      "brand": "MITSUBISHI"
+    },
+    {
+      "manufacturerId": 80,
+      "brand": "NISSAN"
+    },
+    {
+      "manufacturerId": 84,
+      "brand": "OPEL"
+    },
+    {
+      "manufacturerId": 88,
+      "brand": "PEUGEOT"
+    },
+    {
+      "manufacturerId": 92,
+      "brand": "PORSCHE"
+    },
+    {
+      "manufacturerId": 93,
+      "brand": "RENAULT"
+    },
+    {
+      "manufacturerId": 705,
+      "brand": "ROLLS-ROYCE"
+    },
+    {
+      "manufacturerId": 106,
+      "brand": "SKODA"
+    },
+    {
+      "manufacturerId": 107,
+      "brand": "SUBARU"
+    },
+    {
+      "manufacturerId": 109,
+      "brand": "SUZUKI"
+    },
+    {
+      "manufacturerId": 3328,
+      "brand": "TESLA"
+    },
+    {
+      "manufacturerId": 111,
+      "brand": "TOYOTA"
+    },
+    {
+      "manufacturerId": 120,
+      "brand": "VOLVO"
+    },
+    {
+      "manufacturerId": 121,
+      "brand": "VW"
+    }
+  ]
+}

@@ -1,0 +1,1391 @@
+{
+  "countModels": 231,
+  "models": [
+    {
+      "modelId": 12611,
+      "modelName": "A",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36754,
+      "modelName": "ACCESS",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41372,
+      "modelName": "ACROSS (A5Z_)",
+      "modelYearFrom": "2020-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12612,
+      "modelName": "ADDRESS",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12613,
+      "modelName": "AH",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38847,
+      "modelName": "ALTO",
+      "modelYearFrom": "2000-09-01",
+      "modelYearTo": "2014-10-01"
+    },
+    {
+      "modelId": 38842,
+      "modelName": "ALTO 800",
+      "modelYearFrom": "2012-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1234,
+      "modelName": "ALTO I (0S)",
+      "modelYearFrom": "1979-03-01",
+      "modelYearTo": "1984-08-01"
+    },
+    {
+      "modelId": 1233,
+      "modelName": "ALTO II Хетчбек",
+      "modelYearFrom": "1984-09-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 14099,
+      "modelName": "ALTO III (EC)",
+      "modelYearFrom": "1988-12-01",
+      "modelYearTo": "1994-08-01"
+    },
+    {
+      "modelId": 1244,
+      "modelName": "ALTO IV (EF)",
+      "modelYearFrom": "1993-10-01",
+      "modelYearTo": "2002-06-01"
+    },
+    {
+      "modelId": 38845,
+      "modelName": "ALTO K10",
+      "modelYearFrom": "2015-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38846,
+      "modelName": "ALTO K10",
+      "modelYearFrom": "2010-08-01",
+      "modelYearTo": "2015-03-01"
+    },
+    {
+      "modelId": 14098,
+      "modelName": "ALTO V (HA12, HA23)",
+      "modelYearFrom": "1997-10-01",
+      "modelYearTo": "2004-09-01"
+    },
+    {
+      "modelId": 4900,
+      "modelName": "ALTO VI (FF)",
+      "modelYearFrom": "2004-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 8024,
+      "modelName": "ALTO VII (GF)",
+      "modelYearFrom": "2009-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14948,
+      "modelName": "ALTO VIII (HA36)",
+      "modelYearFrom": "2014-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39670,
+      "modelName": "ALTO Фургон/хетчбек (EC)",
+      "modelYearFrom": "1986-01-01",
+      "modelYearTo": "1993-10-01"
+    },
+    {
+      "modelId": 40163,
+      "modelName": "ALTO Фургон/хетчбек (HA36)",
+      "modelYearFrom": "2014-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12614,
+      "modelName": "AN",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12619,
+      "modelName": "AN BURGMAN",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12615,
+      "modelName": "AP",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40864,
+      "modelName": "APV (GC)",
+      "modelYearFrom": "2003-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37069,
+      "modelName": "APV Автобус",
+      "modelYearFrom": "2003-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37105,
+      "modelName": "APV Платформа/шасі",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8823,
+      "modelName": "APV Фургон (GD, GC)",
+      "modelYearFrom": "2003-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41322,
+      "modelName": "AVENIS",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12616,
+      "modelName": "AY",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12618,
+      "modelName": "B-KING",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 43084,
+      "modelName": "BALENO",
+      "modelYearFrom": "2022-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1325,
+      "modelName": "BALENO (EG)",
+      "modelYearFrom": "1995-03-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 36212,
+      "modelName": "BALENO (FW, EW)",
+      "modelYearFrom": "2016-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1565,
+      "modelName": "BALENO Універсал (EG)",
+      "modelYearFrom": "1995-04-01",
+      "modelYearTo": "2005-04-01"
+    },
+    {
+      "modelId": 1324,
+      "modelName": "BALENO Хетчбек (EG)",
+      "modelYearFrom": "1995-03-01",
+      "modelYearTo": "2002-05-01"
+    },
+    {
+      "modelId": 14064,
+      "modelName": "BOULEVARD",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12040,
+      "modelName": "C",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4302,
+      "modelName": "CAPPUCCINO (EE)",
+      "modelYearFrom": "1992-02-01",
+      "modelYearTo": "1998-08-01"
+    },
+    {
+      "modelId": 13291,
+      "modelName": "CARA",
+      "modelYearFrom": "1992-03-01",
+      "modelYearTo": "1995-10-01"
+    },
+    {
+      "modelId": 14896,
+      "modelName": "CARRY Автобус",
+      "modelYearFrom": "1999-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14034,
+      "modelName": "CARRY Автобус",
+      "modelYearFrom": "1997-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37109,
+      "modelName": "CARRY Автобус (0S)",
+      "modelYearFrom": "1979-10-01",
+      "modelYearTo": "1985-10-01"
+    },
+    {
+      "modelId": 39854,
+      "modelName": "CARRY Платформа/шасі",
+      "modelYearFrom": "2019-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8813,
+      "modelName": "CARRY Платформа/шасі",
+      "modelYearFrom": "1985-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37108,
+      "modelName": "CARRY Платформа/шасі",
+      "modelYearFrom": "1991-01-01",
+      "modelYearTo": "1999-01-01"
+    },
+    {
+      "modelId": 14912,
+      "modelName": "CARRY Платформа/шасі (0S)",
+      "modelYearFrom": "1979-10-01",
+      "modelYearTo": "1985-03-01"
+    },
+    {
+      "modelId": 8869,
+      "modelName": "CARRY Платформа/шасі (FD, DA5_T, DA6_T)",
+      "modelYearFrom": "1999-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12778,
+      "modelName": "CARRY Фургон",
+      "modelYearFrom": "1995-10-01",
+      "modelYearTo": "1999-03-01"
+    },
+    {
+      "modelId": 1235,
+      "modelName": "CARRY Фургон (0S)",
+      "modelYearFrom": "1979-10-01",
+      "modelYearTo": "1985-10-01"
+    },
+    {
+      "modelId": 9037,
+      "modelName": "CARRY Фургон (ED)",
+      "modelYearFrom": "1985-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4582,
+      "modelName": "CARRY Фургон (FD)",
+      "modelYearFrom": "1999-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13151,
+      "modelName": "CELERIO (LF)",
+      "modelYearFrom": "2014-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 43071,
+      "modelName": "CELERIO (YL7)",
+      "modelYearFrom": "2022-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37940,
+      "modelName": "CERVO",
+      "modelYearFrom": "1982-06-01",
+      "modelYearTo": "1998-12-01"
+    },
+    {
+      "modelId": 13286,
+      "modelName": "CERVO (HG21)",
+      "modelYearFrom": "2006-11-01",
+      "modelYearTo": "2010-12-01"
+    },
+    {
+      "modelId": 37221,
+      "modelName": "CERVO MODE (C_21, C_22, C_31, C_32)",
+      "modelYearFrom": "1990-07-01",
+      "modelYearTo": "1998-10-01"
+    },
+    {
+      "modelId": 14109,
+      "modelName": "CIAZ",
+      "modelYearFrom": "2015-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12620,
+      "modelName": "CP",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10218,
+      "modelName": "CULTUS",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12621,
+      "modelName": "DL",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12622,
+      "modelName": "DR",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12623,
+      "modelName": "DR-Z",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13258,
+      "modelName": "DZIRE",
+      "modelYearFrom": "2013-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38730,
+      "modelName": "DZIRE",
+      "modelYearFrom": "2018-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14228,
+      "modelName": "EN",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41323,
+      "modelName": "EPICURO",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 35870,
+      "modelName": "EQUATOR Пікап",
+      "modelYearFrom": "2004-09-01",
+      "modelYearTo": "2012-12-01"
+    },
+    {
+      "modelId": 13251,
+      "modelName": "ERTIGA (AVI_)",
+      "modelYearFrom": "2012-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38646,
+      "modelName": "ERTIGA (NC)",
+      "modelYearFrom": "2018-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37072,
+      "modelName": "EVERY",
+      "modelYearFrom": "2015-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10874,
+      "modelName": "EVERY (DA64_)",
+      "modelYearFrom": "2004-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37272,
+      "modelName": "EVERY Автобус (DA52_, DB52_)",
+      "modelYearFrom": "1999-02-01",
+      "modelYearTo": "2005-07-01"
+    },
+    {
+      "modelId": 13256,
+      "modelName": "FARMWORKER Пікап",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13255,
+      "modelName": "FARMWORKER Платформа/шасі",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39927,
+      "modelName": "FIERO",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 33973,
+      "modelName": "FORENZA Ліфтбек",
+      "modelYearFrom": "2003-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 33974,
+      "modelName": "FORENZA Універсал",
+      "modelYearFrom": "2004-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 35872,
+      "modelName": "FORSA Хетчбек",
+      "modelYearFrom": "1984-09-01",
+      "modelYearTo": "1988-12-01"
+    },
+    {
+      "modelId": 37392,
+      "modelName": "FRONTE",
+      "modelYearFrom": "1984-09-01",
+      "modelYearTo": "1989-04-01"
+    },
+    {
+      "modelId": 9913,
+      "modelName": "FUN",
+      "modelYearFrom": "2003-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36755,
+      "modelName": "GIXXER",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12624,
+      "modelName": "GLADIUS",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12625,
+      "modelName": "GN",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12626,
+      "modelName": "GR",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4097,
+      "modelName": "GRAND VITARA I (FT, HT)",
+      "modelYearFrom": "1998-03-01",
+      "modelYearTo": "2008-08-01"
+    },
+    {
+      "modelId": 14518,
+      "modelName": "GRAND VITARA I Відкритий позашляховик (GT)",
+      "modelYearFrom": "1998-03-01",
+      "modelYearTo": "2005-09-01"
+    },
+    {
+      "modelId": 5489,
+      "modelName": "GRAND VITARA II (JT, TE, TD)",
+      "modelYearFrom": "2005-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12627,
+      "modelName": "GS",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12617,
+      "modelName": "GSF BANDIT",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12628,
+      "modelName": "GSR",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12629,
+      "modelName": "GSX",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12630,
+      "modelName": "GSX-R (124cc - 750cc)",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40277,
+      "modelName": "GSX-R (751cc - )",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14300,
+      "modelName": "GSX-S",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14448,
+      "modelName": "GT",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12631,
+      "modelName": "GZ",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8808,
+      "modelName": "HATCH (SS)",
+      "modelYearFrom": "1980-02-01",
+      "modelYearTo": "1985-12-01"
+    },
+    {
+      "modelId": 36756,
+      "modelName": "HAYATE",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36759,
+      "modelName": "HEAT",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37178,
+      "modelName": "HUSTLER (MR31_, MR41_)",
+      "modelYearFrom": "2014-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40273,
+      "modelName": "HUSTLER (MR52_, MR92_)",
+      "modelYearFrom": "2020-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4732,
+      "modelName": "IGNIS I (FH)",
+      "modelYearFrom": "2000-10-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 5064,
+      "modelName": "IGNIS II (MH)",
+      "modelYearFrom": "2003-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37088,
+      "modelName": "IGNIS III (MF)",
+      "modelYearFrom": "2016-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12632,
+      "modelName": "INAZUMA",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13994,
+      "modelName": "INTRUDER",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39049,
+      "modelName": "JIMNY Відкритий позашляховик (SJ)",
+      "modelYearFrom": "1988-11-01",
+      "modelYearTo": "1998-03-01"
+    },
+    {
+      "modelId": 38290,
+      "modelName": "JIMNY Відкритий позашляховик (SN)",
+      "modelYearFrom": "1998-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39057,
+      "modelName": "JIMNY Закритий позашляховик (A6G)",
+      "modelYearFrom": "2018-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11344,
+      "modelName": "JIMNY Закритий позашляховик (SJ, JA, JB)",
+      "modelYearFrom": "1981-01-01",
+      "modelYearTo": "1998-12-01"
+    },
+    {
+      "modelId": 3972,
+      "modelName": "JIMNY Закритий позашляховик (SN)",
+      "modelYearFrom": "1998-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13250,
+      "modelName": "KARIMUN WAGON R",
+      "modelYearFrom": "2013-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14066,
+      "modelName": "KATANA",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7943,
+      "modelName": "KEI Хетчбек",
+      "modelYearFrom": "1998-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8992,
+      "modelName": "KIZASHI (FR)",
+      "modelYearFrom": "2010-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10019,
+      "modelName": "LANDY (SC25)",
+      "modelYearFrom": "2007-01-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 10020,
+      "modelName": "LANDY (SC26)",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38195,
+      "modelName": "LANDY (SC27)",
+      "modelYearFrom": "2016-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13290,
+      "modelName": "LAPIN I (HE21)",
+      "modelYearFrom": "2002-01-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 14092,
+      "modelName": "LAPIN II (HE22)",
+      "modelYearFrom": "2009-09-01",
+      "modelYearTo": "2015-05-01"
+    },
+    {
+      "modelId": 38406,
+      "modelName": "LAPIN III (HE33)",
+      "modelYearFrom": "2015-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36760,
+      "modelName": "LETS",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4890,
+      "modelName": "LIANA (ER, RH_)",
+      "modelYearFrom": "2001-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37901,
+      "modelName": "LIANA Хетчбек",
+      "modelYearFrom": "2001-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40520,
+      "modelName": "LJ50 Відкритий позашляховик",
+      "modelYearFrom": "1974-07-01",
+      "modelYearTo": "1978-06-01"
+    },
+    {
+      "modelId": 40519,
+      "modelName": "LJ50 Закритий позашляховик",
+      "modelYearFrom": "1974-07-01",
+      "modelYearTo": "1978-06-01"
+    },
+    {
+      "modelId": 1236,
+      "modelName": "LJ80 (OL)",
+      "modelYearFrom": "1977-11-01",
+      "modelYearTo": "1984-01-01"
+    },
+    {
+      "modelId": 8806,
+      "modelName": "LJ80 Закритий позашляховик",
+      "modelYearFrom": "1977-11-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 35873,
+      "modelName": "LJ81 Закритий позашляховик",
+      "modelYearFrom": "1980-09-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 8807,
+      "modelName": "LJ81 Пікап",
+      "modelYearFrom": "1977-11-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 12633,
+      "modelName": "LS",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12634,
+      "modelName": "M",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13780,
+      "modelName": "MARUTI",
+      "modelYearFrom": "1983-02-01",
+      "modelYearTo": "2013-12-01"
+    },
+    {
+      "modelId": 8803,
+      "modelName": "MIGHTY BOY",
+      "modelYearFrom": "1985-07-01",
+      "modelYearTo": "1988-10-01"
+    },
+    {
+      "modelId": 37104,
+      "modelName": "MR WAGON (MF21)",
+      "modelYearFrom": "2001-04-01",
+      "modelYearTo": "2006-03-01"
+    },
+    {
+      "modelId": 10875,
+      "modelName": "MR WAGON (MF22)",
+      "modelYearFrom": "2006-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14094,
+      "modelName": "MR WAGON (MF33)",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41291,
+      "modelName": "NEX",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10876,
+      "modelName": "PALETTE (MK21_)",
+      "modelYearFrom": "2008-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12041,
+      "modelName": "RE 5",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 33978,
+      "modelName": "RENO Хетчбек",
+      "modelYearFrom": "2004-09-01",
+      "modelYearTo": "2008-12-01"
+    },
+    {
+      "modelId": 12635,
+      "modelName": "RF",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12636,
+      "modelName": "RG",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12637,
+      "modelName": "RGV",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40678,
+      "modelName": "RM",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36683,
+      "modelName": "RM-Z",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14456,
+      "modelName": "RMX",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13429,
+      "modelName": "RV",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42605,
+      "modelName": "S-CROSS",
+      "modelYearFrom": "2022-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40679,
+      "modelName": "S-PRESSO",
+      "modelYearFrom": "2019-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39926,
+      "modelName": "SAMURAI",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38283,
+      "modelName": "SAMURAI Відкритий позашляховик (SJ_)",
+      "modelYearFrom": "1988-04-01",
+      "modelYearTo": "2004-12-01"
+    },
+    {
+      "modelId": 1241,
+      "modelName": "SAMURAI Закритий позашляховик (SJ_)",
+      "modelYearFrom": "1984-09-01",
+      "modelYearTo": "2004-12-01"
+    },
+    {
+      "modelId": 38409,
+      "modelName": "SC100 Купе",
+      "modelYearFrom": "1979-08-01",
+      "modelYearTo": "1982-09-01"
+    },
+    {
+      "modelId": 14897,
+      "modelName": "SC100 Хетчбек",
+      "modelYearFrom": "1977-03-01",
+      "modelYearTo": "1982-12-01"
+    },
+    {
+      "modelId": 39928,
+      "modelName": "SHAOLIN",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39929,
+      "modelName": "SHOGUN",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8871,
+      "modelName": "SIERRA II Відкритий позашляховик (SJ)",
+      "modelYearFrom": "1988-12-01",
+      "modelYearTo": "2000-02-01"
+    },
+    {
+      "modelId": 8800,
+      "modelName": "SIERRA Відкритий позашляховик (SJ)",
+      "modelYearFrom": "1984-09-01",
+      "modelYearTo": "1999-07-01"
+    },
+    {
+      "modelId": 8801,
+      "modelName": "SIERRA Відкритий позашляховик (SJ)",
+      "modelYearFrom": "1981-09-01",
+      "modelYearTo": "1990-03-01"
+    },
+    {
+      "modelId": 12638,
+      "modelName": "SIXTEEN",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3574,
+      "modelName": "SJ410",
+      "modelYearFrom": "1979-09-01",
+      "modelYearTo": "1991-07-01"
+    },
+    {
+      "modelId": 1238,
+      "modelName": "SJ410 Cabrio (OS)",
+      "modelYearFrom": "1981-09-01",
+      "modelYearTo": "1991-07-01"
+    },
+    {
+      "modelId": 1242,
+      "modelName": "SJ413 (OS)",
+      "modelYearFrom": "1984-09-01",
+      "modelYearTo": "1991-03-01"
+    },
+    {
+      "modelId": 38531,
+      "modelName": "SJ413 Відкритий позашляховик (OS)",
+      "modelYearFrom": "1983-08-01",
+      "modelYearTo": "1988-08-01"
+    },
+    {
+      "modelId": 41300,
+      "modelName": "SKYDRIVE",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41301,
+      "modelName": "SKYWAVE",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36757,
+      "modelName": "SLINGSHOT",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14942,
+      "modelName": "SOLIO (MA_)",
+      "modelYearFrom": "2015-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10877,
+      "modelName": "SOLIO (MA15_)",
+      "modelYearFrom": "2010-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37306,
+      "modelName": "SOLIO (MA34_)",
+      "modelYearFrom": "2000-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13288,
+      "modelName": "SPACIA (MK)",
+      "modelYearFrom": "2013-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38511,
+      "modelName": "SPACIA (MK)",
+      "modelYearFrom": "2017-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41302,
+      "modelName": "SPIN",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7527,
+      "modelName": "SPLASH (EX)",
+      "modelYearFrom": "2008-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12639,
+      "modelName": "SR",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1243,
+      "modelName": "SUPER CARRY Автобус (ED)",
+      "modelYearFrom": "1985-07-01",
+      "modelYearTo": "1999-03-01"
+    },
+    {
+      "modelId": 37106,
+      "modelName": "SUPER CARRY Фургон (ED)",
+      "modelYearFrom": "1985-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39930,
+      "modelName": "SUPRA",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12640,
+      "modelName": "SV",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41745,
+      "modelName": "SWACE (AMZ_)",
+      "modelYearFrom": "2020-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3973,
+      "modelName": "SWIFT I (AA)",
+      "modelYearFrom": "1983-10-01",
+      "modelYearTo": "1989-12-01"
+    },
+    {
+      "modelId": 1239,
+      "modelName": "SWIFT II Ліфтбек (AH, AJ)",
+      "modelYearFrom": "1989-03-01",
+      "modelYearTo": "2001-05-01"
+    },
+    {
+      "modelId": 1232,
+      "modelName": "SWIFT II Хетчбек (EA, MA)",
+      "modelYearFrom": "1989-03-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 5474,
+      "modelName": "SWIFT III (MZ, EZ)",
+      "modelYearFrom": "2005-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8994,
+      "modelName": "SWIFT IV (FZ, NZ)",
+      "modelYearFrom": "2010-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37855,
+      "modelName": "SWIFT V (AZ)",
+      "modelYearFrom": "2017-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1240,
+      "modelName": "SWIFT Кабріолет (SF413)",
+      "modelYearFrom": "1991-09-01",
+      "modelYearTo": "1996-10-01"
+    },
+    {
+      "modelId": 34716,
+      "modelName": "SWIFT+ Хетчбек",
+      "modelYearFrom": "2003-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 36761,
+      "modelName": "SWISH",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5566,
+      "modelName": "SX4 / SX4 CLASSIC (EY, GY)",
+      "modelYearFrom": "2006-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11477,
+      "modelName": "SX4 S-CROSS (JY)",
+      "modelYearFrom": "2013-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8005,
+      "modelName": "SX4 Ліфтбек (GY, RW)",
+      "modelYearFrom": "2007-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14449,
+      "modelName": "T",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12641,
+      "modelName": "TL",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12642,
+      "modelName": "TR",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12643,
+      "modelName": "TS",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12644,
+      "modelName": "TU",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10489,
+      "modelName": "TWIN",
+      "modelYearFrom": "2003-01-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 12645,
+      "modelName": "UC",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12646,
+      "modelName": "UE",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12647,
+      "modelName": "UF",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12648,
+      "modelName": "UH",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12649,
+      "modelName": "UX",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39931,
+      "modelName": "V-STROM",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12650,
+      "modelName": "VANVAN",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 33990,
+      "modelName": "VERONA Ліфтбек",
+      "modelYearFrom": "2003-09-01",
+      "modelYearTo": "2006-12-01"
+    },
+    {
+      "modelId": 1237,
+      "modelName": "VITARA (ET, TA, TD)",
+      "modelYearFrom": "1988-07-01",
+      "modelYearTo": "2002-12-01"
+    },
+    {
+      "modelId": 10222,
+      "modelName": "VITARA (ET)",
+      "modelYearFrom": "2003-12-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 13638,
+      "modelName": "VITARA (LY)",
+      "modelYearFrom": "2015-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42852,
+      "modelName": "VITARA BREZZA (YF)",
+      "modelYearFrom": "2021-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1880,
+      "modelName": "VITARA Cabrio (ET, TA)",
+      "modelYearFrom": "1988-07-01",
+      "modelYearTo": "2002-10-01"
+    },
+    {
+      "modelId": 10223,
+      "modelName": "VITARA Cabrio (ET)",
+      "modelYearFrom": "2002-01-01",
+      "modelYearTo": "2005-12-01"
+    },
+    {
+      "modelId": 12651,
+      "modelName": "VL",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12652,
+      "modelName": "VS",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12653,
+      "modelName": "VX",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12654,
+      "modelName": "VZ",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7507,
+      "modelName": "WAGON R (CT, CV)",
+      "modelYearFrom": "1992-06-01",
+      "modelYearTo": "1997-06-01"
+    },
+    {
+      "modelId": 37284,
+      "modelName": "WAGON R (MC_)",
+      "modelYearFrom": "1997-07-01",
+      "modelYearTo": "2003-06-01"
+    },
+    {
+      "modelId": 37155,
+      "modelName": "WAGON R (MH23)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2012-08-01"
+    },
+    {
+      "modelId": 14095,
+      "modelName": "WAGON R (MH34S, MH44S)",
+      "modelYearFrom": "2012-09-01",
+      "modelYearTo": "2017-01-01"
+    },
+    {
+      "modelId": 38464,
+      "modelName": "WAGON R (MH35S, MH55S)",
+      "modelYearFrom": "2017-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7512,
+      "modelName": "WAGON R Хетчбек",
+      "modelYearFrom": "2002-03-01",
+      "modelYearTo": "2012-12-01"
+    },
+    {
+      "modelId": 3403,
+      "modelName": "WAGON R+ Хетчбек (EM)",
+      "modelYearFrom": "1997-10-01",
+      "modelYearTo": "2000-10-01"
+    },
+    {
+      "modelId": 4666,
+      "modelName": "WAGON R+ Хетчбек (MM)",
+      "modelYearFrom": "2000-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1481,
+      "modelName": "X-90 (EL)",
+      "modelYearFrom": "1995-09-01",
+      "modelYearTo": "1997-12-01"
+    },
+    {
+      "modelId": 39313,
+      "modelName": "XBEE (MN71_)",
+      "modelYearFrom": "2017-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12655,
+      "modelName": "XF",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40439,
+      "modelName": "XL7",
+      "modelYearFrom": "2019-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14543,
+      "modelName": "XL7 (DA, DB)",
+      "modelYearFrom": "2006-09-01",
+      "modelYearTo": "2009-12-01"
+    },
+    {
+      "modelId": 14068,
+      "modelName": "YES",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36758,
+      "modelName": "ZEUS",
+      "modelYearFrom": null,
+      "modelYearTo": null
+    }
+  ]
+}

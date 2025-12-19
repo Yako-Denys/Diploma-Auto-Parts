@@ -1,0 +1,1205 @@
+{
+  "countModels": 200,
+  "models": [
+    {
+      "modelId": 4071,
+      "modelName": "10 (119_)",
+      "modelYearFrom": "1966-05-01",
+      "modelYearTo": "1972-10-01"
+    },
+    {
+      "modelId": 466,
+      "modelName": "11 (B/C37_)",
+      "modelYearFrom": "1983-03-01",
+      "modelYearTo": "1995-09-01"
+    },
+    {
+      "modelId": 4205,
+      "modelName": "11 Фургон/хетчбек (S37_)",
+      "modelYearFrom": "1983-03-01",
+      "modelYearTo": "1989-07-01"
+    },
+    {
+      "modelId": 471,
+      "modelName": "12",
+      "modelYearFrom": "1969-10-01",
+      "modelYearTo": "1984-12-01"
+    },
+    {
+      "modelId": 37041,
+      "modelName": "12",
+      "modelYearFrom": "1983-04-01",
+      "modelYearTo": "1995-06-01"
+    },
+    {
+      "modelId": 37070,
+      "modelName": "12 TOROS Ліфтбек",
+      "modelYearFrom": "1989-04-01",
+      "modelYearTo": "2000-10-01"
+    },
+    {
+      "modelId": 37071,
+      "modelName": "12 TOROS Універсал",
+      "modelYearFrom": "1989-04-01",
+      "modelYearTo": "2000-10-01"
+    },
+    {
+      "modelId": 3451,
+      "modelName": "12 Variable (117_)",
+      "modelYearFrom": "1970-08-01",
+      "modelYearTo": "1983-12-01"
+    },
+    {
+      "modelId": 37042,
+      "modelName": "12 Універсал",
+      "modelYearFrom": "1983-04-01",
+      "modelYearTo": "1995-06-01"
+    },
+    {
+      "modelId": 4221,
+      "modelName": "12 Фургон/універсал",
+      "modelYearFrom": "1975-07-01",
+      "modelYearTo": "1983-02-01"
+    },
+    {
+      "modelId": 479,
+      "modelName": "14 (121_)",
+      "modelYearFrom": "1976-05-01",
+      "modelYearTo": "1983-12-01"
+    },
+    {
+      "modelId": 4072,
+      "modelName": "15 (130_)",
+      "modelYearFrom": "1971-09-01",
+      "modelYearTo": "1980-10-01"
+    },
+    {
+      "modelId": 484,
+      "modelName": "16 (115_)",
+      "modelYearFrom": "1965-09-01",
+      "modelYearTo": "1980-08-01"
+    },
+    {
+      "modelId": 4073,
+      "modelName": "17",
+      "modelYearFrom": "1972-03-01",
+      "modelYearTo": "1980-10-01"
+    },
+    {
+      "modelId": 489,
+      "modelName": "18 (134_)",
+      "modelYearFrom": "1978-04-01",
+      "modelYearTo": "1994-11-01"
+    },
+    {
+      "modelId": 494,
+      "modelName": "18 Variable (135_)",
+      "modelYearFrom": "1979-02-01",
+      "modelYearTo": "1994-11-01"
+    },
+    {
+      "modelId": 4206,
+      "modelName": "18 Фургон/універсал",
+      "modelYearFrom": "1979-05-01",
+      "modelYearTo": "1986-07-01"
+    },
+    {
+      "modelId": 501,
+      "modelName": "19 I (B/C53_)",
+      "modelYearFrom": "1988-01-01",
+      "modelYearTo": "1994-09-01"
+    },
+    {
+      "modelId": 4202,
+      "modelName": "19 I Cabriolet (D53_)",
+      "modelYearFrom": "1991-07-01",
+      "modelYearTo": "1992-04-01"
+    },
+    {
+      "modelId": 506,
+      "modelName": "19 I Chamade (L53_)",
+      "modelYearFrom": "1988-01-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 4214,
+      "modelName": "19 I Фургон/хетчбек (S53_)",
+      "modelYearFrom": "1988-01-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 511,
+      "modelName": "19 II (B/C53_)",
+      "modelYearFrom": "1991-01-01",
+      "modelYearTo": "2001-06-01"
+    },
+    {
+      "modelId": 498,
+      "modelName": "19 II Cabriolet (D53_, 853_)",
+      "modelYearFrom": "1992-04-01",
+      "modelYearTo": "2001-06-01"
+    },
+    {
+      "modelId": 515,
+      "modelName": "19 II Chamade (L53_)",
+      "modelYearFrom": "1992-04-01",
+      "modelYearTo": "2003-08-01"
+    },
+    {
+      "modelId": 4215,
+      "modelName": "19 II Фургон/хетчбек (S53_)",
+      "modelYearFrom": "1992-03-01",
+      "modelYearTo": "1995-12-01"
+    },
+    {
+      "modelId": 519,
+      "modelName": "20 (127_)",
+      "modelYearFrom": "1975-10-01",
+      "modelYearTo": "1983-12-01"
+    },
+    {
+      "modelId": 3450,
+      "modelName": "21 (B48_)",
+      "modelYearFrom": "1989-07-01",
+      "modelYearTo": "1994-06-01"
+    },
+    {
+      "modelId": 528,
+      "modelName": "21 Ліфтбек (L48_)",
+      "modelYearFrom": "1986-03-01",
+      "modelYearTo": "1997-07-01"
+    },
+    {
+      "modelId": 533,
+      "modelName": "21 Універсал (K48_)",
+      "modelYearFrom": "1986-03-01",
+      "modelYearTo": "1997-07-01"
+    },
+    {
+      "modelId": 4216,
+      "modelName": "21 Фургон/універсал (S48_)",
+      "modelYearFrom": "1986-06-01",
+      "modelYearTo": "1995-04-01"
+    },
+    {
+      "modelId": 537,
+      "modelName": "25 (B29_)",
+      "modelYearFrom": "1984-04-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 542,
+      "modelName": "30 (127_)",
+      "modelYearFrom": "1975-02-01",
+      "modelYearTo": "1986-03-01"
+    },
+    {
+      "modelId": 547,
+      "modelName": "4 (112_)",
+      "modelYearFrom": "1962-04-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 551,
+      "modelName": "4 Фургон/мінівен (R21_, R23_)",
+      "modelYearFrom": "1966-09-01",
+      "modelYearTo": "1993-12-01"
+    },
+    {
+      "modelId": 556,
+      "modelName": "5 (122_)",
+      "modelYearFrom": "1972-01-01",
+      "modelYearTo": "1985-12-01"
+    },
+    {
+      "modelId": 4217,
+      "modelName": "5 Фургон/хетчбек (238_)",
+      "modelYearFrom": "1972-01-01",
+      "modelYearTo": "1985-12-01"
+    },
+    {
+      "modelId": 2028,
+      "modelName": "6 (118_)",
+      "modelYearFrom": "1969-10-01",
+      "modelYearTo": "1987-04-01"
+    },
+    {
+      "modelId": 8264,
+      "modelName": "7 (124_)",
+      "modelYearFrom": "1975-03-01",
+      "modelYearTo": "1982-12-01"
+    },
+    {
+      "modelId": 4070,
+      "modelName": "8 (113_)",
+      "modelYearFrom": "1962-11-01",
+      "modelYearTo": "1976-12-01"
+    },
+    {
+      "modelId": 565,
+      "modelName": "9 (L42_)",
+      "modelYearFrom": "1981-09-01",
+      "modelYearTo": "1997-02-01"
+    },
+    {
+      "modelId": 38239,
+      "modelName": "ALASKAN",
+      "modelYearFrom": "2016-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 33686,
+      "modelName": "ALLIANCE Кабріолет",
+      "modelYearFrom": "1984-09-01",
+      "modelYearTo": "1987-12-01"
+    },
+    {
+      "modelId": 36896,
+      "modelName": "ALLIANCE Ліфтбек",
+      "modelYearFrom": "1983-09-01",
+      "modelYearTo": "1986-12-01"
+    },
+    {
+      "modelId": 33687,
+      "modelName": "ALLIANCE Хетчбек",
+      "modelYearFrom": "1986-09-01",
+      "modelYearTo": "1987-12-01"
+    },
+    {
+      "modelId": 39884,
+      "modelName": "ARKANA I (LCM_, LDN_)",
+      "modelYearFrom": "2019-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 43064,
+      "modelName": "AUSTRAL",
+      "modelYearFrom": "2022-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4817,
+      "modelName": "AVANTIME (DE0_)",
+      "modelYearFrom": "2001-09-01",
+      "modelYearTo": "2003-05-01"
+    },
+    {
+      "modelId": 11232,
+      "modelName": "CAPTUR I (J5_, H5_)",
+      "modelYearFrom": "2013-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40399,
+      "modelName": "CAPTUR II (HF_)",
+      "modelYearFrom": "2020-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 21,
+      "modelName": "CLIO I (B/C57_, 5/357_)",
+      "modelYearFrom": "1990-05-01",
+      "modelYearTo": "1999-08-01"
+    },
+    {
+      "modelId": 4218,
+      "modelName": "CLIO I Фургон/хетчбек (S57_)",
+      "modelYearFrom": "1991-01-01",
+      "modelYearTo": "1998-09-01"
+    },
+    {
+      "modelId": 3508,
+      "modelName": "CLIO II (BB_, CB_)",
+      "modelYearFrom": "1998-03-01",
+      "modelYearTo": "2016-12-01"
+    },
+    {
+      "modelId": 4790,
+      "modelName": "CLIO II Фургон/хетчбек (SB0/1/2_)",
+      "modelYearFrom": "1998-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5462,
+      "modelName": "CLIO III (BR0/1, CR0/1)",
+      "modelYearFrom": "2005-01-01",
+      "modelYearTo": "2014-12-01"
+    },
+    {
+      "modelId": 6446,
+      "modelName": "CLIO III Grandtour (KR0/1_)",
+      "modelYearFrom": "2007-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11387,
+      "modelName": "CLIO III Фургон/хетчбек (SB_, SR_)",
+      "modelYearFrom": "2005-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10852,
+      "modelName": "CLIO IV (BH_)",
+      "modelYearFrom": "2012-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10870,
+      "modelName": "CLIO IV Grandtour (KH_)",
+      "modelYearFrom": "2012-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41293,
+      "modelName": "CLIO IV Фургон/універсал (KH_)",
+      "modelYearFrom": "2013-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37429,
+      "modelName": "CLIO IV Фургон/хетчбек (BH_)",
+      "modelYearFrom": "2014-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40028,
+      "modelName": "CLIO V (B7_)",
+      "modelYearFrom": "2019-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13521,
+      "modelName": "DAUPHINE",
+      "modelYearFrom": "1956-03-01",
+      "modelYearTo": "1967-03-01"
+    },
+    {
+      "modelId": 37349,
+      "modelName": "DOKKER",
+      "modelYearFrom": "2013-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38734,
+      "modelName": "DUSTER (HM_)",
+      "modelYearFrom": "2017-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10319,
+      "modelName": "DUSTER (HS_)",
+      "modelYearFrom": "2011-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 381,
+      "modelName": "ESPACE I (J11_)",
+      "modelYearFrom": "1984-07-01",
+      "modelYearTo": "1992-12-01"
+    },
+    {
+      "modelId": 384,
+      "modelName": "ESPACE II (J/S63_)",
+      "modelYearFrom": "1991-01-01",
+      "modelYearTo": "1997-10-01"
+    },
+    {
+      "modelId": 41724,
+      "modelName": "ESPACE II VAN (J/S63_)",
+      "modelYearFrom": "1991-01-01",
+      "modelYearTo": "1997-10-01"
+    },
+    {
+      "modelId": 1896,
+      "modelName": "ESPACE III (JE0_)",
+      "modelYearFrom": "1996-11-01",
+      "modelYearTo": "2002-10-01"
+    },
+    {
+      "modelId": 4932,
+      "modelName": "ESPACE IV (JK0/1_)",
+      "modelYearFrom": "2002-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13882,
+      "modelName": "ESPACE V (JR_)",
+      "modelYearFrom": "2015-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3894,
+      "modelName": "ESTAFETTE (213_)",
+      "modelYearFrom": "1962-02-01",
+      "modelYearTo": "1981-12-01"
+    },
+    {
+      "modelId": 10897,
+      "modelName": "EXPRESS Пікап",
+      "modelYearFrom": "1995-07-01",
+      "modelYearTo": "1999-10-01"
+    },
+    {
+      "modelId": 42367,
+      "modelName": "EXPRESS Фургон/мінівен",
+      "modelYearFrom": "2021-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37055,
+      "modelName": "EXPRESS Фургон/мінівен",
+      "modelYearFrom": "1995-07-01",
+      "modelYearTo": "1998-03-01"
+    },
+    {
+      "modelId": 8179,
+      "modelName": "FLUENCE (L3_)",
+      "modelYearFrom": "2010-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 439,
+      "modelName": "FUEGO (136_)",
+      "modelYearFrom": "1980-02-01",
+      "modelYearTo": "1992-11-01"
+    },
+    {
+      "modelId": 5133,
+      "modelName": "GRAND SCÉNIC II (JM0/1_)",
+      "modelYearFrom": "2004-04-01",
+      "modelYearTo": "2009-06-01"
+    },
+    {
+      "modelId": 8148,
+      "modelName": "GRAND SCÉNIC III (JZ0/1_)",
+      "modelYearFrom": "2009-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36986,
+      "modelName": "GRAND SCÉNIC IV (R9_)",
+      "modelYearFrom": "2016-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13881,
+      "modelName": "KADJAR (HA_, HL_)",
+      "modelYearFrom": "2015-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41909,
+      "modelName": "KANGOO",
+      "modelYearFrom": "2017-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3404,
+      "modelName": "KANGOO (KC0/1_)",
+      "modelYearFrom": "1997-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6447,
+      "modelName": "KANGOO / GRAND KANGOO II (KW0/1_)",
+      "modelYearFrom": "2008-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7865,
+      "modelName": "KANGOO BE BOP (KW0/1_)",
+      "modelYearFrom": "2009-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42369,
+      "modelName": "KANGOO III RAPID",
+      "modelYearFrom": "2021-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42368,
+      "modelName": "KANGOO III Мінівен",
+      "modelYearFrom": "2021-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3520,
+      "modelName": "KANGOO Rapid (FC0/1_)",
+      "modelYearFrom": "1997-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6453,
+      "modelName": "KANGOO Rapid (FW0/1_)",
+      "modelYearFrom": "2008-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38347,
+      "modelName": "KAPTUR (H5_)",
+      "modelYearFrom": "2016-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42416,
+      "modelName": "KIGER Джип (HBC)",
+      "modelYearFrom": "2021-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6735,
+      "modelName": "KOLEOS I (HY_)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37895,
+      "modelName": "KOLEOS II (HC_)",
+      "modelYearFrom": "2016-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36748,
+      "modelName": "KWID (BW_, BE_, B6_)",
+      "modelYearFrom": "2015-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 157,
+      "modelName": "LAGUNA I (B56_, 556_)",
+      "modelYearFrom": "1993-11-01",
+      "modelYearTo": "2002-08-01"
+    },
+    {
+      "modelId": 1478,
+      "modelName": "LAGUNA I Grandtour (K56_)",
+      "modelYearFrom": "1995-09-01",
+      "modelYearTo": "2002-08-01"
+    },
+    {
+      "modelId": 4723,
+      "modelName": "LAGUNA II (BG0/1_)",
+      "modelYearFrom": "2001-03-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 4724,
+      "modelName": "LAGUNA II Grandtour (KG0/1_)",
+      "modelYearFrom": "2001-03-01",
+      "modelYearTo": "2007-12-01"
+    },
+    {
+      "modelId": 6430,
+      "modelName": "LAGUNA III (BT0/1)",
+      "modelYearFrom": "2007-10-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 6431,
+      "modelName": "LAGUNA III Grandtour (KT0/1)",
+      "modelYearFrom": "2007-10-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 7528,
+      "modelName": "LAGUNA Купе (DT0/1)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": "2015-12-01"
+    },
+    {
+      "modelId": 8925,
+      "modelName": "LATITUDE (L70_)",
+      "modelYearFrom": "2010-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14451,
+      "modelName": "LODGY (JS_)",
+      "modelYearFrom": "2013-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11248,
+      "modelName": "LOGAN EXPRESS (US_)",
+      "modelYearFrom": "2007-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 6734,
+      "modelName": "LOGAN I (LS_)",
+      "modelYearFrom": "2004-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7364,
+      "modelName": "LOGAN I Універсал (KS_)",
+      "modelYearFrom": "2007-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13776,
+      "modelName": "LOGAN II Універсал (K8_)",
+      "modelYearFrom": "2013-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38942,
+      "modelName": "LOGAN Пікап (US_)",
+      "modelYearFrom": "2008-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13775,
+      "modelName": "LOGAN/STEPWAY II (L8_)",
+      "modelYearFrom": "2012-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39162,
+      "modelName": "MASCOTT Платформа/шасі (UH_, HH_)",
+      "modelYearFrom": "1999-01-01",
+      "modelYearTo": "2005-06-01"
+    },
+    {
+      "modelId": 39160,
+      "modelName": "MASCOTT Фургон (FH_)",
+      "modelYearFrom": "1999-01-01",
+      "modelYearTo": "2004-06-01"
+    },
+    {
+      "modelId": 4468,
+      "modelName": "MASTER I Автобус (T__)",
+      "modelYearFrom": "1980-08-01",
+      "modelYearTo": "1998-07-01"
+    },
+    {
+      "modelId": 4464,
+      "modelName": "MASTER I Платформа/шасі (P__)",
+      "modelYearFrom": "1980-07-01",
+      "modelYearTo": "1998-07-01"
+    },
+    {
+      "modelId": 1018,
+      "modelName": "MASTER I Фургон (T__)",
+      "modelYearFrom": "1980-07-01",
+      "modelYearTo": "1998-07-01"
+    },
+    {
+      "modelId": 3952,
+      "modelName": "MASTER II Автобус (JD)",
+      "modelYearFrom": "1998-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3902,
+      "modelName": "MASTER II Платформа/шасі (ED/HD/UD)",
+      "modelYearFrom": "1998-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3901,
+      "modelName": "MASTER II Фургон (FD)",
+      "modelYearFrom": "1998-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9698,
+      "modelName": "MASTER III Автобус (JV)",
+      "modelYearFrom": "2011-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8750,
+      "modelName": "MASTER III Платформа/шасі (EV, HV, UV)",
+      "modelYearFrom": "2010-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8602,
+      "modelName": "MASTER III Фургон (FV)",
+      "modelYearFrom": "2010-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40173,
+      "modelName": "MASTER PRO Платформа/шасі (HH__, UH__)",
+      "modelYearFrom": "2005-06-01",
+      "modelYearTo": "2010-04-01"
+    },
+    {
+      "modelId": 40172,
+      "modelName": "MASTER PRO Фургон (FH__)",
+      "modelYearFrom": "2004-05-01",
+      "modelYearTo": "2010-04-01"
+    },
+    {
+      "modelId": 8578,
+      "modelName": "MEGANE CC (EZ0/1_)",
+      "modelYearFrom": "2010-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 42636,
+      "modelName": "MEGANE E-TECH Джип",
+      "modelYearFrom": "2021-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1479,
+      "modelName": "MEGANE I (BA0/1_)",
+      "modelYearFrom": "1995-08-01",
+      "modelYearTo": "2004-12-01"
+    },
+    {
+      "modelId": 1902,
+      "modelName": "MEGANE I Cabriolet (EA0/1_)",
+      "modelYearFrom": "1996-10-01",
+      "modelYearTo": "2003-08-01"
+    },
+    {
+      "modelId": 1561,
+      "modelName": "MEGANE I Classic (LA0/1_)",
+      "modelYearFrom": "1996-09-01",
+      "modelYearTo": "2008-08-01"
+    },
+    {
+      "modelId": 1488,
+      "modelName": "MEGANE I Coach (DA0/1_)",
+      "modelYearFrom": "1996-03-01",
+      "modelYearTo": "2003-08-01"
+    },
+    {
+      "modelId": 4084,
+      "modelName": "MEGANE I Grandtour (KA0/1_)",
+      "modelYearFrom": "1999-03-01",
+      "modelYearTo": "2003-08-01"
+    },
+    {
+      "modelId": 38856,
+      "modelName": "MEGANE I Hatchback Van (SA0/1_)",
+      "modelYearFrom": "1995-08-01",
+      "modelYearTo": "2003-07-01"
+    },
+    {
+      "modelId": 40188,
+      "modelName": "Megane I Kombi van (KA_)",
+      "modelYearFrom": "2000-02-01",
+      "modelYearTo": "2003-07-01"
+    },
+    {
+      "modelId": 4940,
+      "modelName": "MEGANE II (BM0/1_, CM0/1_)",
+      "modelYearFrom": "2001-07-01",
+      "modelYearTo": "2012-10-01"
+    },
+    {
+      "modelId": 5071,
+      "modelName": "MEGANE II Coupé-Cabriolet (EM0/1_)",
+      "modelYearFrom": "2003-09-01",
+      "modelYearTo": "2010-03-01"
+    },
+    {
+      "modelId": 5073,
+      "modelName": "MEGANE II Grandtour (KM0/1_)",
+      "modelYearFrom": "2003-08-01",
+      "modelYearTo": "2012-08-01"
+    },
+    {
+      "modelId": 38410,
+      "modelName": "MEGANE II Hatchback Van (KM0/2_)",
+      "modelYearFrom": "2003-08-01",
+      "modelYearTo": "2009-07-01"
+    },
+    {
+      "modelId": 5072,
+      "modelName": "MEGANE II Ліфтбек (LM0/1_)",
+      "modelYearFrom": "2003-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38244,
+      "modelName": "MEGANE II Фургон/універсал (KM_)",
+      "modelYearFrom": "2003-08-01",
+      "modelYearTo": "2009-07-01"
+    },
+    {
+      "modelId": 39140,
+      "modelName": "MEGANE III Combi Van (KZ0/1)",
+      "modelYearFrom": "2009-01-01",
+      "modelYearTo": "2015-08-01"
+    },
+    {
+      "modelId": 8145,
+      "modelName": "MEGANE III Grandtour (KZ0/1)",
+      "modelYearFrom": "2008-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39267,
+      "modelName": "MEGANE III Hatchback Van (BZ_)",
+      "modelYearFrom": "2008-11-01",
+      "modelYearTo": "2015-08-01"
+    },
+    {
+      "modelId": 7867,
+      "modelName": "MEGANE III Купе (DZ0/1_)",
+      "modelYearFrom": "2008-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 7866,
+      "modelName": "MEGANE III Хетчбек (BZ0/1_, B3_)",
+      "modelYearFrom": "2008-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36675,
+      "modelName": "MEGANE IV Grandtour (K9A/M/N_)",
+      "modelYearFrom": "2016-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 38201,
+      "modelName": "MEGANE IV Ліфтбек",
+      "modelYearFrom": "2016-10-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14908,
+      "modelName": "MEGANE IV Хетчбек (B9A/M/N_)",
+      "modelYearFrom": "2015-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 1562,
+      "modelName": "MEGANE Scenic (JA0/1_)",
+      "modelYearFrom": "1996-10-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 41723,
+      "modelName": "MEGANE Scenic VAN (JA0/1_)",
+      "modelYearFrom": "1996-10-01",
+      "modelYearTo": "2001-12-01"
+    },
+    {
+      "modelId": 5213,
+      "modelName": "MODUS / GRAND MODUS (F/JP0_)",
+      "modelYearFrom": "2004-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14234,
+      "modelName": "OROCH",
+      "modelYearFrom": "2015-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10008,
+      "modelName": "PULSE (BDM_)",
+      "modelYearFrom": "2012-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 37418,
+      "modelName": "RAPID",
+      "modelYearFrom": "1994-09-01",
+      "modelYearTo": "1998-03-01"
+    },
+    {
+      "modelId": 17,
+      "modelName": "RAPID Фургон/мінівен (F40_, G40_)",
+      "modelYearFrom": "1985-07-01",
+      "modelYearTo": "2001-11-01"
+    },
+    {
+      "modelId": 4226,
+      "modelName": "RODEO 4 (ACL_)",
+      "modelYearFrom": "1971-08-01",
+      "modelYearTo": "1981-11-01"
+    },
+    {
+      "modelId": 4225,
+      "modelName": "RODEO 5 (4D_, 5E_)",
+      "modelYearFrom": "1981-07-01",
+      "modelYearTo": "1987-12-01"
+    },
+    {
+      "modelId": 4224,
+      "modelName": "RODEO 6 (ACL_)",
+      "modelYearFrom": "1970-05-01",
+      "modelYearTo": "1981-11-01"
+    },
+    {
+      "modelId": 10320,
+      "modelName": "SAFRANE (A3_, L7_)",
+      "modelYearFrom": "2009-01-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 186,
+      "modelName": "SAFRANE I (B54_)",
+      "modelYearFrom": "1992-04-01",
+      "modelYearTo": "1997-10-01"
+    },
+    {
+      "modelId": 3893,
+      "modelName": "SAFRANE II (B54_)",
+      "modelYearFrom": "1996-07-01",
+      "modelYearTo": "2000-12-01"
+    },
+    {
+      "modelId": 7893,
+      "modelName": "SANDERO/STEPWAY I (BS_)",
+      "modelYearFrom": "2007-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13777,
+      "modelName": "SANDERO/STEPWAY II (B8_)",
+      "modelYearFrom": "2013-11-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10318,
+      "modelName": "SCALA (LJM_)",
+      "modelYearFrom": "2010-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41719,
+      "modelName": "SCÉNIC I VAN (FA0_, JA0/1_)",
+      "modelYearFrom": "1999-08-01",
+      "modelYearTo": "2010-07-01"
+    },
+    {
+      "modelId": 4685,
+      "modelName": "SCÉNIC I Мінівен (JA0/1_, FA0_)",
+      "modelYearFrom": "1999-08-01",
+      "modelYearTo": "2010-07-01"
+    },
+    {
+      "modelId": 5020,
+      "modelName": "SCÉNIC II (JM0/1_)",
+      "modelYearFrom": "2003-06-01",
+      "modelYearTo": "2010-07-01"
+    },
+    {
+      "modelId": 8147,
+      "modelName": "SCÉNIC III (JZ0/1_)",
+      "modelYearFrom": "2008-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41720,
+      "modelName": "SCÉNIC III VAN (JZ0/1_)",
+      "modelYearFrom": "2008-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36987,
+      "modelName": "SCÉNIC IV (J9_)",
+      "modelYearFrom": "2016-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 3377,
+      "modelName": "SPORT SPIDER (EF0_)",
+      "modelYearFrom": "1995-03-01",
+      "modelYearTo": "1999-10-01"
+    },
+    {
+      "modelId": 560,
+      "modelName": "SUPER 5 (B/C40_)",
+      "modelYearFrom": "1984-10-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 4219,
+      "modelName": "SUPER 5 Фургон/хетчбек (S40_)",
+      "modelYearFrom": "1984-10-01",
+      "modelYearTo": "1996-12-01"
+    },
+    {
+      "modelId": 42586,
+      "modelName": "TALIANT",
+      "modelYearFrom": "2021-08-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 39442,
+      "modelName": "TALISMAN (L47)",
+      "modelYearFrom": "2012-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 11776,
+      "modelName": "TALISMAN (LP_)",
+      "modelYearFrom": "2015-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 36208,
+      "modelName": "TALISMAN Grandtour (KP_)",
+      "modelYearFrom": "2016-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4875,
+      "modelName": "THALIA I (LB_)",
+      "modelYearFrom": "1998-02-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 9202,
+      "modelName": "THALIA II (LU_)",
+      "modelYearFrom": "2008-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12874,
+      "modelName": "THALIA III (L8_)",
+      "modelYearFrom": "2013-12-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4752,
+      "modelName": "TRAFIC II Автобус (JL)",
+      "modelYearFrom": "2001-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 5559,
+      "modelName": "TRAFIC II Платформа/шасі (EL)",
+      "modelYearFrom": "2001-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4753,
+      "modelName": "TRAFIC II Фургон (FL)",
+      "modelYearFrom": "2001-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 13080,
+      "modelName": "TRAFIC III Автобус (JG_)",
+      "modelYearFrom": "2014-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 14676,
+      "modelName": "TRAFIC III Платформа/шасі (EG_)",
+      "modelYearFrom": "2014-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 12792,
+      "modelName": "TRAFIC III Фургон (FG_)",
+      "modelYearFrom": "2014-05-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 428,
+      "modelName": "TRAFIC Автобус (T5, T6, T7)",
+      "modelYearFrom": "1980-03-01",
+      "modelYearTo": "1989-04-01"
+    },
+    {
+      "modelId": 3981,
+      "modelName": "TRAFIC Автобус (TXW)",
+      "modelYearFrom": "1989-03-01",
+      "modelYearTo": "2001-03-01"
+    },
+    {
+      "modelId": 4447,
+      "modelName": "TRAFIC Платформа/шасі (P6)",
+      "modelYearFrom": "1980-03-01",
+      "modelYearTo": "1989-04-01"
+    },
+    {
+      "modelId": 4446,
+      "modelName": "TRAFIC Платформа/шасі (PXX)",
+      "modelYearFrom": "1989-03-01",
+      "modelYearTo": "2001-03-01"
+    },
+    {
+      "modelId": 1908,
+      "modelName": "TRAFIC Фургон (T1, T3, T4, T2)",
+      "modelYearFrom": "1980-03-01",
+      "modelYearTo": "1989-04-01"
+    },
+    {
+      "modelId": 3501,
+      "modelName": "TRAFIC Фургон (TXX)",
+      "modelYearFrom": "1989-03-01",
+      "modelYearTo": "2002-10-01"
+    },
+    {
+      "modelId": 39887,
+      "modelName": "TRIBER (RBC)",
+      "modelYearFrom": "2019-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 472,
+      "modelName": "TWINGO I (C06_)",
+      "modelYearFrom": "1993-03-01",
+      "modelYearTo": "2012-10-01"
+    },
+    {
+      "modelId": 4227,
+      "modelName": "TWINGO I Фургон/хетчбек (S06_)",
+      "modelYearFrom": "1993-03-01",
+      "modelYearTo": "2012-06-01"
+    },
+    {
+      "modelId": 5611,
+      "modelName": "TWINGO II (CN0_)",
+      "modelYearFrom": "2007-03-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 40190,
+      "modelName": "TWINGO II Фургон/хетчбек (CNO_)",
+      "modelYearFrom": "2010-09-01",
+      "modelYearTo": "2014-09-01"
+    },
+    {
+      "modelId": 13195,
+      "modelName": "TWINGO III (BCM_, BCA_)",
+      "modelYearFrom": "2014-09-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10186,
+      "modelName": "TWIZY (MAM_)",
+      "modelYearFrom": "2012-04-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 4862,
+      "modelName": "VEL SATIS (BJ0_)",
+      "modelYearFrom": "2002-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 8577,
+      "modelName": "WIND (E4M_)",
+      "modelYearFrom": "2010-07-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 10269,
+      "modelName": "ZOE (BFM_)",
+      "modelYearFrom": "2012-06-01",
+      "modelYearTo": null
+    },
+    {
+      "modelId": 41734,
+      "modelName": "ZOE Фургон/хетчбек (BFM_)",
+      "modelYearFrom": "2019-04-01",
+      "modelYearTo": null
+    }
+  ]
+}
