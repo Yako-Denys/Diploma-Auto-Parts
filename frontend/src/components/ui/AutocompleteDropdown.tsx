@@ -89,7 +89,7 @@ const AutocompleteDropdownComponent = (
         <Command className="w-full max-h-[200px] sm:max-h-[270px]">
           <CommandList>
             <div className="sticky top-0 z-10 bg-popover">
-              <CommandInput placeholder="Search country..." />
+              <CommandInput placeholder="Виберіть категорію..." />
             </div>
             <CommandEmpty>Нічого не знайдено.</CommandEmpty>
             <CommandGroup>

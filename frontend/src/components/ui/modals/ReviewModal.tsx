@@ -52,9 +52,9 @@ export function ReviewModal({
 			<DialogTrigger>{children}</DialogTrigger>
 			<DialogContent>
 				<DialogHeader>
-					<DialogTitle>Создание отзыва</DialogTitle>
+					<DialogTitle>Нам важлива ваша думка</DialogTitle>
 					<DialogDescription>
-						Для создания отзыва необходимо указать рейтинг и текст.
+						Для того аби лишити відгук, потрібно вказати рейтинг та написати короткий текст. 
 					</DialogDescription>
 				</DialogHeader>
 				<Form {...form}>
@@ -66,7 +66,7 @@ export function ReviewModal({
 							control={form.control}
 							name='rating'
 							rules={{
-								required: 'Рейтинг обязателен'
+								required: "Рейтинг обов'язковий"
 							}}
 							render={({ field }) => (
 								<FormItem>
@@ -89,7 +89,7 @@ export function ReviewModal({
 							control={form.control}
 							name='text'
 							rules={{
-								required: 'Текст обязателен'
+								required: "Текст обов'язковий"
 							}}
 							render={({ field }) => (
 								<FormItem>
@@ -97,7 +97,7 @@ export function ReviewModal({
 									<FormControl>
 										<Textarea
 											{...field}
-											placeholder='Текст отзыва'
+											placeholder='Текст відгуку'
 											disabled={isLoadingCreate}
 										/>
 									</FormControl>

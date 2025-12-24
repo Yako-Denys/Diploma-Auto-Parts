@@ -7,6 +7,28 @@ import { useCart } from "@/hooks/useCart"
 import { useActions } from "@/hooks/useActions"
 import { useProfile } from "@/hooks/useProfile"
 import { orderService } from "@/services/order.service"
+/* 
+export class OrderDto {
+  status: EnumOrderStatus
+  orderId: string
+  items: OrderItemDto[]
+}
+export class OrderItemDto {
+  quantity: number
+  price: number
+  productId: string
+  storeId: string
+}
+*/
+
+const generateId = (length = 10) => {
+  const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
+  let result = ""
+  for (let i = 0; i < length; i++) {
+    result += chars.charAt(Math.floor(Math.random() * chars.length))
+  }
+  return result
+}
 
 export const useCheckout = () => {
   const { items } = useCart()
@@ -30,7 +52,12 @@ export const useCheckout = () => {
       const totalPrice = items.reduce((acc, cur) => acc + cur.price * cur.quantity, 0)
       const itemsNames = items.map((item) => item.product.title).join("; ")
 
-      return orderService.create({
+      orderService.createDirectly({
+        status: "PAYED",
+        orderId: generateId(),
+        items: cartItems,
+      })
+      return orderService.createWithFondy({
         name: itemsNames,
         price: totalPrice,
         userId: user?.id || "",

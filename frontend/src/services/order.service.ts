@@ -8,9 +8,8 @@ export type PaymentResponse = {
   }
 }
 
-type CreatePayment = {
+type CreateWithFondyPayment = {
   name: string
-
   price: number
   userId: string
   items: {
@@ -20,10 +19,24 @@ type CreatePayment = {
     storeId: string
   }[]
 }
+type CreateDirectlyPayment = {
+  status: string
+  orderId: string
+  items: {
+    price: number
+    quantity: number
+    productId: string
+    storeId: string
+  }[]
+}
 
 class OrderService {
-  async create(data: CreatePayment) {
+  async createWithFondy(data: CreateWithFondyPayment) {
     return axiosWithAuth.post<PaymentResponse>(`${process.env.SERVER_URL}/payment/create`, data)
+  }
+
+  async createDirectly(data: CreateDirectlyPayment) {
+    return axiosWithAuth.post<PaymentResponse>(`${process.env.SERVER_URL}/orders/place`, data)
   }
 }
 

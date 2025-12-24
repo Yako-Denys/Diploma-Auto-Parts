@@ -13,7 +13,15 @@ async function bootstrap() {
     exposedHeaders: "set-cookie",
   })
 
-  await app.listen(5000)
+  const port = process.env.APP_PORT || 5000
+
+  try {
+    await app.listen(port)
+    console.log(`🚀 Server is running at port: ${port}`)
+  } catch (error: any) {
+    console.error(`❌ Failed to start server: ${error.message}`, error)
+    process.exit(1)
+  }
 }
 
 bootstrap()

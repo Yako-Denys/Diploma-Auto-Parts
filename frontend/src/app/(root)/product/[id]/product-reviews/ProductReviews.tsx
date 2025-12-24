@@ -71,7 +71,7 @@ export function ProductReviews({ product }: ProductReviewsProps) {
             </div>
           ))
         ) : (
-          <div className="mt-4">В цього товару немає відгуків</div>
+          <div className="mt-4">Цей товар досі не має відгуків</div>
         )}
       </div>
     </>

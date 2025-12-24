@@ -2,8 +2,8 @@ import type { Metadata } from "next"
 
 import { Catalog } from "@/components/ui/catalog/Catalog"
 
-import { categoryService } from "@/services/category.service"
 import { productService } from "@/services/product.service"
+import { categoryService } from "@/services/category.service"
 
 export const revalidate = 60
 
@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: { params: { id: string } }): 
     openGraph: {
       images: [
         {
-          url: products[0].photo,
+          url: products[0]?.photo,
           width: 1000,
           height: 1000,
           alt: category.title,

@@ -4,19 +4,43 @@ import { PUBLIC_URL } from "./config/url.config"
 import { EnumTokens } from "./services/auth/auth-token.serice"
 
 export async function middleware(request: NextRequest) {
-  const refreshToken = request.cookies.get(EnumTokens.REFRESH_TOKEN)?.value
+  if (request.method === "POST" && request.nextUrl.pathname === "/") {
+    return NextResponse.redirect(new URL("/", request.url), 303)
+  }
 
-  const isAuthPage = request.url.includes(PUBLIC_URL.auth())
+  const pathname = request.nextUrl.pathname
 
-  if (isAuthPage) {
-    if (refreshToken) {
-      return NextResponse.redirect(new URL(PUBLIC_URL.home(), request.url))
-    }
-
+  if (pathname.startsWith("/explorer") || pathname.startsWith("/product") || pathname === "/") {
     return NextResponse.next()
   }
 
-  if (refreshToken === undefined) {
+  const refreshToken = request.cookies.get(EnumTokens.REFRESH_TOKEN)?.value
+  const accessToken = request.cookies.get(EnumTokens.ACCESS_TOKEN)?.value
+
+  if (pathname === PUBLIC_URL.auth()) {
+    const hasRefresh = Boolean(refreshToken) && refreshToken !== "undefined" && refreshToken !== "null"
+    const hasAccess = Boolean(accessToken) && accessToken !== "undefined" && accessToken !== "null"
+
+    if (hasRefresh && hasAccess) {
+      return NextResponse.redirect(new URL(PUBLIC_URL.home(), request.url))
+    }
+
+    const res = NextResponse.next()
+    try {
+      if (request.nextUrl.hostname.includes("localhost")) {
+        res.headers.set("x-debug-refresh-token", String(refreshToken ?? "(none)"))
+        res.headers.set("x-debug-access-token", String(accessToken ?? "(none)"))
+      }
+    } catch (e) {
+      console.log(e)
+    }
+
+    return res
+  }
+
+  const hasRefresh = Boolean(refreshToken) && refreshToken !== "undefined" && refreshToken !== "null"
+  const hasAccess = Boolean(accessToken) && accessToken !== "undefined" && accessToken !== "null"
+  if (!hasRefresh && !hasAccess) {
     return NextResponse.redirect(new URL(PUBLIC_URL.auth(), request.url))
   }
 
@@ -24,5 +48,5 @@ export async function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/dashboard/:path*", "/store/:path*", "/auth"],
+  matcher: ["/dashboard/:path*", "/store/:path*", "/auth", "/"],
 }

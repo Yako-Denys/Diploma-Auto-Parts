@@ -41,7 +41,7 @@ export function Auth() {
           </CardContent>
 
           <CardFooter className="p-0 mt-4 text-sm text-muted-foreground">
-            {isReg ? "Вже є акаунт?" : "Ще немає акаунта?"}
+            {isReg ? "Вже є акаунт?" : "Досі не маєте аккаунта?"}
 
             <button onClick={() => setIsReg(!isReg)} className="ml-1 text-sky-600">
               {isReg ? "Увійти" : "Створити"}

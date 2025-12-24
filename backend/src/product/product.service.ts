@@ -44,6 +44,13 @@ export class ProductService {
       orderBy: { _count: { id: "desc" } },
     })
     const productIds = mostReviewedProducts.map((item) => item.productId)
+
+    const validIds = productIds.filter((id) => !!id)
+
+    if (validIds.length === 0) {
+      return [] // або throw new Error("Немає популярних товарів"), або повернути пустий результат
+    }
+    console.log("Most popular product IDs:", productIds)
     const products = await this.prisma.product.findMany({
       where: { id: { in: productIds } },
     })

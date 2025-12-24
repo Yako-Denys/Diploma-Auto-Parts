@@ -90,13 +90,18 @@ export class PaymentService {
     return false
   }
 
-  async confirmPayment(dto: FondyCallbackResponseDto, userId: string) {
+  async confirmPayment(dto: FondyCallbackResponseDto) {
     try {
       const isCurrentPayment = this.checkSignature(dto)
+
+      let userId = ""
 
       if (dto.order_status === "approved" && isCurrentPayment) {
         const ordersFieldsArray = dto.order_id.split("//").map((el: string) => {
           const substr = el.split("=")
+
+          if (substr[0] === "userId") userId = substr[1]
+
           if (substr[0] === "price") {
             return { [substr[0]]: Number(substr[1]) }
           } else if (substr[0] === "items") {
@@ -119,7 +124,7 @@ export class PaymentService {
 
         const isOrderExist = await this.orderService.checkIsExist(dto.order_id)
 
-        if (!isOrderExist) {
+        if (!isOrderExist && userId) {
           const order = await this.orderService.create(orderData, userId)
           return order
         }

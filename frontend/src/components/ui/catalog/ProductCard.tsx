@@ -30,11 +30,14 @@ export function ProductCard({ product }: ProductCardProps) {
         <FavoriteButton product={product} className="w-[50px] p-0 absolute top-0" />
       </div>
 
-      <h3 className="mt-2 text-lg font-semibold text-blue-500 line-clamp-1">{product.title}</h3>
+      <Link href={PUBLIC_URL.product(product.id)}>
+        <h3 className="mt-2 text-lg font-semibold text-blue-500 line-clamp-1">{product.title}</h3>
+      </Link>
 
       <Link href={PUBLIC_URL.category(product.subcategoryId)} className="mt-1">
-        {product.subcategoryName}
+        <p className="mt-1">{product.subcategoryName}</p>
       </Link>
+      {/* <Link href={PUBLIC_URL.product(product.id)} className="mt-1"></Link> */}
 
       <p className="mt-1 text-sm text-gray-500 line-clamp-2">{product.description}</p>
 

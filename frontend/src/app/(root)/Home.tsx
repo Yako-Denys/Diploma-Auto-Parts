@@ -31,7 +31,7 @@ export function Home({ newest, mostPopular }: HomeProps) {
       <div
         className={cn(
           "text-center flex flex-col items-center h-[calc(100vh-80px)] overflow-hidden",
-          "bg-[url(/images/homepage-bg.png)] bg-no-repeat bg-right bg-contain",
+          "bg-[url(/images/homepage-bg1.png)] bg-no-repeat bg-right bg-contain",
           "flex items-center justify-center",
         )}
       >
