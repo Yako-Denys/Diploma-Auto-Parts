@@ -25,16 +25,21 @@ export function HeaderCart() {
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button variant="ghost">Корзина</Button>
+        <Button variant="ghost">Кошик</Button>
       </SheetTrigger>
       <SheetContent className="h-full flex flex-col">
-        <Heading title="Корзина товаров" className="text-xl" />
+        <Heading title="Кошик" className="text-xl" />
 
         <div className="flex flex-col w-full flex-1">
           {items.length ? (
             items.map((item) => <CartItem item={item} key={item.id} />)
           ) : (
-            <div className="text-sm text-muted-foreground">В корзині пусто!</div>
+            // <div className="text-sm text-muted-foreground">Кошик досі пустий!
+            // <img src="/images/cart_transparent.svg" alt="Banner" width={300} height={300} />
+            // </div>
+            <div className="text-sm text-muted-foreground">Кошик порожній!
+            </div>
+
           )}
         </div>
 

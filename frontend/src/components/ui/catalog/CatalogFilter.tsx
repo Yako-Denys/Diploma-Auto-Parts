@@ -26,7 +26,7 @@ export function CatalogFilter({}: Props) {
         <div className="flex justify-center">
           <TabsList className="py-2 h-auto flex-col md:flex-row w-full">
             <TabsTrigger value="manufactures" className="p-4 md:max-w-[300px] w-full md:w-auto text-left text-base">
-              {selectedManufacture ? `Марка: ${selectedManufacture.brand}` : "Виберіть марку"}
+              {selectedManufacture ? `Марка: ${selectedManufacture.brand}` : "Оберіть марку авто"}
             </TabsTrigger>
 
             <TabsTrigger
@@ -34,7 +34,7 @@ export function CatalogFilter({}: Props) {
               className="p-4 md:max-w-[300px] w-full md:w-auto text-left text-base"
               disabled={!selectedManufacture}
             >
-              {selectedYear ? `Рік: ${selectedYear}` : "Виберіть рік"}
+              {selectedYear ? `Рік: ${selectedYear}` : "Оберіть рік випуску"}
             </TabsTrigger>
 
             <TabsTrigger
@@ -42,7 +42,7 @@ export function CatalogFilter({}: Props) {
               className="p-4 md:max-w-[300px] w-full md:w-auto text-left text-base"
               disabled={!selectedManufacture || !selectedYear}
             >
-              {selectedModel ? `${selectedModel.modelName.replaceAll("_", " ")}` : "Виберіть модель"}
+              {selectedModel ? `${selectedModel.modelName.replaceAll("_", " ")}` : "Оберіть модель"}
             </TabsTrigger>
           </TabsList>
         </div>

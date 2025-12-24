@@ -45,7 +45,7 @@ const Catalog = ({ title, description, linkTitle, link, showFilters, isFiltersEx
           {products.length ? (
             products.map((product) => <ProductCard key={product.id} product={product} />)
           ) : (
-            <div>Нечого не знайдено</div>
+            <div>Нічого не додано в обране</div>
           )}
         </div>
       </div>

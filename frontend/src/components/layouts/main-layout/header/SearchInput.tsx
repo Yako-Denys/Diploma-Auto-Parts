@@ -17,7 +17,7 @@ export function SearchInput() {
     <div className="flex items-center relative">
       <Input
         value={searchTerm}
-        placeholder="Яку запчастину шукаєте?"
+        placeholder="Я шукаю ..."
         onChange={(e) => setSearchTerm(e.target.value)}
         className="rounded-lg rounded-r-none focus-visible:ring-transparent pr-8"
       />

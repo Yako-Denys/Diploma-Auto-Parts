@@ -25,7 +25,7 @@ export function AddToCartButton({ product, isShort }: AddToCartButtonProps) {
           : addToCart({ product, quantity: 1, price: product.price })
       }
     >
-      {currentElement ? "Видалити з корзини" : "Додати до корзини"}
+      {currentElement ? "Видалити з кошика" : "Додати до кошика"}
     </Button>
   )
 }
